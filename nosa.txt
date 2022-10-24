@@ -319,8 +319,7 @@ varragåjkudis
 blodfattig
 varravánes (attr. -vanes)
 blodforgiftning
-varrasielggidus
-varrasielggiduvvam
+varrasielggidus, varrasielggiduvvam
 blodfortynnende medisin
 varranjárbbudimdálkas
 blodgiver
@@ -1410,7 +1409,7 @@ buolvva, buolva
 knehase
 fieŋŋge, fieŋge
 kneledd
- buolvvaladás
+buolvvaladás
 kneskjell, kneskål
 buolvvatjuhttá; buolvvalåhkke
 knoke (i fot- eller handledd)
@@ -1792,7 +1791,6 @@ librresnjárttjá
 menisk
 ladásjierre
 menstruasjon
-
 ájggevarra; ruoppsada (pl); menstruasjåvnnå
 menstruasjon (dvs. menstruasjonsblod)
 liejbbe, liejbe jf. ájggevarra, ruoppsada menstruasjåvnå
@@ -2547,9 +2545,7 @@ guohtsijdit; tjivrijdit
 stiv, støl, lemster
 gasjkos (attr. gasjkos), gassjkusa
 stoffskifte
-
-ábnasmålssom
-alla ábnasmålssom høyt stoffskifte; vuollegis ábnasmålssom lavt stoffskifte
+ábnasmålssom alla ábnasmålssom høyt stoffskifte; vuollegis ábnasmålssom lavt stoffskifte
 stomi
 stomiddja
 stoppe blødning/blod
