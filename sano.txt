@@ -1,15 +1,15 @@
 ﻿Á / A
 
-ábnasmålssom, -målssoma
+ábnasmålssom
 stoffskifte
 alla ábnasmålssom høyt stoffskifte; vuollegis ábnasmålssom lavt stoffskifte
-abstinænnsa, -nensa
+abstinænnsa
 abstinens
 adám, adáma
 (bein)marg
 áhkásjdierrediddje
 konemishandler
-ájggevarra, -vará
+ájggevarra
 menstruasjon jf. ruoppsada, liejbbe, ha ~ læjbbot, menstruasjåvnnå
 ájggevarrabáktjasa
 menstruasjonssmerter
@@ -17,83 +17,83 @@ menstruasjonssmerter
 true jf. nihttet
 ájtto, ájto
 trussel jf. nihtto, nihtodibme
-aktan viesso, -vieso
+aktan viesso
 samliv
 aktijvva (attr. aktijvva), aktijva
 aktiv
-aktisasjdåhpe, -dåbe
+aktisasjdåhpe
 fellesstue
-aktisasjvuohta, -vuoda
+aktisasjvuohta
 fellesskap
 aktu
 alene
 aktugasj (attr. aktugasj), aktugattja
 enslig
-aktuvuohta, -vuoda
+aktuvuohta
 ensomhet
-akupunktuvrra, -tuvra
+akupunktuvrra
 akupunktur
-alkohåvllå, -håvlå
+alkohåvllå
 alkohol
-alkohåvllåvigák, -vigága
+alkohåvllåvigák
 alkoholskadd
-allergiddja, -gidja
+allergiddja
 allergi
-allergiddjadálkas, -dálkkasa
+allergiddjadálkas
 allergimedisin
 allna, alna
 tannkjøtt
-allnavuolssje, -vuolsje
+allnavuolssje
 tannkjøttbetennelse
-álmmukdálkudibme, -dime
+álmmukdálkudibme
 folkemedisin
-álmmukdálkudiddje, -dálkudiddje
+álmmukdálkudiddje
 allmennlege
-álmmukskihpudahka, -dagá
+álmmukskihpudahka
 folkesykdom
-alvos skihpudahka, -dagá
+alvos skihpudahka
 alvorlig sykdom
-alzheimera skihpudahka, -dagá
+alzheimera skihpudahka
 alzheimer
-amalgábma, -gáma
+amalgábma
 amalgam
-ambulánssa, -lánsa
+ambulánssa
 ambulanse
-ambulánssavuoddje, -vuoddje
+ambulánssavuoddje
 ambulansesjåfør
-amfetamijnna, -mijna
+amfetamijnna
 amfetamin
-ampulla, -pulla
+ampulla
 ampull
-amputerim, -terima
+amputerim
 amputasjon
 amputerit, amputeriv
 amputere jf. jallat, oanedit
 anabåvlå steroijda (fl.)
 anabole steroider
-anemiddja, -midja
+anemiddja
 anemi, blodmangel jf. varravádne
-antibiotijkka, -tijka
+antibiotijkka
 antibiotikum
-antihistamijnna, -mijna
+antihistamijnna
 antihistamin
-antioksidánnta, -dánta
+antioksidánnta
 antioksidant
-apotiehkka, -tiehka
+apotiehkka
 apotek jf. apotæhkka, dálkasoases
-apotæhkka, -tehka
+apotæhkka
 apotek jf. apotiehkka, dálkasoases
 árbbe, árbe
 arv
-árbbeskihpudahka, -dagá
+árbbeskihpudahka
 arvelig sykdom
-árravákta, -vávta
+árravákta
 tidligvakt
 arvuk (attr. arvugis), arvuga
 pigg
-asidasj (attr. asidis), -dattja
+asidasj (attr. asidis)
 nervøs
-assistænnta, -stenta
+assistænnta
 assistent
 Assjmak (attr. assjmagis)
 frustrert, irritert
@@ -103,61 +103,61 @@ frustrasjon
 astma
 B
 
-badjebádne, -báne
+badjebádne
 overtann
-badjebavsev, -baksima
+badjebavsev
 overleppe
-badjeoalol, -ållula
+badjeoalol
 overkjeve
-badjeramás, -rabmasa
+badjeramás
 øvre øyelokk
-badjevuobdda, -vuobda
+badjevuobdda
 brystkasse
 bádne, báne
 tann
-bádnedivvom, -divvoma
+bádnedivvom
 tannbehandling
-bádnedåktår, -dåktåra
+bádnedåktår
 tannlege
-bádneregulerim, -lerima
+bádneregulerim
 tannregulering
-bádnesujtár, -sujtára
+bádnesujtár
 tannpleier
-bádnevárkke, -várke
+bádnevárkke
 tannpine
-bádnevarresvuohtaoajvve, -oajve
+bádnevarresvuohtaoajvve
 tannhelsesjef
-bádnevarresvuohtatjálle, -tjálle
+bádnevarresvuohtatjálle
 tannhelsesekretær
 bádur, báhtura
 flyktning
-bahámårak (attr. -måragis), -gisá
+bahámårak (attr. -måragis)
 voldelig
-báhkastahka, -stagá
+báhkastahka
 hetetokt
 báhkka, báhka
 hete
 bahta, badá
 rumpe, bak
-bahtarájgge, -rájge
+bahtarájgge
 endetarmsåpning
-bahtatjoalle, -tjoale
+bahtatjoalle
 endetarm
-bahunibme, -nime
+bahunibme
 komplikasjon
 bahunit
 forverre seg
 bajeldistjuobma –tjuoma
 overhud
-bajep ganjálkanálla, -nála
+bajep ganjálkanálla
 øvre tårekanal
 bajkka, bajka
 avføring
-bájnnotjalmedibme (attr -tjalmedis), -dime
+bájnnotjalmedibme (attr -tjalmedis)
 fargeblind
-bájnnotsuodtsa, -tsuottsa
+bájnnotsuodtsa
 bindehinne (utenpå øyeeplet)
-bakterija, -terija
+bakterija
 bakterie
 báktjális (attr. báktjális), báktjálisá
 smertefull
@@ -167,25 +167,25 @@ ballat, baláv
 frykte, være nærvøs
 ballo, balo
 frykt, redsel, skrekk
-barggijsuodjaliddje, -liddje
+barggijsuodjaliddje
 verneombud
-barggobirás, -birrasa
+barggobirás
 arbeidsmiljø
-barggofámodibme (attr. -fámodis), -dime
+barggofámodibme (attr. -fámodis)
 arbeidsudyktig; arbeidsufør
-barggohárjjididdje, -diddje
+barggohárjjididdje
 arbeidsterapeut jf. barggoterapevtta
-barggoterapievtta, -pievta
+barggoterapievtta
 arbeidsterapeut jf. barggohárjjididdje
-barggoulmusj, -ulmutja
+barggoulmusj
 arbeidsdyktig, arbeidsfør
-bargodibme (attr. -bargodis), -dime
+bargodibme (attr. -bargodis)
 arbeidsledig, arbeidsløs
-basáldahka, -dagá
+basáldahka
 bad
-bassamladnja, -lanjá
+bassamladnja
 vaskerom
-bassamvuojdas, -vuojddasa
+bassamvuojdas
 vaskekrem
 basstet
 hjelpe (mot eller for noe)
@@ -193,31 +193,31 @@ bavsev, baksima
 leppe
 bávtjas, báktjasa
 smerte s.
-bávtjasklinihkka, -nihka
+bávtjasklinihkka
 smerteklinikk
 bávtjestit
 smerte v.; tjuvdde bávtjes
 bedat, bedav
 stikke hull på jf. rájggat
-bekterevaskihpudahka, -dagá
+bekterevaskihpudahka
 bechterevs sykdom
 belkatjit
 krangle
-benadávdda, -dávda
+benadávdda
 hundegalskap
 beraj, berraha
 slektning (nær slektning)
-berulasj, -lattja
+berulasj
 slektning  (fjern slektning)
 biebbmat, biebmav
 mate
-biebbmoduodde, -duotte
+biebbmoduodde
 kosttilskudd
-biebbmosuddadibme, -dime
+biebbmosuddadibme
 fordøyelse
-biebbmosælgganibme, -nime
+biebbmosælgganibme
 matforgiftning
-bieddaris, -risá
+bieddaris
 øverste halsvirvel
 biedjat/tjáledit skihppijviessuj
 innlegge (på sykehus)
@@ -229,55 +229,55 @@ biehttot, biehtov
 fraråde
 bielgge, bielge
 tommel (finger)
-bieljedibme (attr. -bieljedis), -dime
+bieljedibme (attr. -bieljedis)
 døv
-bieljedisájdålkkå, -dålkå
+bieljedisájdålkkå
 døvetolk
-bieljedisgieladibme (attr. -gieladis), -dime
+bieljedisgieladibme (attr. -gieladis)
 døvstum
-bieljedistjalmedibme (attr. -tjalmedis), -dime
+bieljedistjalmedibme (attr. -tjalmedis)
 døvblind
 bielkket, bælkáv
 kjefte, skjelle ut
 biellje, bielje
 øre
-bielljegásse, -gásse
+bielljegásse
 ørevoks
-bielljegiehtje, -gietje
+bielljegiehtje
 øreflipp
-bielljegætjásj, -gætjátja
+bielljegætjásj
 liten øreflipp
 bielljegåjkudisá (fl.)
 øredråper
-bielljejuoksa, -juovsa
+bielljejuoksa
 buegang
-bielljelassta, -lasta
+bielljelassta
 ytre øre
-bielljenávludahka, -dagá
+bielljenávludahka
 øresting
-bielljerájgge, -rájge
+bielljerájgge
 øregang
-bielljeruohko, -ruogo
+bielljeruohko
 øretrompet
-bielljesláhpe, -slábe
+bielljesláhpe
 ytre øre
-bielljetjålggåráksá, -rávsá
+bielljetjålggåráksá
 ørespyttkjertel
-bielljetsuodtsa, -tsuottsa
+bielljetsuodtsa
 trommehinne
-bielljevuolssje, -vuolssje
+bielljevuolssje
 ørebetennelse
 bierbbe, bierbe
 skulderblad jf. bierŋesdákte
 bierik (attr. bierigis), bieriga
 gal
-bierikvuohta, -vuoda
+bierikvuohta
 galskap
-bierŋesdákte, -dávte
+bierŋesdákte
 skulderblad jf. bierbbe
-bihtsaguvvat, -guváv
+bihtsaguvvat
 få neglbitt
-bijllamåjdås (attr. -måjdås), -måjddåsa
+bijllamåjdås (attr. -måjdås)
 bilsyk
 bijtástit
 trakassere
@@ -285,37 +285,37 @@ bilkkedit
 håne
 binnedit
 redusere
-biopsiddja, -sidja
+biopsiddja
 biopsi
 birás, birrasa
 miljø
-birásbargge, -bargge
+birásbargge
 miljøarbeider
-birássælgga, -selga
+birássælgga
 miljøgift
-birásterapievtta, -pievta
+birásterapievtta
 miljøterapeut
-birratjuohppam, -tjuohppama
+birratjuohppam
 omskjæring
-bisse skihpudahka, -dagá
+bisse skihpudahka
 kronisk sykdom
 bivás, bivvasa
 svette s.
-bivásráksá, -rávsá
+bivásráksá
 svettekjertel
-bivástuvvat, -stuváv
+bivástuvvat
 svette  v.
-boadádallat, -daláv
+boadádallat
 rammes av
 boados, båhtusa
 resultat (av prøve)
-boaktjánimgåsås, -gåssåsa
+boaktjánimgåsås
 kikhoste
 boalldem, boalddema
 forbrenning
 boalldet, boaldáv
 forbrenne
-boarkkanibme, -nime
+boarkkanibme
 avsliting
 boarkkanit
 slites av
@@ -323,17 +323,17 @@ boarkkit, boarkkiv
 slite av
 boasske, boaske
 hæl
-boasskesuodna, -suona
+boasskesuodna
 achillessene, hælsenen
 boasstot dálkudit
 feilbehandle
-boastodálkudibme, -dime
+boastodálkudibme
 feilbehandling
 broahkka, bråhka
 brokk
-bronkihtta, -kihta
+bronkihtta
 bronkitt
-bulimiddja, -midja
+bulimiddja
 bulimi
 bunno (n'n), baksimtjuolmma
 klitoris
@@ -347,29 +347,29 @@ buojddenjammam
 fettsuging
 buojddot, buojdov
 gå opp i vekt, legge på seg
-buojddudahka, -dagá
+buojddudahka
 fedme
 buojdev njammat, njamáv
 fettsuge
 buolatjit
 brenne seg
-buollemhávve, -háve
+buollemhávve
 brannsår
-buollemláhkán, -láhkána
+buollemláhkán
 brannlaken
-buollevihke, -vige
+buollevihke
 helvetesild
 buolvva, buolva
 kne
-buolvvaladás, -lahtasa
+buolvvaladás
 kneledd
-buolvvalåhkke, -låhke
+buolvvalåhkke
 kneskjell, kneskål jf. buolvvatjuhttá
-buolvvatjuhttá, -tjuhtá
+buolvvatjuhttá
 kneskjell jf. buolvvalåhkke
-buoredahtte (attr. -dahtte), -dahtte
+buoredahtte (attr. -dahtte)
 helbredelig
-buorediddje, -diddje
+buorediddje
 helbreder; kurativ, helbredende
 buoredit
 helbrede, kurere, lege (sykdom)
@@ -379,7 +379,7 @@ buoskudit
 fise (flere ganger)
 buosskot
 fise
-buvtadibme, -dime
+buvtadibme
 produksjon
 buvtadit
 produsere
@@ -395,21 +395,21 @@ båden liehket
 være hoven, oppsvulmet
 båhte, både
 hevelse
-båhtånibme, -nime
+båhtånibme
 hevelse, ødem
 båhtånit
 hovne opp
 bålstår, bållståra
 madrass jf. bånstår
-bålstårålgusj, -ålgutja
+bålstårålgusj
 madrassovertrekk
 bånstår, bånnståra
 madrass jf. bålstår
-bårredávdda, -dávda,
+bårredávdda,
 kreft jf. kræffta
-bårråmmiella, -miela
+bårråmmiella
 apetitt
-bårråmvihke, -vige
+bårråmvihke
 spiseforstyrrelse
 bårråt dálkkasav
 ta medisin
@@ -417,11 +417,11 @@ bårråt, båråv
 spise
 båråk
 fastende, på fastende hjerte
-båskådahka, -dagá
+båskådahka
 stikkende smerte
 C
 
-cannábis, -bisa
+cannábis
 cannabis
 Cowper-ráksá –rávsá
 Cowperkjertel
@@ -435,21 +435,21 @@ dádjot, dájov
 være sinnsforvirret
 dahko
 protese
-dahpaldahka, -dagá
+dahpaldahka
 astma, pustevansker, åndenød
-dahppanibme, -nime
+dahppanibme
 pustebesvær, pustevansker
 dahppanit
 få pustebesvær, hive etter pusten
 dahppusit
 få pustebesvær
-dahttem, -dahttema
+dahttem
 barsel, fødsel
-dajaskuvvat, -skuváv
+dajaskuvvat
 bli omtåket, bli ør
 dajnas (attr. dajnas), dajnnasa
 svimmel
-dajnaskuvvam, -skuvvama
+dajnaskuvvam
 svimmelhet
 dajnaskuvvat, skuváv
 svime av
@@ -457,59 +457,59 @@ dájsok, dájsoga
 være sinnsforvirret jf. gadjat
 dákte, dávte
 bein, knokkel
-dáktedoajos, -dådjusa
+dáktedoajos
 beinbrudd  (brudd på knokkel)
-dákterasjesvuohta, -vuoda
+dákterasjesvuohta
 beinskjørhet  (osteoporose)
-dákterigge, -rikke
+dákterigge
 skjelett jf. sjelæhtta
 dálkas báktjasijda
 smertestillende medisin
 dálkas, dálkkasa
 legemiddel, medikament, preparat
-dálkasbåhttså, -båhtså
+dálkasbåhttså
 medisinrør (medrør)
-dálkasgávttja, -gávtja
+dálkasgávttja
 medisinbeger
-dálkasgåhppå, -gåhpå
+dálkasgåhppå
 medisinbeger
-dálkasladnja, -lanjá
+dálkasladnja
 medisinrom
 dálkasmierev mierredit
 dosere medisin
-dálkasmierre, -miere
+dálkasmierre
 dose (medisin)
-dálkasoases, -oassása
+dálkasoases
 apotek jf. apotiehkka, apotæhkka
-dálkastjála, -tjállaga
+dálkastjála
 resept
-dálkasvahák, -vahága
+dálkasvahák
 legemiddelskade
-dálkasæssko, -æsko
+dálkasæssko
 dosett
-dálkudibme, -dime
+dálkudibme
 (medisinsk) behandling, medisinering
-dálkudiddje, -diddje
+dálkudiddje
 lege
 dálkudit
 behandle (medisinsk), medisinere
-dármedibme (attr. dármedis), -dime
+dármedibme (attr. dármedis)
 fortvilt; fortvilelse jf. dármedisvuohta
-dármeduvvat, -duváv
+dármeduvvat
 bli fortvilt
-dármeduvvat, -duvláv
+dármeduvvat
 fortvile
 dávdda, dávda
 sykdom (alvorlig sykdom)
-dávddamærkka, -merka
+dávddamærkka
 sykdomstegn, symptom
 delas (attr. delas), dellasa
 slapp, svak
-demænssa, -mensa
+demænssa
 demens
-diagnostiserit, -seriv
+diagnostiserit
 diagnostisere
-diagnåvsså, -nåvsa
+diagnåvsså
 diagnose
 dibma guobme, guome
 myke (bløte) gane
@@ -517,35 +517,35 @@ diehkko, diehko
 muskel
 diejggo, diejgo
 overarm
-dierredibme, -dime
+dierredibme
 vold
 dierrediddje
 mishandler
-diertjeguddam, -guddama
+diertjeguddam
 stress
-diertjeguddat, -guttav
+diertjeguddat
 stresse
 diertjestahtte barggo, bargo
 stressende arbeid
-diertjestibme, -ime
+diertjestibme
 stress
 diertjestit
 stresse
-dieverdibme, -dime
+dieverdibme
 spontanabort jf. tsuovkkanibme
 dieverdit
 abortere jf. tsuovkkanit
-difteriddja, -ridja
+difteriddja
 difteri
 dihkke, dihke
 lus
-dijæhtta, -jehta
+dijæhtta
 diett
 DNA
 DNA
 doajmma, dåjma
 aktivitet
-doajos, -dådjusa
+doajos
 brudd; komplisert brudd vastes doajos
 doajvvo, doajvo
 håp
@@ -553,15 +553,15 @@ doajvvot, doajvov
 håpe
 doargestit
 skjelve
-doarjjagurpas, -gurppasa
+doarjjagurpas
 støttebandasje
 dudálasj (attr. dudálasj), dudálattja
 fornøyd
-duolbbajuolgge, -juolge
+duolbbajuolgge
 plattfot
-duostudiddje, -diddje
+duostudiddje
 profylaktisk (forebyggende)
-duostudimbarggo, -bargo
+duostudimbarggo
 forebygging
 duostudit
 forebygge
@@ -575,13 +575,13 @@ duvres, duvrrá
 skabb
 dæbbodimvuojdas, - vuojddasa
 fuktighetskrem
-dæddumhávve, -háve
+dæddumhávve
 trykksår
 dæddut, dædduv
 ha mareritt
 dæhppot (intr.)
 smitte (v)
-dæhppulis (attr. dæhppulis), -lisá
+dæhppulis (attr. dæhppulis)
 smittsom
 dåbddo, dåbdo
 følelse
@@ -589,25 +589,25 @@ dåbddåt, dåbddåv (dåbddågoahtet)
 gjenkjenne
 dåbddåt, dåbdåv
 føle, kjenne
-dåjddemladnja, -lanjá
+dåjddemladnja
 skyllerom
 dåjddet, dåjdåv
 skylle
-dåjmadiddje, -diddje
+dåjmadiddje
 aktivitør
-dåjmagahtes (attr. dåjmagahtes), -gahttá
+dåjmagahtes (attr. dåjmagahtes)
 uvirksom, inaktiv
-dåjmagahtesvuohta, -vuoda
+dåjmagahtesvuohta
 passivitet
-dåjmalasj (attr. dåjmalasj), -lattja
+dåjmalasj (attr. dåjmalasj)
 aktiv jf. aktijvva
 dåktår, dåktåra
 lege jf. dalkudiddje
-dåktårguoradibme, -dime
+dåktårguoradibme
 legesjekk, legeundersøkelse
-dåktårkontåvrrå, -tåvrå
+dåktårkontåvrrå
 legekontor
-dåktårtijmma, -tijma
+dåktårtijmma
 legetime
 dåktårviehkev oadtjot, oattjov
 få legehjelp
@@ -617,39 +617,39 @@ dålkkå, dålkå
 tolk
 dålkkådievnastus, ­-stusá
 tolketjeneste
-dålkkåfálaldahka, -dagá
+dålkkåfálaldahka
 tolketilbud
 dållåskuovle (fl.)
 brennkopper
 dårjun, dårjuna
 krykke
-dårvodibme (attr. dårvodis), -dime
+dårvodibme (attr. dårvodis)
 utrygg
-dårvodisvuohta, -vuoda
+dårvodisvuohta
 utrygghet jf. iehpedårvvo
-dårvvoalármma, -alárma
+dårvvoalármma
 trygghetsalarm
 E
 
-ednambåhte, -både
+ednambåhte
 elveblest
-eksiebma, -siema
+eksiebma
 eksem jf. russjme, rusjmas
 ensijmma, ensijma
 enzym
-epidemiddja, -midja
+epidemiddja
 epidemi
-ergoterapievtta, -pievta
+ergoterapievtta
 ergoterapeut
 F
 
-fábmális (attr. fábmalis), -lisá
+fábmális (attr. fábmalis)
 funksjonshemmet, handikappet
-Fábmálisvuohta, -vuoda, doajmmahieredibme
+Fábmálisvuohta, doajmmahieredibme
 funksjonshemning
-fámodibme (attr. -fámodis), -dime
+fámodibme (attr. -fámodis)
 kraftløs
-fámodisvuohta, -vuoda
+fámodisvuohta
 maktesløshet
 fámoduvvat
 bli utmattet, kraftløs
@@ -657,19 +657,19 @@ ferram ulmusj, ulmutja
 druknet person
 ferrat, ferav
 drukne jf. fællat
-fibromijalgiddja, -gidja
+fibromijalgiddja
 fibromyalgi
 fiebar, fiehpara
 feber
 fiebarmihtun
 termometer
-fiebarunnediddje, -diddje
+fiebarunnediddje
 febernedsettende
 fieŋŋge, fieŋge
 knehase
 fluor, fluora
 fluor
-fysioterapievtta, -pievta
+fysioterapievtta
 fysioterapeut
 fællam ulmusj, ulmutja
 druknet person
@@ -687,11 +687,11 @@ gádnes, gáddná
 korsbein
 gadtsa, gattsa
 negl
-gadtsaruohttsavuolssje, -vuolssje
+gadtsaruohttsavuolssje
 neglerotsbetennelse
 gadtsat, gattsav
 spise med skje
-gáhtampillar, -pillara
+gáhtampillar
 angrepille
 gáhtot, gádov
 forsvinne
@@ -701,9 +701,9 @@ gahttjat, gahtjav
 falle om jf. vierat
 gájbbe, gájbe
 hake
-gájbbebádne, -báne
+gájbbebádne
 fortann (nedre)
-galbbaráksá, -rávsá
+galbbaráksá
 skjoldbruskkjertel jf. guoggomráksá
 gállnam, gállnama
 lammelse
@@ -713,13 +713,13 @@ gállo, gállo
 panne
 galmas (attr. galmma), galmmasa
 kald
-galmmabivás , -bivvasa
+galmmabivás
 kaldsvette
 gálnas (attr. gállna), gállnasa
 lam
 ganjál, gadnjala
 tåre
-ganjálkanálla, -kanála
+ganjálkanálla
 tårekanal
 ganugahttet, ­-gahtáv varddemav
 stoppe blødning/blod
@@ -729,7 +729,7 @@ gárevselgaj addne, addne
 rusmisbruker
 gárevselgajt adnet, anáv
 ruse seg
-gárevsælgga, -selga
+gárevsælgga
 rusmiddel, rusgift, dop
 gáriduhttem, duhttema
 doping
@@ -739,15 +739,15 @@ garijdit
 snorke
 garŋŋel, garŋŋela
 albue
-garŋŋelladás, -lahtasa
+garŋŋelladás
 albueledd
-garŋŋelvuolssje, -vuolsje
+garŋŋelvuolssje
 tennisalbue
 garra guobme, guome
 harde gane
-garrabajkka, -bajka
+garrabajkka
 hard avføring
-garralijkke, -lijke
+garralijkke
 liktorn
 gartsastit ietjas
 henge seg jf. gatsostit
@@ -755,21 +755,21 @@ gárvvunit
 kle på seg
 gasjkos (attr. gasjkos), gassjkusa
 stiv, støl, lemster
-gáskádus, -dusá
+gáskádus
 dyrebitt
 gassak (attr. gassa), gassaga
 tykk
-gassatjoalle, -tjoale
+gassatjoalle
 tykktarm
-gássjelisvuohta, -vuoda
+gássjelisvuohta
 problem
-gasskatjuvdde, -tjuvde
+gasskatjuvdde
 langfinger
 gassnet, gasnáv
 nyse
 gatsostit ietjas
 henge seg jf. gartsastit
-gávastahka, -stagá
+gávastahka
 gjesp
 gávastit
 gjespe
@@ -785,93 +785,93 @@ gedna, gena
 gen
 gehta, geda
 tinning
-gehtsulakgoahte, -goade
+gehtsulakgoahte
 sneglehus
-genehtihkalasj, -lattja
+genehtihkalasj
 genetisk
-genetihkka, -tihka
+genetihkka
 genetikk
-gergasvuohta, -vuoda
+gergasvuohta
 beredskap
-geriatrijja, -trija
+geriatrijja
 geriatri
-getsadahka, -dagá
+getsadahka
 beltested
 gidno, gino
 hårfeste
-giedavuolle, -vuole
+giedavuolle
 armhule
-giednatæssta, -testa
+giednatæssta
 gentest
 giehpedit
 avlaste, lindre
 giehpes, gæhppá
 lunge
-giehpesbullje, -bulje
+giehpesbullje
 lungeblære
-giehpesbåhttså, -båhtså
+giehpesbåhttså
 bronkie  jf. giepesbullje
-giehpesvuolssje, -vuolssje
+giehpesvuolssje
 lungebetennelse
 giehta gahtjaj lahtasis
 hånden gikk ut av ledd
 giehta, gieda
 arm, hånd
-giehtabajusj, -bajutja
+giehtabajusj
 håndens overside, håndbak
-giehtabassam, -bassama
+giehtabassam
 håndvask
-giehtadoajus, -dådjusa
+giehtadoajus
 armbrudd, håndbrudd
-giehtagávva, -gáva
+giehtagávva
 armkrok
-giehtaladás, -lahtasa
+giehtaladás
 armledd, handledd, håndledd
-giehtaladásvuolssje, -vuolsje
+giehtaladásvuolssje
 håndleddsbetennelse
-giehtaloabmo, -loamo
+giehtaloabmo
 håndflate
-giehtamadda, -matta
+giehtamadda
 håndledd, håndrot
-giehtasláhpe, -slábe
+giehtasláhpe
 hånd jf. giehta
-giehtavuodo, -vuodo
+giehtavuodo
 håndflate
-gieladibme (attr. gieladis), -dime
+gieladibme (attr. gieladis)
 stum
-gieldagis, -gisá
+gieldagis
 neseskillevegg
-giellodimdálkas, -dálkkasa
+giellodimdálkas
 blodstillende middel
 giellodit, giellodav
 stille blod, stoppe blod
-gieloj, -gielluha
+gieloj
 blodpropp
 gierddam, gierddama
 lidelse
 gierddat, gierdav
 tåle, utstå
-gierddisvuohta, -vuoda
+gierddisvuohta
 toleranse
-gierkavjábmem, -jábmema
+gierkavjábmem
 krybbedød
-gievrrodimhárjjidallam, -dallama
+gievrrodimhárjjidallam
 styrketrening
 gihpo, gibo
 svie (smerte)
-gillajiddje, -jiddje
+gillajiddje
 offer (for overgrep)
 gillam, gillama
 lidelse, utholdenhet
 gillat, gillav
 lide, tåle, utholde
-ginálsuodna, -suona
+ginálsuodna
 nakkesene
 gissto, gisto
 kiste
-gisstoladnja, -lanjá
+gisstoladnja
 bårerom
-givseldibme, -dime
+givseldibme
 mobbing
 givseldime gille
 mobbeoffer
@@ -881,7 +881,7 @@ gluten, glutena
 gluten
 glutenahtes
 glutenfri
-goabrre, -goabre; bielljegåhpe, -gåbe
+goabrre; bielljegåhpe
 øregrop
 goajkkot
 dryppe
@@ -889,7 +889,7 @@ goajkodit (trans.)
 dryppe, la dryppe
 goallot (intr.)
 fryse
-goardádallat, -daláv
+goardádallat
 solbrent, bli solbrent
 goarrot, goarov
 sy
@@ -897,17 +897,17 @@ goavgge, goavge
 angst jf. ballo
 goavllot, goavlov
 gulpe
-guhkesvájkkudibme, -dime
+guhkesvájkkudibme
 langtidsvirkning, langtidseffekt
-guhkesvuojnne, -vuojnne
+guhkesvuojnne
 langsynt
-gujdalvis, -visá
+gujdalvis
 klage
 gujddit, gujddiv
 klage (om feilaktighet)
 guládahka, guládagá
 høreapparat
-gullamnærvva, -nerva
+gullamnærvva
 hørenerve
 gullat, guláv
 føle, høre
@@ -917,21 +917,21 @@ gullo, gulo
 følelse, hørsel jf. dåbddo
 gullodávte (fl.)
 hørselsbein
-gulmevuolle, -vuole
+gulmevuolle
 øyehule
 gulmme, gulme
 pannebein (over øyet)
-gulodibme (attr. gulodis), -dime
+gulodibme (attr. gulodis)
 hørselshemmet
 guobme, guome
 gane, gomme
-guobmebårjås, -bårjjåsa
+guobmebårjås
 ganeseil
-guobmolákkes, -lággá
+guobmolákkes
 blindtarm
-guobmolákvuolssje, -vuolssje
+guobmolákvuolssje
 blindtarmsbetennelse
-guoggomráksá, -rávsá
+guoggomráksá
 skjoldbruskkjertel jf. galbbaráksá
 guohtsa (attr. guohtsa), guohttsaga
 stank
@@ -939,33 +939,33 @@ guohtsijdit
 stinke
 guokkoj, guogguma
 strupehode
-guokkojlåhkke, -låhke
+guokkojlåhkke
 strupelokk
 guolla, guola
 testikkel
-guopparvuolssje, -vuolsje
+guopparvuolssje
 soppinfeksjon
-guoradallam, -dallama
+guoradallam
 undersøkelse, utreding
-guoradallat, -daláv
+guoradallat
 undersøke, utrede
-guoradus, -dusá
+guoradus
 undersøkelse
 guorkká, guorká
 bendelorm
-guottádahka, -dagá
+guottádahka
 sykebåre
-guottáldahka, -dagá
+guottáldahka
 sykebåre
 guovggat (attr. guovggis), guovggada
 blek
-guovgudahka, -dagá
+guovgudahka
 blekhet
 guovgudit
 bli blek
-guovsakradne, -rane,
+guovsakradne,
 bukspyttkjertel
-guovsakráksá, -rávsá
+guovsakráksá
 bukspyttkjertel
 guovtegielak (attr. -gielak), gielaga
 tospråklig
@@ -973,55 +973,55 @@ gurkos, gurkkusa
 luftrør
 gurpas, gurppasa
 bandasje
-gurpastahka, -stagá
+gurpastahka
 bandasje
 gurppit, gurppiv
 bandasjere
-gurranjálmme, -njálme
+gurranjálmme
 hareskår
-gussadávdda, -dávda
+gussadávdda
 kugalskap
-gæhpádahka, -dagá
+gæhpádahka
 avlastningsring (luftring), pute
-gæhpádis, -disá
+gæhpádis
 avlastning
-gæhpádisriŋŋgo, -riŋgo
+gæhpádisriŋŋgo
 avlastningspute, avlastningsring (luftring)
 gæhppot, gæhpov
 gå ned i vekt
 gæhttjalit dálkkasijt
 prøve ut medisiner
-gæsádahka, -dagá
+gæsádahka
 krampe jf. krámmpa
-gåddulahka, -lagá
+gåddulahka
 mageknip
 gådos, gådusa
 vev
 gådtjå, gåttjå
 urin
-gådtjåbåhttså, -båhtså
+gådtjåbåhttså
 urinrør, urinleder
-gådtjåbåhtål, -båhtåla
+gådtjåbåhtål
 urinflaske
-gådtjåjiegedissvuohta, -vuoda
+gådtjåjiegedissvuohta
 inkontinens, urinlekkasje
-gådtjålihtte, -lihte
+gådtjålihtte
 bekken jf. bæhkkin
 gådtjåmgássjelisvuoda (fl.)
 vannlatingsproblemer
-gådtjåráhkko, -ráhko
+gådtjåráhkko
 urinblære
-gådtjåráhkkovuolssje, -vuolssje
+gådtjåráhkkovuolssje
 blærekatarr, urinveisbetennelse
-gådtjåsuvrrejikta, -jivta
+gådtjåsuvrrejikta
 urinsyregikt
-gådtjåvuolssje, -vuolsje
+gådtjåvuolssje
 urinveisinfeksjon
 gåhkot, gågov
 være kvalm
-gåhpålahka, -lagá
+gåhpålahka
 vannblemme
-gåhpålis, -lisá
+gåhpålis
 vannblemme
 gåhtjulvis kontroallaj, spesialisstaj
 innkalling (til kontroll, spesialist)
@@ -1033,7 +1033,7 @@ gåhttjot, gåhtjov
 innkalle
 gåhttsåt, gåhttsåv
 våkne (av søvn)
-gåjkanis, -nisá
+gåjkanis
 dråpe
 gåjkke ájmmo, ájmo
 tørr luft
@@ -1051,29 +1051,29 @@ gåjkkåt, gåjkåv (intr.)
 tørke (ut, inn), bli tørr
 gålgge
 flytende
-gålggedávdda, -dávda
+gålggedávdda
 epidemi
 gålggåt, gålgåv
 renne (av), strømme
-gålmåbiejvefiebar, -fiehpara
+gålmåbiejvefiebar
 tredagersfeber
 gåssåt, gåsåv
 hoste  v.
 gåsås, gåssåsa
 hoste  s.
-gåsåsdálkas, -dálkkasa
+gåsåsdálkas
 hostemedisin
 H
 
 hagŋadit
 hikste
-háhpaskuvvat, -skuváv
+háhpaskuvvat
 miste pusten, hive etter pusten
-hallusinasjåvnnå, -sjåvnå
+hallusinasjåvnnå
 hallusinasjon
 happsa, hapsa
 lukt jf. tsiehka
-happsaráksá, -rávsá
+happsaráksá
 luktekjertel
 happset, hapsáv (tr.)
 lukte
@@ -1081,13 +1081,13 @@ happsut (intr.)
 lukte, gi fra seg lukt
 hárddo, hárdo
 herd, ryggpartiet mellom skuldrene
-hárjjidallam, -dallama
+hárjjidallam
 trening
-hárjjidallamladnja, -lanjá
+hárjjidallamladnja
 treningsrom
-hárjjidallat, -daláv
+hárjjidallat
 trene
-hárjjididdje, -diddje
+hárjjididdje
 trener
 hássja, hássja
 hasjisj
@@ -1097,21 +1097,21 @@ hávkkam ulmusj
 druknet person jf. fællam ulmusj
 hávkkat, hávkav
 kveles; drukne jf. ferrat, fællat
-hávvádahttet, -dahtáv
+hávvádahttet
 såre
-hávváduvvat, -duváv
+hávváduvvat
 bli såret
 hávve, háve
 kutt, sår
-hávvesálvva, -sálva
+hávvesálvva
 sårsalve jf. hávvevuojdas
-hávvevuojdas, -vuojddasa
+hávvevuojdas
 sårsalve jf. hávvesálvva
-hehkadibme (attr. -dis), -dime
+hehkadibme (attr. -dis)
 livløs
-hemorojdda, -jda
+hemorojdda
 hemorroide
-heroijnna, -ijna
+heroijnna
 heroin
 hevvanit
 omkomme
@@ -1125,29 +1125,29 @@ hiejttet, hæjtáv
 slutte
 hiertik, hiertiga
 ribbe; ribbein
-hiertikdákte, -dávte
+hiertikdákte
 sidebein, ribbein
-hiertikdiehkko, -diehko
+hiertikdiehkko
 sidemuskel
-hiertikdoajus, -dådjusa
+hiertikdoajus
 ribbeinsbrudd
 hivsik, hivsiga
 toalett
-hivsikaládus, -dusá
+hivsikaládus
 toalettforhøyer
-hivsikståvllå, -ståvlå
+hivsikståvllå
 dostol
-hoavkáduvvam, -duvvama
+hoavkáduvvam
 senilitet jf. hoavkkánibme
 hoavkát (attr. hoavkes), hoavkáda
 senil
-hoavkkánibme, -nime
+hoavkkánibme
 senilitet jf. hoavkáduvvam
 hoavkkánit
 bli senil
 hoavkke, hoavke
 senil
-hormåvnnå, -måvnå
+hormåvnnå
 hormon
 hudja, hujá
 bekymring, uro
@@ -1157,61 +1157,61 @@ huhttahit, huhttahav
 hutre (i sammnkrøpet stilling), småfryse
 hukso, huvso
 omsorg
-huksobargge, -bargge
+huksobargge
 omsorgsarbeider
-huksosijdda, -sijda
+huksosijdda
 barnehjem
-huksosijddamánná, -máná
+huksosijddamánná
 barnehjemsbarn
-hygiedna, -ena
+hygiedna
 hygiene jf. rájnasvuohta
-hypofijssa, -fijsa
+hypofijssa
 hypofyse
-hypokåndar, -koanddara
+hypokåndar
 hypokonder
-hæbodibme (attr. hæbodis), -dime
+hæbodibme (attr. hæbodis)
 svekket
-hæbodis varresvuohta, -vuoda
+hæbodis varresvuohta
 svekket allmenntilstand
-hæboduhttet, -duhtáv
+hæboduhttet
 svekke
 hædjo (attr. hæjos), hæjo
 fattig
-hæggagáddjo vuostasjviehkke, -viehke
+hæggagáddjo vuostasjviehkke
 livreddende førstehjelp
-hæggagádjom, -gádjoma
+hæggagádjom
 livredning
 hæggagæhtjáj ballat
 ha panisk angst
-hægganieda, -nieda
+hægganieda
 livsfare; dødsangst jf. jábmemballo
-hæggavádá, -vádá
+hæggavádá
 livsfare
-hæggavádálasj (attr. -vádálasj), -lattja
+hæggavádálasj (attr. -vádálasj)
 livsfarlig, livstruende
-hæggavárálasj (attr. -várálasj), -lattja
+hæggavárálasj (attr. -várálasj)
 livsfarlig, livstruende
 hæggaájnas dálkas, dálkkasa
 livsviktig medisin
 hæhkka (attr.)
 akutt
-hæhkkaballo, -balo
+hæhkkaballo
 panikkangst
-hæhkkajábmem, -jábmema
+hæhkkajábmem
 plutselig død
 hæhkkat adv.
 akutt
-hæjosvuohta, -vuoda
+hæjosvuohta
 fattigdom
-hæjosvuohtarádjá, -rájá
+hæjosvuohtarádjá
 fattigdomsgrense
 hælsso, hælso
 helse
 hærrá
 prest
-hæsodisvuohta, -vuoda
+hæsodisvuohta
 nedstemthet
-hæsoduvvat, -duváv
+hæsoduvvat
 bli utbrent
 hæsso, hæso
 motløshet, depresjon
@@ -1221,45 +1221,45 @@ hådjånit
 bli lei seg, bli trist
 I
 
-idjagåtsos, -gåhtsusa
+idjagåtsos
 nattevåking
-idjavákta, -vávta
+idjavákta
 nattevakt (person)
-idjavuorro, -vuoro
+idjavuorro
 nattevakt; nattskift
-iebdesvuohtadåbddo, -dåbdo
+iebdesvuohtadåbddo
 mindreverdighetsfølelse
-iehketbiejvvevuorro, -vuoro
+iehketbiejvvevuorro
 ettermiddagsvakt
-iehketvuorro, -vuoro
+iehketvuorro
 kveldsvakt
-iehpedádjo, -dájo
+iehpedádjo
 forvirring (om friske folk)
-iehpedårvvo, -dårvo
+iehpedårvvo
 utrygghet jf. dårvodisvuohta
-iehpetjielgas (attr. -tjielgga), -tjielggasa
+iehpetjielgas (attr. -tjielgga)
 uklar
-iellemvuohke, -vuoge
+iellemvuohke
 levemåte
 iesjmávsos,-máksus
 egenandel
-iesselis (attr. iesselis), -lisá
+iesselis (attr. iesselis)
 gravid
-iesselisvuohta, -vuoda
+iesselisvuohta
 graviditet, svangerskap
-iesselisvuohtatæssta, -testa
+iesselisvuohtatæssta
 graviditetstest
-illastibme, -stime
+illastibme
 krenkelse, overgrep
-ilmmeambulánssa, -lánsa
+ilmmeambulánssa
 luftambulanse
-influænssa, -ensa
+influænssa
 influensa
-insulijnna, -lijna
+insulijnna
 insulin
-insulijnnatsirgun, -tsirguna
+insulijnnatsirgun
 insulinsprøyte
-intensijvaåssudahka, -dagá
+intensijvaåssudahka
 intensivavdeling
 issjás, issjása
 isjias
@@ -1269,37 +1269,37 @@ jábbmek, jábbmega
 lik
 jábmám (perf.part.)
 død (perf.part.)
-jábmaoadtje, -oattje
+jábmaoadtje
 koldbrann; dødt vev
 jábmem, jábmema
 død, døden
 jábmema åvdån liehket
 ligge for døden
-jábmemballo, -balo
+jábmemballo
 dødsangst jf. hægganieda
 jábmemin liehket
 være døende
-jábmemoarre, -oare
+jábmemoarre
 dødsårsak
-jábmemvihke, -vige
+jábmemvihke
 dødelig sykdom
 jábmet, jámáv
 dø, omkomme; dovne; bli følelsesløs (om legemsdeler)
 jallat, jaláv
 amputere jf. amputerit, oanedit
-jámálguhttet, -guhtáv
+jámálguhttet
 bedøve (narkose)
-jámálguvvam, -guvvama
+jámálguvvam
 besvimelse
-jámálguvvamvihke, -vige
+jámálguvvamvihke
 epilepsi, fallesyke
-jámálguvvat, -guváv
+jámálguvvat
 besvime, miste bevisstheten
 jámas goallot, goalov
 fryse i hjel
-jámedibme, -dime
+jámedibme
 lokalbedøvelse
-jámedimábnas, -ábnnasa
+jámedimábnas
 bedøvelsesmiddel
 jámedit, jámedav
 bedøve (lokalt)
@@ -1309,125 +1309,125 @@ jarre, jare
 muskelknute, seneknute
 jaskadit
 trøste
-jaskadus, -dusá
+jaskadus
 trøst
 jevsijdit
 bli kjølig (på kroppen når man har våte klær)
-jiednabádde, -bátte
+jiednabádde
 stemmebånd jf. jiedmasnárttjá
-jiednasnárttjá, -snártjá
+jiednasnárttjá
 stemmebånd jf. jiednabádde
 jiekkaldit
 ha frysninger (på kroppen når man har våte klær)
-jierijdahttet, -dahtáv
+jierijdahttet
 avruse
 jikta, jivta
 gikt
-jiktafiebar, -fiehpara
+jiktafiebar
 giktfeber
-jiktatjuolmma, -tjuolma
+jiktatjuolmma
 giktknute
 jippsa, jipsa
 gips
 jippsit, jippsiv
 gipse
-journálla, -nála
+journálla
 journal
-juhkalisvuohta, -vuoda
+juhkalisvuohta
 alkoholmisbruk
 juhkke, juhkke
 alkoholiker
 juhtsa, jutsa
 uro
-juolgedoajos, -dådjusa
+juolgedoajos
 beinbrudd
 juolgge, juolge
 bein, fot
-juolggegávva, -gáva
+juolggegávva
 fotbue
-juolggeguoppar, -guoppara
+juolggeguoppar
 fotsopp
-juolggeladás, -lahtasa
+juolggeladás
 ankel, ankelledd
-juolggemátta, -máddaga
+juolggemátta
 fotroten
-juolggesláhpe, -slábe
+juolggesláhpe
 fotblad
-juolggesujtár, -sujtára
+juolggesujtár
 fotpleier, fotterapeut
-juolggetjuvdde, -tjuvde
+juolggetjuvdde
 tå
-juolggetjuvddeladás, -lahtasa
+juolggetjuvddeladás
 tåledd
-juolggevuodo, -vuodo
+juolggevuodo
 fotsåle
 juolgij nali væddját
 komme seg på beina
 juorre, juore
 tvil, usikkerhet
-juorrulahttet, -lahtáv
+juorrulahttet
 skape usikkerhet
-juorrulibme, -lime
+juorrulibme
 usikkerhet
 juorrulit
 være usikker
-juvllaståvllå, -ståvlå
+juvllaståvllå
 rullestol
 K
 
-kálkkanibme, -nime
+kálkkanibme
 forkalkning
 kálkkanit
 bli forkalket
-kaloriddja, -ridja
+kaloriddja
 kalori
-kapilerra, -lera
+kapilerra
 kapilær, hårrørsåre
-kardæksa, -devsa
+kardæksa
 kardeks
 kaste opp
 vuokset, vuovsáv
-katárra, -tára
+katárra
 katarr, betennelse
-katastråvffå, -stråvfå
+katastråvffå
 katastrofe
-katehtar, -tehtara
+katehtar
 kateter
-kinijnna, -nijna
+kinijnna
 kinin
-kiroprávtur, -práktura
+kiroprávtur
 kiropraktor
 kládda, klátta
 kladd (underlag)
-klinihkka, -nihka
+klinihkka
 klinikk
-klysterit, -teriv
+klysterit
 sette klyster
-klysterra, -tera
+klysterra
 klyster
-koallatablæhtta, -lehta
+koallatablæhtta
 kulltablett
 koalssa, kålsa
 kols
 kolera, kolera
 kolera
-kolesterolgiehpediddje, -diddje
+kolesterolgiehpediddje
 kolesterolsenkende
-komplikasjåvnnå, -sjåvnå
+komplikasjåvnnå
 komplikasjon
-kondåvmmå, -dåvmå
+kondåvmmå
 kondom
-kontrollerit, -leriv
+kontrollerit
 kontrollere
-kontrållå, -tråll
+kontrållå
 kontroll
-kontåvrrå, -tåvrå
+kontåvrrå
 kontor
 krámmpa, krámpa
 krampe jf. gæsádahka
 kræffta, krefta
 kreft jf. bårredávdda
-kræfftavárrodis, -disá
+kræfftavárrodis
 kreftadvarsel
 kræmma, kremma
 krem jf. vuojdas
@@ -1437,31 +1437,31 @@ kåhppit, kåhppiv
 koppe, årelate
 L
 
-laboratåvrrå, -tåvrå
+laboratåvrrå
 laboratorium
 ladás, lahtasa
 ledd
-ladásbádde, -bátte
+ladásbádde
 leddbånd
-ladásjierre, -jiere
+ladásjierre
 menisk
-ladásjikta, -jivta
+ladásjikta
 leddgikt
 ládat, ládav
 overfalle
-lagámus, -musá
+lagámus
 pårørende
-lahkavuojnne, -vuojnne
+lahkavuojnne
 nærsynt
-laktåvsså, -tåvså
+laktåvsså
 laktose
-laktåvssårasjesvuohta, -vuoda
+laktåvssårasjesvuohta
 laktoseintoleranse
-laktåvssårassje (attr. -rasjes), -rasje
+laktåvssårassje (attr. -rasjes)
 laktoseintolerant
 lárkas (attr. lárkas), lárkkasa
 bevisstløs (av ytre årsak)
-lárkasvuohta, -vuoda
+lárkasvuohta
 bevisstløshet (av ytre årsak)
 lárkkanit
 slå seg i svime
@@ -1475,7 +1475,7 @@ lassánit (intr.)
 øke
 lassjes (attr.)
 sunn
-lassjesvuohta, -vuoda
+lassjesvuohta
 sunnhet
 lassjot viessot, viesov
 leve sunt
@@ -1485,9 +1485,9 @@ latekshánsska ,-hánska
 latexhanske (engangshanske)
 librre, libre
 lever
-librredårrånibme, -nime
+librredårrånibme
 skrumplever
-librresnjárttjá, -snjártjá
+librresnjárttjá
 mellomgulvet
 liehket gåjkkåmin
 være tørst
@@ -1499,27 +1499,27 @@ liejmme, liejme
 brist
 ligge, likke
 stær (øyesykdom)
-lijggeguolla, -guola
+lijggeguolla
 bitestikkel
-lijggemånem, -månema
+lijggemånem
 binyre
-lijggevájkkudus, -dusá
+lijggevájkkudus
 bivirkning
 lijkka, lijka
 lik
-lijnnaladnja, -lanjá
+lijnnaladnja
 lintøyrom
 likse, livse
 tran
 lines (attr. lidna), lidnása
 øm, mild
-linesvuohta, -vuoda
+linesvuohta
 mildhet, ømhet
 livvat, liváv
 gå ned i vekt
-loabmevuolssje, -vuolssje
+loabmevuolssje
 bihulebetennelse
-logopeda, -peda
+logopeda
 logoped
 luodjom, luodjoma
 klage, jammer
@@ -1527,23 +1527,23 @@ luogge, luokke
 ytterste del av anus
 luojttet, luojtáv
 avta (om feber og smerte)
-luonndodálkas, -dálkkasa
+luonndodálkas
 naturmedisin
 lymffa, lymfa
 lymfe
-lymffabårredávdda, -dávda
+lymffabårredávdda
 lymfekreft
-lymffaráksá, -rávsá
+lymffaráksá
 lymfekjertel
-lymffasuodna, -suona
+lymffasuodna
 lymfeåre
-lymffavuogádahka, -dagá
+lymffavuogádahka
 lymfesystem
-låddedávdda, -dávda
+låddedávdda
 fugleinfluensa
-låggŋimhårssa, -hårsa
+låggŋimhårssa
 løfteseil
-låggŋimláhkán, -láhkána
+låggŋimláhkán
 stikklaken
 låggŋår, låggŋåra
 lift (løfter)
@@ -1551,17 +1551,17 @@ låhkåt, lågåv
 lese (heale)
 lållå, lålå
 sjalusi
-lålådahkes (attr. lålådahkes), -dahkkása
+lålådahkes (attr. lålådahkes)
 sjalu
-lålådibme, -dime
+lålådibme
 sjalusi
 låsjkos, låssjkusa
 tyntflytende væske
-låssismielak, -mielaga
+låssismielak
 depressiv
 M
 
-madrássaålgusj, -ålgutja
+madrássaålgusj
 madrassovertrekk jf. bålstårålgusj
 mádutja (fl.)
 barneorm
@@ -1569,81 +1569,81 @@ mahkkulit
 stamme, stotre
 májnne, májne
 legemsfeil, lyte, skavank
-malárija, -lárija
+malárija
 malaria
-mánádibme (attr. –dis), -dime
+mánádibme (attr. –dis)
 barnløs
-mánádisvuohta, -vuoda
+mánádisvuohta
 barnløshet
-manijja, -nija
+manijja
 mani
 mánijjalasj-depresijvva
 manisk-depressiv
-mánnáskihppudahka, -dagá
+mánnáskihppudahka
 barnesykdom
-mánnásæŋŋga, -seŋga
+mánnásæŋŋga
 barselseng
-mannevihke, -vige
+mannevihke
 influensa, omgangssyke, reksyke, epidemi
-mannomåjdådahka, -dag
+mannomåjdådahka
 reisesyke
-mannomåjdådaktablæhtta, -lehta
+mannomåjdådaktablæhtta
 reisesyketablett
-mannomåjdås (attr. -måjdås), -måjddåsa
+mannomåjdås (attr. -måjdås)
 reisesyk
-maŋŋeoajvve, -oajve
+maŋŋeoajvve
 bakhode
-másjkudallam, -dallama
+másjkudallam
 mosjon
-másjkudallat, -daláv
+másjkudallat
 mosjonere
-masjvalisvuohta, -vuoda
+masjvalisvuohta
 besvær, vanskelighet
-massássja, -sásja
+massássja
 massasje
-masserit, -seriv
+masserit
 massere
 massta, masta@
 mikstur
-máttabádne, -báne
+máttabádne
 jeksel
-menstruasjåvnnå, -sjåvnå
+menstruasjåvnnå
 menstruasjon jf. ájggevarra, liejbbe, ruoppsada
-mieladuvvat, -duváv
+mieladuvvat
 miste forstanden
 mielgga, mielga
 bryst
-mielggabielle, -biele
+mielggabielle
 brystside
-mielggadákte, -dávte
+mielggadákte
 brystbein
-mielgganjunnje, -njunje
+mielgganjunnje
 spissen av brystbeinet
-mielggavihke, -vige
+mielggavihke
 tuberkulose jf. tuberkolåvsså
-mielkeráksá, -rávsá
+mielkeráksá
 melkekjertel
-mielkesuodna, -suona
+mielkesuodna
 melkeåre
-miellaskihpudahka, -dagá
+miellaskihpudahka
 psykisk sykdom
 mierredit (dálkkasav)
 foreskrive (medisin)
 mihttit, mihttiv
 måle
-mikroskåvppå, -skåvpå
+mikroskåvppå
 mikroskop
-mikråvbbå, -kråvbå
+mikråvbbå
 mikrobe
-minerálla, -rála
+minerálla
 mineral
-morfijnna, -fijna
+morfijnna
 morfin
-mujtodibme (attr. mujtodis), -dime
+mujtodibme (attr. mujtodis)
 glemsom
-mujtodisvuohta, -vuoda
+mujtodisvuohta
 glemsomhet
-mujtoduvvat, -duváv
+mujtoduvvat
 bli glemsk, miste hukommelsen
 mujtojt láhppet, láhpáv
 miste hukommelsen
@@ -1669,27 +1669,27 @@ månem, månema
 nyre
 månema e dåjma
 nyresvikt  (ordrett: nyrene fungerer ikke)
-månemgiergge, -gierge
+månemgiergge
 nyresten
 månne, måne
 egg
-månnejådås, -jåhtåsa
+månnejådås
 eggleder
-månneráksá, -rávsá
+månneráksá
 eggstokk
-månneráksádávdda, -dávda
+månneráksádávdda
 eggstokkreft
-månneráksávuolssje, -vuolsje
+månneráksávuolssje
 eggstokkbetennelse
 måråj, mårråha
 omtanke, bekymmer
-måråstahttet, -stahtáv
+måråstahttet
 bekymre
-måråstibme, -stime
+måråstibme
 bekymring
 måstos, måsstusa
 migrene
-måvtastibme, -stime
+måvtastibme
 motivasjon
 N
 
@@ -1697,73 +1697,73 @@ nággidit
 tvinge
 nággo, nákko
 tvang
-nággotjáledibme, -dime
+nággotjáledibme
 tvangsinnleggelse, tvangsinnskriving
 nahkárahtes (attr.)
 søvnløs
-nahkárahtesvuohta, -vuoda
+nahkárahtesvuohta
 søvnløshet
 nahkat, nagáv
 klare
 náhpe, nábe
 navle
-náhpebroahkka, -bråhka
+náhpebroahkka
 navlebrokk
-náhpemátta, -máddaga
+náhpemátta
 morkake
-náhpetjoalle, -tjoale
+náhpetjoalle
 navlesnor (-streng)
 nálle, nále
 rase  (om dyr)
 náres, nárrása
 byll, stor kvise
-narkotihkká, -tihká
+narkotihkká
 narkotika
-narkåvsså, -kåvså
+narkåvsså
 narkose
 návllit, návlliv
 nagle
 navoldit
 dusje
-navolskuovva, -skuova
+navolskuovva
 dusjovertrekkssko
-navolståvllå, -ståvlå
+navolståvllå
 dusjstol
 návva, náva
 dunhår
-negatijvva (attr. negatijvva), -tijva
+negatijvva (attr. negatijvva)
 negativ
 nevrolåvggå, nevrolåvgå
 nevrolog
-nevruvssa, -ruvsa
+nevruvssa
 nevrose
 nieda, nieda
 nødsituasjon jf. hiehte
-niedabesaldahka, -dagá
+niedabesaldahka
 nødutgang
-niedaskuolkan, -skuolkana
+niedaskuolkan
 nødtelefon jf. niedatelefåvnnå
-niedatelefåvnnå, -fåvnå
+niedatelefåvnnå
 nødtelefon jf. niedaskuolkan
 niegadit
 drømme
 niehko, niego
 drøm
-niejddatsuodtsa, -tsuottsa
+niejddatsuodtsa
 jomfruhinne, møydom
 nielgge, nielge
 sult
 nierra, niera
 kinn
-nierradákte, -dávte
+nierradákte
 kinnbein
-nievres bårråmmiella, -miela
+nievres bårråmmiella
 mangel på matlyst, dårlig matlyst
 nievres hælsso, hælso
 dårlig helse
-nievres oamedåbddo, -dåbdo
+nievres oamedåbddo
 skyldfølelse, dårlig samvittighet
-nievres varresvuohta, -vuoda
+nievres varresvuohta
 dårlig helse
 nihtá, nidá
 nyrene og fettet rundt
@@ -1773,7 +1773,7 @@ nihttet
 true jf. ájttet
 nihtto, nihto
 trussel jf. ájtto, nihtodibme
-nikotijnnanjuobrre, -njuobre
+nikotijnnanjuobrre
 nikotinplaster
 nisske- ja oalggebáktjasa (fl.)
 nakke- og skuldersmerter
@@ -1781,31 +1781,31 @@ nisske, niske
 nakke
 nissun, nissuna
 kvinne
-nissunduolmmom, -duolmmoma
+nissunduolmmom
 kvinneundertrykking jf. nissunniejddem
-nissunniejddem, -niejddema
+nissunniejddem
 kvinneundertrykking jf. nissunduolmmom
 njahkastit, njahkedit
 hikke
 njálmme, njálme
 munn
-njálmmerabdda, -rabda
+njálmmerabdda
 munnvik
-njálmmerájgge, -rájge
+njálmmerájgge
 munnhule
-njálmmeruobbe, -ruoppe
+njálmmeruobbe
 munnsår
-njálmmesuodje, -suoje
+njálmmesuodje
 munnbind
-njammamtablæhtta, -lehta
+njammamtablæhtta
 sugetablett
 njidtje, njittje
 kvinnebryst jf. tjidtje
-njidtjeurbbe, -urbe
+njidtjeurbbe
 brystvorte
-njiehtsagis, -gisá
+njiehtsagis
 legg (leggbein)
-njieladahka, -dagá
+njieladahka
 svelg
 njiellat, njielav
 svelge
@@ -1819,23 +1819,23 @@ njoarvvut
 avleires
 njunnje, njunje
 nese
-njunnjedákte, -dávte
+njunnjedákte
 nesebein
-njunnjeganjálkanálla, -nála
+njunnjeganjálkanálla
 tårenesekanal
-njunnjegiehtje, -gietje
+njunnjegiehtje
 nesetipp
 njunnjegåjkudisá (fl.)
 nesedråper
-njunnjemátta, -máddaga
+njunnjemátta
 neserot
-njunnjenjuorges, -njuorggá
+njunnjenjuorges
 nesebrusk
-njunnjerájgge, -rájge
+njunnjerájgge
 nesebor
-njunnjespráddja, -sprádja
+njunnjespráddja
 nesespray
-njunnjevarddem, -varddema
+njunnjevarddem
 neseblødning
 njunnjevuolskávtjá (fl.)
 bart, mustasje
@@ -1847,27 +1847,27 @@ njuorges, njuorggá
 brusk
 njuorro (attr. njuoros), njuoro
 rank
-njuosskaoadtje, -oattje
+njuosskaoadtje
 hudløst vev
 njuotsas (attr. njuotsas), njuohtsasa
 sløv
 njuovtjam, njuoktjama
 tunge
-njuovtjamdákte, -dávte
+njuovtjamdákte
 tungebein
-njuovtjamgiehtje, -gietje
+njuovtjamgiehtje
 tungespiss
-njuovtjammátta, -máddaga
+njuovtjammátta
 tungerot
-njuovtjamsláhpe, -slábe
+njuovtjamsláhpe
 tungeblad
-njuovtjamtjavelk, -tjavelga
+njuovtjamtjavelk
 tungerygg
-njuovtjamtjålggåráksá, -rávsá
+njuovtjamtjålggåráksá
 tungespyttkjertel
-normálla (attr. -mála), -mála
+normálla (attr. -mála)
 normal
-nulsastahka, -stagá
+nulsastahka
 støtskade
 nulssem, nulssema
 støtskade
@@ -1875,9 +1875,9 @@ nuoladit
 kle av seg
 nuollat, nuolav
 ta av seg (klesplagg)
-nuosskudahka, -dagá
+nuosskudahka
 utukt
-nuppástibme, -stime
+nuppástibme
 diskriminering
 nuppástit
 diskriminere
@@ -1887,15 +1887,15 @@ nælggot, nælgov
 sulte
 nærvva, nerva
 nerve
-nærvvavuogádahka, -dagá
+nærvvavuogádahka
 nervesystem
 nåhkåstit
 duppe av
 nårås, nårråsa
 hofte
-nåråsdákte, -dávte
+nåråsdákte
 lårhals
-nåråsdoajos, -dådjusa
+nåråsdoajos
 lårbeinsbrudd
 O
 
@@ -1903,13 +1903,13 @@ oabllot
 spre seg (om sykdom)
 oaddát, oaddáv
 sovne, legge seg for natta
-oademdálkas, -dálkkasa
+oademdálkas
 sovemedisin
-oademtablæhtta, -lehta
+oademtablæhtta
 sovetablett
 oadet, oadáv
 sove
-oadjodimdálkas, -dálkkasa
+oadjodimdálkas
 beroligende medisin, beroligende middel
 oadjodis
 beroligende (middel eller medisin)
@@ -1919,47 +1919,47 @@ oadjom
 avslappende
 oahke, oage
 foster
-oahketjáhtje, -tjátje
+oahketjáhtje
 fostervann
-oahkevahák, -vahága
+oahkevahák
 fosterskade
 oahtse, oatse
 tilsyn
 oajvve, oajve
 hode
-oajvveárre, -áre
+oajvveárre
 hodebunn jf. oajvvevuodo
-oajvvedihkke, -dihke
+oajvvedihkke
 hodelus
-oajvveluohtádusulmusj, -ulmutja
+oajvveluohtádusulmusj
 hovedtillitsvalgt
-oajvveluottudahka, -dagá
+oajvveluottudahka
 hodepine
-oajvveskuvrre, -skuvre
+oajvveskuvrre
 hodeskalle
-oajvvetjåhkkå, -tjåhkå
+oajvvetjåhkkå
 isse
-oajvvevuodo, -vuodo
+oajvvevuodo
 hodebunn jf. oajvveárre
 oalgge, oalge
 skulder
-oalggedákte, -dávte
+oalggedákte
 kravebein
-oalggediehkko, -diehko
+oalggediehkko
 skuldermuskel
-oalggeladás, -lahtasa
+oalggeladás
 skulderledd
 oalggeladásvuolssje ja báktjasa
 frozen shuolder (kronisk betennelse og smerter)
-oalggevuolssje, -vuolsje
+oalggevuolssje
 skulderbetennelse
 oalol, ållula
 kjeve
-oalolbádne, -báne
+oalolbádne
 jeksel
-oaloldákte, -dávte
+oaloldákte
 kjevebein
-oalolráksá, -rávsá
+oalolráksá
 mandel
 oaloltjålggåráksá,- rávsá
 kjevespyttkjertel
@@ -1967,35 +1967,35 @@ oanedit
 amputere jf. amputerit, jallat
 oarre, oare
 årsak,
-oatsodiddje, -diddje
+oatsodiddje
 støttekontakt
-obduksjåvnnå, -sjåvnå
+obduksjåvnnå
 obduksjon
-obduserit, -seriv
+obduserit
 obdusere
 obllánit
 spre seg (om sykdom)
-oksygiedna, -giena
+oksygiedna
 oksygen
-oksygiednabåhtål, -båhtåla
+oksygiednabåhtål
 oksygenflaske
 opium, opiuma
 opium
-optihkkár, -tihkkára
+optihkkár
 optiker
 P
 
-p-pillar, -pillara
+p-pillar
 p-pille
-parasihtta, -sihta
+parasihtta
 parasitt
-pariapparáhtta, -ráhta
+pariapparáhtta
 pariapparat
 parkinsona vihke, - vige
 parkinsons sykdom
-pasiænnta, -enta
+pasiænnta
 pasient
-passijvva, (attr. passijvva), -sijva
+passijvva, (attr. passijvva)
 passiv
 penicilijnna –lijna
 penicillin
@@ -2003,45 +2003,45 @@ pillar, pillara
 pille jf. tablæhtta
 pillarijda báddnum
 pilleavhengig
-pinsæhtta, -sehta
+pinsæhtta
 pinsett
 plåstar, ploasstara
 plaster
 plåstardit
 plastre
-polyhppa, -lyhpa
+polyhppa
 polypp
-porterra, -tera
+porterra
 portør
-positijvva (attr. positijvva), -tijva
+positijvva (attr. positijvva)
 positiv
-praktikánnta, -kánta
+praktikánnta
 praktikant
-prevensjåvnnå, -sjåvnå
+prevensjåvnnå
 prevensjon
-prevensjåvnnåábnas, -ábnnas
+prevensjåvnnåábnas
 prevensjonsmiddel
-priváhtaklinihkka, -nihka
+priváhtaklinihkka
 privatklinikk
-prognåvsså, -nåvså
+prognåvsså
 prognose
-proláppsa, -lápsa
+proláppsa
 prolaps
-psoriásis, -ásisa
+psoriásis
 psoriasis
-psykiáhtar, -áhtara
+psykiáhtar
 psykiater
-psykiatrijjalasj skihppijsujtár, -sujtára
+psykiatrijjalasj skihppijsujtár
 psykiatrisk sykepleier
-psykolåvggå, -låvgå
+psykolåvggå
 psykolog
-psykåvsså, -kåvså
+psykåvsså
 psykose
-psykåvsålasj, -lattja
+psykåvsålasj
 psykotisk
-pubertiehtta, -tiehta
+pubertiehtta
 pubertet jf. pubertæhtta
-pubertæhtta, -tehta
+pubertæhtta
 pubertet jf. pubertiehtta
 pummput, pummpuv
 pumpe
@@ -2055,9 +2055,9 @@ ráddit, ráddiv
 råde, kunne noe for
 ráddje, ráddje
 renholder
-radioaktijva suonjardibme, -dime
+radioaktijva suonjardibme
 radioaktiv stråling
-radiográffa, -gráfa
+radiográffa
 radiograf
 radåvnnå – radåvna
 radon
@@ -2069,9 +2069,9 @@ rájggat, rájgav
 stikke hull på jf. bedat
 rájgge, rájge
 hull
-rájnasvuohta, -vuoda
+rájnasvuohta
 hygiene jf. hygiedna
-rájnnimduogge, -duokke
+rájnnimduogge
 tuffer
 rájnnit, rájnniv
 rense
@@ -2087,11 +2087,11 @@ rappsabåvså (fl.)
 bleietruse
 rappsatruvsa (fl.)
 bleietruse
-rasissma, -sisma
+rasissma
 rasisme
-rasjesvuohta, -vuoda
+rasjesvuohta
 svakhet
-rassimvahák, -vahága
+rassimvahák
 belastningsskade
 rassit, rassiv
 overbelaste, overanstrenge
@@ -2099,35 +2099,35 @@ rassje (attr. rasjes), rasje
 ømtålig
 ravggat, ravgav
 falle om
-rávvisligge, -likke
+rávvisligge
 grå stær
-reflæksa, -levsa
+reflæksa
 refleks
-resepsjåvnnå, -sjåvnå
+resepsjåvnnå
 resepsjon
-resistænnta, -stenta
+resistænnta
 resistent (bakterie og virus)
-revmatissma, -tisma
+revmatissma
 revmatisme
-revmatissmaskihppe, -skihppe
+revmatissmaskihppe
 revmatiker
 ribon, ribona
 ringorm
-riegádahttemfiebar, -fiehpara
+riegádahttemfiebar
 barselfeber
-riegádahttemåssudahka, -dagá
+riegádahttemåssudahka
 fødeavdeling
-riegádahttet, -dahtáv
+riegádahttet
 føde
-riegádibme, -dime
+riegádibme
 fødsel
-riegádimdieblle, -dieble
+riegádimdieblle
 fødselsmerke, føflekk
-riegádimladnja, -lanjá
+riegádimladnja
 fødestue
-riegádimmájnne, -májne
+riegádimmájnne
 medfødt lyte
-riegádimmuddo, -mutto
+riegádimmuddo
 fødseltermin
 riegádit
 fødes
@@ -2143,7 +2143,7 @@ rijbbat, rijbav
 overleve
 rijddo, rijdo
 uro, konflikt
-riŋŋgumbádde, -bátte
+riŋŋgumbádde
 ringesnor
 rivva, rivá
 utslett (lite)
@@ -2157,13 +2157,13 @@ rosen, rosena
 rosen
 rumáj, rubmaha
 kropp
-rumájoasse, -oase
+rumájoasse
 kroppsdel, lem
 ruobbe, ruoppe
 skurv, sårskorpe
 ruobbot, ruoppov
 få skurv
-ruodnáligge, -likke
+ruodnáligge
 grønn stær
 ruohkkat, ruohkav
 klore seg
@@ -2175,11 +2175,11 @@ ruoppsis rusjme (fl.)
 røde hunder
 ruovdde, ruovde
 jern
-ruovddetablæhtta, -lehta
+ruovddetablæhtta
 jerntablett
-ruovddevádne, -váne
+ruovddevádne
 jernmangel
-ruovddevánesvuohta, -vuoda
+ruovddevánesvuohta
 jernmangel
 rusjmas, russjmasa (fl.)
 utslett, eksem jf. eksiebma
@@ -2191,21 +2191,21 @@ rægán, rægána
 smekke (for baby) jf. sliehppá
 ræhttsahit
 skreve ut
-røntgengåvvå, -gåvå
+røntgengåvvå
 røntgenbilde
 S
 
-sadjásasj, -sattja
+sadjásasj
 vikar
-sadjeluohtádusulmusj, -ulmutja
+sadjeluohtádusulmusj
 plasstillitsvalgt
-sadjemjikta, -jivta
+sadjemjikta
 slitasjegikt
 sádjoráhkko
 sædblære
 saggit
 surkle i brystet
-sagŋedibme, -dime
+sagŋedibme
 kløe
 sagŋedit
 klø
@@ -2213,11 +2213,11 @@ sáhppe, sáhpe
 blåmerke (på hud), blodutredning
 sáhppe, sáhpe
 galle
-sáhppegiergge, -gierge
+sáhppegiergge
 gallestein
-sáhppekanálla, -nála
+sáhppekanálla
 gallegang
-sáhpperáhkko, -ráhko
+sáhpperáhkko
 galleblære
 sáhppom, sáhppoma
 blåmerke (på hud), blodutredning
@@ -2225,13 +2225,13 @@ sáhppum
 blodsprengt
 sáhpput, sáhppuv
 få blåmerke
-sajes dálkudibme, -dime
+sajes dálkudibme
 alternativ medisin
 sájveldit
 utsondre (sekret, materie)
-sákkaldahka, -dagá
+sákkaldahka
 sårsting
-sálltetjáhtje, -tjátje
+sálltetjáhtje
 saltvann
 sálvva, sálva
 salve jf. vuojdas
@@ -2247,17 +2247,17 @@ savedit
 hele, lege (sår)
 savvet
 gro
-schizofredna, -frena
+schizofredna
 schizofren
-schizofreniddja, -nidja
+schizofreniddja
 schizofreni
-sekkatjoalle, -tjoale
+sekkatjoalle
 tynntarm
 sekkuk (attr. sekkugis), sekkuga
 tynn
 sella, sella
 celle
-sellasælgga, -selga
+sellasælgga
 cellegift
 siedja, sieja
 materie, puss
@@ -2267,45 +2267,45 @@ siegge (attr. siekkes/siekka), siekke
 slank
 siehppa, siehpa
 kjønnshår
-siejbbedákte, -dávte
+siejbbedákte
 halebein
-sielggiduvvam, -duvvama
+sielggiduvvam
 forgiftning
-sielggiduvvat, -duváv
+sielggiduvvat
 forgiftes (bli forgiftet)
 sielggit, sielggiv
 forgifte
-sieradahka, -dagá
+sieradahka
 isolat
 sieradit
 isolere
-sievedus, -dusá
+sievedus
 henvisning
 sievvet, sæváv
 henvise til
 sihkkot, sihkov (njunev)
 pusse nesen
-sijddaskihppijsujtár, -sujtára
+sijddaskihppijsujtár
 hjemmesykepleier
 sijddaskihppijsujtto,-sujto
 hjemmesykepleie
-sijddaviehkke, -viehke
+sijddaviehkke
 hjemmehjelp
-sirádibme, -dime
+sirádibme
 skilsmisse
 sirádit
 skille seg
-sirdulasj (attr. sirdulasj), -lattja
+sirdulasj (attr. sirdulasj)
 innvandrer
-sisilmme, -ilme
+sisilmme
 inneklima
 sisisjaddam gadtsa, gattsa
 inngrodd negl
-sisŋep tjalmmegiehtje, -gietje
+sisŋep tjalmmegiehtje
 indre øyekrok
-sisŋusjdálkas, -dálkkasa
+sisŋusjdálkas
 innvortes medisin
-sisŋusjdálkudiddje, -diddje
+sisŋusjdálkudiddje
 indremedisiner
 sjaddat, sjattav
 vokse
@@ -2313,19 +2313,19 @@ sjahpe (attr. sjabes), sjabe
 frisk og rask
 sjahpedit
 holde seg i form
-sjattalvis, -visá
+sjattalvis
 kul, svull, svulst, tumor
-sjelæhtta, -lehta
+sjelæhtta
 skjelett jf. dákterigge
 sjiervve, sjierve
 kjønn
-sjiervveguovlle, -guovlle
+sjiervveguovlle
 kikker
-sjiervvehormåvnnå, -måvnå
+sjiervvehormåvnnå
 kjønnshormon
-sjiervveiellem, -iellema
+sjiervveiellem
 seksualliv
-sjiervvemålssom, -målssoma
+sjiervvemålssom
 kjønnsoperasjon
 sjiervverávsá (fl.)
 kjønnskjertler
@@ -2333,19 +2333,19 @@ sjiervveskihpudahka -dagá
 kjønnssykdom
 sjiervvevahágahttem
 kjønnslemlestelse
-sjiervvevuohta, -vuoda
+sjiervvevuohta
 seksualitet
 sjoahkka, sjåhka
 sjokk
-sjuvtjaguhttem, -guhttema
+sjuvtjaguhttem
 forfrysning
-sjuvtjaguhttet, -guhtáv
+sjuvtjaguhttet
 forfryse
-sjuvtjaguvvat, -guváv
+sjuvtjaguvvat
 forfryse seg
 skadjalit
 bli sinnsforvirret
-skárlákfiebar, -fiehpara
+skárlákfiebar
 skarlagenfeber
 skávttjá skávtjá (fl.)
 skjegg
@@ -2359,7 +2359,7 @@ skiblle, skible
 flass
 skieges (attr. skieges), skæhkása
 utuktig
-skiegesvuohta, -vuoda
+skiegesvuohta
 utukt
 skielbbe, skielbe
 skjelving
@@ -2377,37 +2377,37 @@ skiermmá (attr. skiermmá), skiermá
 halt
 skiermmot, skiermov
 halte
-skihpaláhtjo, -látjo
+skihpaláhtjo
 sykeleie, sykeseng
 skihpat (+ elativ)
 lide av
 skihpat, skibáv
 være syk
-skihppámájgge, -ájge
+skihppámájgge
 inkubasjonstid
 skihppát, skihppáv
 bli syk
 skihppe, skihppe
 pasient
-skihppejournálla, -nála
+skihppejournálla
 sykejournal
-skihppen tjáledibme, -dime
+skihppen tjáledibme
 sykemelding
 skihppen tjáledit
 sykemelde
-skihppijsijdda, -sijda
+skihppijsijdda
 sykehjem
-skihppijsujtár, -sujtára
+skihppijsujtár
 sykepleier
 skihppijvahákbuohttidibme
 pasientskadeerstatning
-skihppijviesso, -vieso
+skihppijviesso
 sykehus
-skihppijåvdåstiddje, -stiddje
+skihppijåvdåstiddje
 pasientombud
-skihpudahka, -dagá
+skihpudahka
 lidelse, sykdom
-skihpudahkadásse, -dáse
+skihpudahkadásse
 sykdomsstadium
 skindik (attr. skindigis), skindiga
 hyperaktiv
@@ -2415,15 +2415,15 @@ skoade, skoade
 hinne, tynn hinne; kapsel, omgivende hinne
 skoahto, skoado
 livmor
-skoahtogahttjam, -gahttjama
+skoahtogahttjam
 livmornedfall
-skoahtonjálmme, -njálme
+skoahtonjálmme
 livmormunning
-skoahtotjåttå, -tjåddåga
+skoahtotjåttå
 livmorhals
-skuobadahka, -dagá
+skuobadahka
 gnagsår
-skuohpalis, -lisá
+skuohpalis
 blemme (ved gnagsår)
 skuohppit
 gnage, gi gnagsår
@@ -2435,13 +2435,13 @@ sladje (attr. slajes), slaje
 skjødesløs
 slága, slága; sláhka, slága
 slag
-sláhpeladás, -lahtasa
+sláhpeladás
 ankelledd
 sliehppá, sliehpá
 barnesmekke jf. rægán
 slijvve, slijve
 slim
-slijvvetsuodtsa, -tsuottsa
+slijvvetsuodtsa
 slimhinne
 sluggam, sluggama
 hevelse
@@ -2487,43 +2487,43 @@ soapptsom, soapptsoma
 trivsel
 soapptsot, soaptsov
 trives
-sosionåvmmå, -nåvmå
+sosionåvmmå
 sosionom
 spadne, spane
 drøvel
 spellamij báddnum
 spilleavhengig
-spesialissta, -lista
+spesialissta
 spesialist
-spæltjádibme, -dime
+spæltjádibme
 forstuing
 spæltjádit
 forstue; vrikke (en fot)
 stáddá, státtá
 ambolten
-stajgukvuohta, -vuoda
+stajgukvuohta
 stabilitet
 stávtjurit
 ha dårlig balanse
-stetoskåvppå, -skåvpå
+stetoskåvppå
 stetoskop
-stomiddja, -midja
+stomiddja
 stomi
 strubmá, strumá
 struma
-stuodadåktår, -dåktåra
+stuodadåktår
 fastlege
 stuojmme, stuojme
 uro
-stuoredimglássa, -glása
+stuoredimglássa
 forstørrelsesglass
 stuorra tsinnabaksima (fl.)
 store skamlepper
-stuortjuvdde, -tjuvde
+stuortjuvdde
 stortå
 stuoves (attr. stuoves/stuovva), stuovvása
 stabil
-stuovesvuohta, -vuoda
+stuovesvuohta
 stabilitet
 suddadit
 fordøye
@@ -2533,39 +2533,39 @@ sujbbot, sujbov
 døse
 sujtár, sujtára
 pleier
-sujtárviehkke, -viehke
+sujtárviehkke
 søsterhjelp
 sujtto, sujto
 pleie
-sujttodárbulasj, -dárbulattja
+sujttodárbulasj
 pleietrengende
 sujttovædtsaga (fl.)
 medisinske hjelpemidler
-suoddjimsujtár, -sujtára
+suoddjimsujtár
 vernepleier
-suodjeåhttse, -åhttse
+suodjeåhttse
 asylsøker (asylant)
 suodna, suona
 sene
-suodnagæsádahka, -dagá
+suodnagæsádahka
 senestrekk
-suodnatjagár, -tjagára
+suodnatjagár
 senefeste
-suodnavuolssje, -vuolsje
+suodnavuolssje
 senebetennelse
 suojedis (attr.)
 ubeskyttet
-suoldudakoalle, -oale
+suoldudakoalle
 fordøyelseskanalen
-suoldudakorgádna, -gána
+suoldudakorgádna
 fordøyelsesorgan
 suolle, suole
 serum
-suonjardálkudibme, -dime
+suonjardálkudibme
 strålebehandling
-suorekdákte, -dávte
+suorekdákte
 stigbøylen
-suormastjuvdde, -tjuvde
+suormastjuvdde
 ringfinger
 suormma, suorma
 ringfinger
@@ -2573,9 +2573,9 @@ suosskat, suoskav
 tygge
 suottadit
 skjære seg
-suovastiddje, -stiddje
+suovastiddje
 røyker
-suovastimjuolgge, -juolge
+suovastimjuolgge
 røykebein
 suovastit
 røyke
@@ -2585,11 +2585,11 @@ surmestit
 kjenne murrende smerte
 suvrre, suvre
 syre
-suvrrehuhtte, -huhtte
+suvrrehuhtte
 syrenøytraliserende
-suvrrudahka, -dagá
+suvrrudahka
 surhet(sgrad)
-suvtjaguvvam, -guvvama
+suvtjaguvvam
 forfrysning
 svahtjat, ij svatja
 slå (om hjerte)
@@ -2601,19 +2601,19 @@ svijddit, ij svijddi
 svi
 svijggat
 avta, gå over (om sykdom)
-svirál, -svirrala
+svirál
 korsrygg
-syhkaldibme, -dime
+syhkaldibme
 sykling
 syhkaldit
 sykle
 sædos, sedusa
 hes
-sæŋŋgaduostun, -duostuna
+sæŋŋgaduostun
 sengehest
-sæŋŋgaåssudagásj, -dagátja
+sæŋŋgaåssudagásj
 sengepost
-søliakiddja, -kidja
+søliakiddja
 søliaki
 sådjåt, såjåv
 bøye seg
@@ -2623,19 +2623,19 @@ såjådit
 bøye
 T
 
-tablæhtta, -lehta
+tablæhtta
 pille, tablett
-tablæhtta, -lehta oajvveluottudahkaj
+tablæhtta oajvveluottudahkaj
 hodepinetablett
-tempur-madrássa, -rássa
+tempur-madrássa
 tempur-madrass
-tempur-oajv(e)vuolle, -vuole
+tempur-oajv(e)vuolle
 tempur-pute
-tjadádahka, -dagá
+tjadádahka
 diare
-tjadárájnnimábnas, -ábnnasa
+tjadárájnnimábnas
 desinfiseringsmiddel
-tjadárájnnit, -rájnniv
+tjadárájnnit
 desinfinsere
 tjagár, tjahkara
 brusk
@@ -2643,7 +2643,7 @@ tjáhtjeskuovle (fl.)
 vannkopper
 tjalán, tjalána
 hjørnetann, kinntann
-tjáledibme, -dime skihppijviessuj
+tjáledibme skihppijviessuj
 innleggelse
 tjáledit (+ elat.)
 skrive ut
@@ -2653,9 +2653,9 @@ tjáledit dálkudibmáj, sujttoj/skihppijviessuj
 legge inn (pasient)
 tjalmána (fl.)
 briller
-tjalmedibme (attr. tjalmedis), -dime
+tjalmedibme (attr. tjalmedis)
 blind
-tjalmedisvuohta, -vuoda
+tjalmedisvuohta
 blindhet, svaksynthet
 tjalmeduvvat, ­duváv
 bli blind
@@ -2665,57 +2665,57 @@ tjalmme, tjalme
 øye
 tjalmmedierre – diere
 regnbuehinne (iris)
-tjalmmedierre, -diere
+tjalmmedierre
 iris, regnbuehinne
-tjalmmedåktår, -dåktåra
+tjalmmedåktår
 øyelege
-tjalmmegáhkká, -gáhká
+tjalmmegáhkká
 øyeeple, øyesten
-tjalmmegiehtje, -gietje
+tjalmmegiehtje
 øyekrok
 tjalmmeglása (fl.)
 briller
 tjalmmeguolga (fl.)
 øyenbryn
-tjalmmegålle, -gålle
+tjalmmegålle
 pupill
-tjalmmegållåsj, -gållåtja
+tjalmmegållåsj
 pupill
-tjalmmelinssa, -linsa
+tjalmmelinssa
 linse, øyelinse
-tjalmmerájgge, -rájge
+tjalmmerájgge
 øyehule
-tjalmmerikkas, -riggasa
+tjalmmerikkas
 ringformet bein rundt øyet
-tjalmmerikkasdákte, -dávte
+tjalmmerikkasdákte
 ringformet bein rundt øyet
-tjalmmetsuodtsa, -tsuottsa
+tjalmmetsuodtsa
 hvitøye, øyets bindehinne
-tjalmmevielggat, -vielggada
+tjalmmevielggat
 hvitøye
-tjásmagis, -gisá
+tjásmagis
 kvise
 tjavelk, tjavelga
 ryggvirvelsøyle
-tjavelkadámbroahkka, -bråhka
+tjavelkadámbroahkka
 ryggmargsbrokk
-tjavelkadámjoarkka, -joarka
+tjavelkadámjoarkka
 den forlengede marg
-tjavelkdákte, -dávte
+tjavelkdákte
 ryggvirvel
-tjavelkgiehtje, -gietje
+tjavelkgiehtje
 halebein
 tjavgga
 stram
-tjavggimhoasso, -hoasso
+tjavggimhoasso
 støttestrømpe
 tjavggit, tjavggiv
 stramme
 tjibbe, tjippe
 lårmuskel (på menneske)
-tjiddnudahka, -dagá
+tjiddnudahka
 forstoppelse
-tjiddnudakdálkas, -dálkkasa
+tjiddnudakdálkas
 avføringsmiddel
 tjiddnum, tjiddnuma
 forstoppelse
@@ -2725,13 +2725,13 @@ tjidtje, tjittje
 kvinnebryst jf. nidtje
 tjiebet, tjiebeda
 hals (utvendig) jf. tjiehpe
-tjiebetsuodna, -suona
+tjiebetsuodna
 halssene (stor)
 tjiehpe, tjiebe
 hals (utvendig) jf. tjiebet
 tjiehtjer, tjiehtjera
 lillefinger
-tjiehtjerasj, -rattja
+tjiehtjerasj
 lillefinger
 tjielggat, tjielgav
 våkne opp (av narkose)
@@ -2753,33 +2753,33 @@ tjivrijdit
 stinke
 tjoajvve, tjoajve
 mage (sekk)
-tjoajvvebånjådahka, -dagá
+tjoajvvebånjådahka
 mageknip
-tjoajvvegåttuldahka, -dagá
+tjoajvvegåttuldahka
 stikkende smerte
-tjoajvvehávve, -háve
+tjoajvvehávve
 magesår
-tjoajvvesnjárttjá, -snártjá
+tjoajvvesnjárttjá
 bukdekke
-tjoajvvesuvrre, -suvre
+tjoajvvesuvrre
 magesyre
 tjoalle, tjoale
 tarm
-tjoamodis, -disá
+tjoamodis
 skulderblad
-tjoamodisnårås, -nårråsa
+tjoamodisnårås
 overarmsbein
-tjoarbieldákte, -dávte
+tjoarbieldákte
 hoftebein
 tjoarbiele
 (pl.) hoftepartiet
-tjoarbieloperasjåvnnå, -sjåvnå
+tjoarbieloperasjåvnnå
 hofteoperasjon
-tjoarvetsuodtsa, -tsuottsa
+tjoarvetsuodtsa
 hornhinne
 tjuhttá, tjuhtá
 knoke (i fot- eller handledd)
-tjullaskihpudahka, -dagá
+tjullaskihpudahka
 kyssesyke
 tjuodtjumis, tjuodtjumisa
 skinnbeinet
@@ -2791,27 +2791,27 @@ tjuoggot, tjuokkov
 stikke
 tjuohpadit
 kutte seg, skjære seg
-tjuojkkuldahka, -dagá
+tjuojkkuldahka
 sting (i siden)
 tjuokkes, tjuoggá
 stikk
-tjuokkudahka, -dagá
+tjuokkudahka
 stikkende smerte
-tjuottjudahka, -dagá
+tjuottjudahka
 ereksjon
 tjuottjudakvihke, - viege
 (fl.) ereksjonsproblemer
 tjutjuk, tjutjuga
 pekefinger
-tjutjuktjuvdde, -tjuvde
+tjutjuktjuvdde
 pekefinger
 tjuvdde, tjuvde
 finger
-tjuvddedoajus, -dådjusa
+tjuvddedoajus
 fingerbrudd
-tjuvddegiehtje, -gietje
+tjuvddegiehtje
 fingerspiss
-tjuvddeladás, -lahtasa
+tjuvddeladás
 fingerledd
 tjuvlle, tjuvle
 leddknoke (i hånd eller fot)
@@ -2819,17 +2819,17 @@ tjålggå, tjålgå
 spytt
 tjålggådit. tjålggåt
 spytte (en gang)
-tjålggåráksá, -rávsá
+tjålggåráksá
 spyttkjertel
 tjålggåt, tjålgåv
 spytte
 tjårbieldákte, dávte
 lårbein
-tjårbielle, -biele
+tjårbielle
 lår
 tjårmmå, tjårmå
 knyttneve
-tjårmmåvuodo, -vuodo
+tjårmmåvuodo
 håndflate
 tjåssne, tjåsne
 fettkul
@@ -2837,89 +2837,89 @@ tjåssne, tjåsne
 kul, klump jf. sjattalvis
 tjåttå, tjåddåga
 hals (innvendig), spiserør
-tjåttåvuolssje, -vuolsje
+tjåttåvuolssje
 halsbetennelse
-toleránssa, -ránsa
+toleránssa
 toleranse jf. gierddisvuohta
 tráhppa, tráhpa
 trapp(oppgang)
-transplantasjåvnnå, -sjåvnå
+transplantasjåvnnå
 transplantasjon
-tsaggeieddne, -iedne
+tsaggeieddne
 fødselshjelper
-tsaggeieddne, -iedne
+tsaggeieddne
 jordmor
 tsiehka, tsiega
 lukt, duft jf. happsa
 tsinna, tsinna
 kjønnsorgan (kvinnelig), vagina
-tsinnabavsev, -baksima
+tsinnabavsev
 kjønnslepper, skamlepper
-tsinnadákte, -dávte
+tsinnadákte
 skambein
-tsinnadåhppå, -dåhpå
+tsinnadåhppå
 vagina
-tsinnanjálmme, -njálme
+tsinnanjálmme
 vaginaåpning
 tsirgun, tsirguna
 sprøyte
-tsirgunnállo, -nálo
+tsirgunnállo
 sprøytespiss
-tsirikoajvve, -oajve
+tsirikoajvve
 glans
-tsivtsatjoalle, -tjoale
+tsivtsatjoalle
 tolvfingertarm
 tsuodtsa, tsuottsa
 hinne
 tsuohpe, tsuobe
 underliv
-tsuovkkanahttem, -nahttema
+tsuovkkanahttem
 provosert abort
-tsuovkkanahttet, -nahtáv
+tsuovkkanahttet
 forårsake abort
-tsuovkkanibme, -nime
+tsuovkkanibme
 spontanabort
 tsuovkkanit
 abortere
-tsåhke- ja varravárrevihke, -vige
+tsåhke- ja varravárrevihke
 hjerte- og karsykdom
 tsåhke, tsåge
 hjerte
-tsåhkedálkas, -dálkkasa
+tsåhkedálkas
 hjertemedisin
-tsåhkeganugibme, -gime
+tsåhkeganugibme
 hjertestans
-tsåhkegæsádahka, -dagá
+tsåhkegæsádahka
 hjertekrampe (angina pectoris)
-tsåhkehávve, -háve
+tsåhkehávve
 hjerteinfarkt
-tsåhkeinfárkkta, -fárkta
+tsåhkeinfárkkta
 hjerteinfarkt
-tsåhkekláffa, -kláffa
+tsåhkekláffa
 hjerteklaff
-tsåhkekrámmpa, -krámpa
+tsåhkekrámmpa
 hjertekrampe
-tsåhkeladnja, -lanjá
+tsåhkeladnja
 hjertekammer
-tsåhkeslága, -slága, tsåhkesláhka, -slága
+tsåhkeslága, tsåhkesláhka
 hjerteslag
-tsåhkesvatján, -svatjána
+tsåhkesvatján
 hjertestarter
-tsåhketsábbmem, -tsábbmema
+tsåhketsábbmem
 puls
 tsåhkevarravárre- váre
 kransåre, hjertepulsåre
-tsåhkevihke, -vige
+tsåhkevihke
 hjertefeil
 tsåhppe, tsåhpe
 fregne
-tuberkulåvsså, -låvså
+tuberkulåvsså
 tuberkulose
 turnus, turnusa
 turnus
-turnusdåktår, -dåktåra
+turnusdåktår
 turnuslege
-turnuskandidáhtta, -dáhta
+turnuskandidáhtta
 turnuskandidat
 tyfus, tyfusa
 tyfus
@@ -2927,85 +2927,85 @@ U
 
 uddo, utto
 arr
-ulmusjtjærdda, -tjerda
+ulmusjtjærdda
 folkeslag
 unna tsinnabaksima (fl.)
 små kjønnslepper, skamlepper
-urmagahttet, -gahtáv
+urmagahttet
 tyrannisere
 urmastit
 tyrannisere
-urmeduhttet, -urmeduhtáv
+urmeduhttet
 tyrannisere
-urolåvggå, -låvgå
+urolåvggå
 urolog
 V
 
 vádá, vádá
 fare, risiko
-vádálasj (attr. vádálasj), -lattja
+vádálasj (attr. vádálasj)
 farlig, risikabel
-vádámærkka, -merka
+vádámærkka
 faresignal
 vaddusa (fl.)
 evner
-vádtsemsoabbe, -soappe
+vádtsemsoabbe
 spaserstokk
-vádtsemståvllå, -ståvlå
+vádtsemståvllå
 rullator
 vádtset, váttsáv
 gå
 váhkká, váhká
 legg, leggmuskel
-váhkkádákte, -dávte
+váhkkádákte
 leggbein
-vajáldahkes (attr. vajaldáhkes), -dahkká
+vajáldahkes (attr. vajaldáhkes)
 distre, glemsk
-vajálduhttet, -duhtáv
+vajálduhttet
 glemme
 vájbas (attr. vájbbam/vájbas), vájbbasa
 trøtt, sliten
 vájkkudit
 virke
-vájkkudus, -dusá
+vájkkudus
 virkning
 vájkudit
 påvirke
 vájvedit (tr.)
 plage
-vájvvástuvvam, -stuvvam
+vájvvástuvvam
 lidelse
 vájvve, vájve
 plage
-vájvvemujttalibme, -lime
+vájvvemujttalibme
 anamnese
-vaksijnna, -sijna
+vaksijnna
 vaksine
-vaksinerit, -neriv
+vaksinerit
 vaksinere
-váksjomåssudahka, -dagá
+váksjomåssudahka
 overvåkningen
 vákta, vávta
 vakt
-váktaladnja, -lanjá
+váktaladnja
 vaktrom
-váktaturnus, -turnusa
+váktaturnus
 vaktturnus
-váktaårnik, -årniga
+váktaårnik
 vaktordning
-valáklijnne, -lijne
+valáklijnne
 fatle
-valástallamvahák, -vahága
+valástallamvahák
 idrettsskade
-vanádimvahák, -vahága
+vanádimvahák
 strekkskade
 vanádit
 forstrekke
-vánesvuohtaskihpudahka, -dagá
+vánesvuohtaskihpudahka
 mangelsykdom
-vanntsamåjdås (attr. -måjdas), -måjddåsa
+vanntsamåjdås (attr. -måjdas)
 sjøsyk
-várálasj (attr. várálasj), -lattja
+várálasj (attr. várálasj)
 farlig
 varáv vuokset, vuovsáv
 ha blodstyrtning
@@ -3013,129 +3013,129 @@ vardde, vardde
 bløder
 varddem, varddema
 blødning
-varddemvihke, -vige
+varddemvihke
 blødersykdom
 varddet, vardáv
 blø
 varra, vará
 blod
-varrabáŋŋka, -báŋka
+varrabáŋŋka
 blodbank
-varrabuodustahka, -stagá
+varrabuodustahka
 blodpropp
-varrabårredávdda, -dávda
+varrabårredávdda
 varradæddo
 blodkreft
 blodtrykk
-varragehtsulahka, -lagá
+varragehtsulahka
 blodigle
-varragåjkudis, -disá
+varragåjkudis
 bloddråpe
-varrajåhto, -jådo
+varrajåhto
 kretsløp
 varrajåhtovihke
 sirkulasjonssvikt (ordrett: blodet sirkulerer ikke lett)
-varrakræffta, -krefta
+varrakræffta
 blodkreft
 varran
 blodig
-varranjárbbudimdálkas, -dálkkasa
+varranjárbbudimdálkas
 blodfortynnende medisin
-varraseælla, -sella
+varraseælla
 blodlegeme
-varrasielggidus, -dusá
+varrasielggidus
 blodforgiftning
-varrasielggiduvvam, -duvvama
+varrasielggiduvvam
 blodforgiftning
-varrásin/vieddjen tjáledibme, -dime
+varrásin/vieddjen tjáledibme
 friskmelding
 varrásin/vieddjen tjállet
 friskmelde
-varrasirddem, -sirddema
+varrasirddem
 blodoverføring
-varrásmuvvat, -smuváv
+varrásmuvvat
 friskne til
-varrasuodna, -suona
+varrasuodna
 blodåre
-varrasuolle, -suole
+varrasuolle
 blodplasma
-varrasvahtjo, -svatjo
+varrasvahtjo
 puls jf. tsåhkketsábbmem
-varrasåhkår, -såhkkåra
+varrasåhkår
 blodsukker
 varrasåhkårmihtun
 blodsukkerapparat
-varratjærdda, -tjerda
+varratjærdda
 blodtype
 varravadde, varravadde
 blodgiver
-varravaddem, -vaddema
+varravaddem
 blodgivning
-varravádne, -váne
+varravádne
 blodmangel jf. anemiddja
-varravánes (attr. -vanes), -vádnása
+varravánes (attr. -vanes)
 blodfattig
-varravárre, -váre
+varravárre
 blodkar, blodåre
-varravárretjuolmma, -tjuolma
+varravárretjuolmma
 åreknute
-varraviesoj, -viessuha
+varraviesoj
 blodtrykk
-varraviesojdálkas, -dálkasa
+varraviesojdálkas
 blodtrykksmedisin
-varraviesojgahttjam, -gahttjama
+varraviesojgahttjam
 blodtrykksfall
 varraviesojmihtun
 blodtrykksmåler
-varravuovsas, -vuoksasa
+varravuovsas
 blodstyrning
-várregártjedibme, -dime
+várregártjedibme
 åreinnsnevring
-várregártjodus, -dusá
+várregártjodus
 åreinnsnevring
 varres (attr. varres), varrása
 frisk
-várresiejnne, -siejne
+várresiejnne
 karvegg
-varresvuohta, -vuoda
+varresvuohta
 helse
-varresvuohtabargge, -bargge
+varresvuohtabargge
 helsearbeider, helsepersonell
-varresvuohtadievnastus, -stusá
+varresvuohtadievnastus
 helsetjeneste
-varresvuohtadille, -dile
+varresvuohtadille
 helsetilstand
-varresvuohtaguoradallam, -dallama
+varresvuohtaguoradallam
 helseundersøkelse
-varresvuohtaguoradibme, -dime
+varresvuohtaguoradibme
 helsesjekk
-varresvuohtaguovdásj, -guovdátja
+varresvuohtaguovdásj
 helsesenter
-varresvuohtagæhttjo, -gæhtjo
+varresvuohtagæhttjo
 helsetilsyn
-varresvuohtarájddo, -rájdo
+varresvuohtarájddo
 helsekø
-varresvuohtasujtár, -sujtára
+varresvuohtasujtár
 helsesøster
-varresvuohtatjálle, -tjálle
+varresvuohtatjálle
 helsesekretær
-varresvuohtavájvve, -vájve
+varresvuohtavájvve
 helseplage
-varresvuohtavárálasj (attr. -várálasj), -lattja
+varresvuohtavárálasj (attr. -várálasj)
 helseskadelig
-varresvuohtaásadus, -dusá
+varresvuohtaásadus
 helseinstitusjon
-varraåtsåldus, -dusá
+varraåtsåldus
 blodprøve
 vártto, várto
 vorte
-vaselijnna, -lijna
+vaselijnna
 vaselin
 vastet vaháguvvam (perf.part.)
 alvorlig skadet
 váttsatjit
 gå tur
-vellahimskihppe, -skihppe
+vellahimskihppe
 sengeliggende
 vellahit
 holde senga
@@ -3147,15 +3147,15 @@ viehkedit
 hjelpe
 viehkke, viehke
 hjelp
-viehkkegavlla, -gavla
+viehkkegavlla
 søsterhjelp
-viehkkenævvoguovdásj, -guovdátja
+viehkkenævvoguovdásj
 hjelpemiddelsentralen
-viehkkesujtár, -sujtára
+viehkkesujtár
 hjelpepleier
-viejenisnærvva, -nerva
+viejenisnærvva
 balansenerve
-viejenisorgádna, -gána
+viejenisorgádna
 likevektsorgan
 viellidahttet –dahtáv
 legge (en annen person)
@@ -3163,9 +3163,9 @@ viellidit
 legge seg ned
 vierrat, vierav
 falle om
-vierredahko, -dago
+vierredahko
 forbrytelse
-vierrevuojnno, -vuojno
+vierrevuojnno
 tvangsforestilling  naggovuojnno
 viesso, viesso
 levende (presens partisipp), i live
@@ -3173,11 +3173,11 @@ viessom, viessoma
 liv
 viessomvidjura (fl.)
 levekår
-viessomvuoge ietjájduhttem, -duhttema
+viessomvuoge ietjájduhttem
 livsstilsendring
-viessomvuohke, -vuoge
+viessomvuohke
 livsstil
-viessomvuohkeskihpudahka, -dagá
+viessomvuohkeskihpudahka
 livsstilssykdom
 viessot, viesov
 leve
@@ -3187,13 +3187,13 @@ vihke, vige
 sykdom
 virus, virusa
 virus
-virusdálkas, -dálkkasa
+virusdálkas
 virusmedisin
-visskádávdda, -dávda
+visskádávdda
 gulsott
-vitamijnna, -mijna
+vitamijnna
 vitamin
-vitamijnnavánesvuohta, -vuoda
+vitamijnnavánesvuohta
 vitaminmangel
 vuobok, vuoboga
 en som prater i søvne
@@ -3203,121 +3203,121 @@ vuojdas, vuojddasa
 salve, krem jf. kræmma
 vuojddat, vuojdav
 smøre
-vuojŋadahka, -dagá
+vuojŋadahka
 pust
-vuojŋadallam, -dallama
+vuojŋadallam
 hvile
-vuojŋadasstet, -dastáv
+vuojŋadasstet
 hvile seg
-vuojŋadibme, -dime
+vuojŋadibme
 hvile
-vuojŋamdoargestibme, -stime
+vuojŋamdoargestibme
 hjernerystelse
-vuojŋamgarra, -gara
+vuojŋamgarra
 hjernebark
-vuojŋamslága, -slága
+vuojŋamslága
 hjerneslag
-vuojŋamtsuodtsa, -tsuottsa
+vuojŋamtsuodtsa
 hjernehinne
-vuojŋamtsuodtsavuolssje, -vuolsje
+vuojŋamtsuodtsavuolssje
 hjernehinnebetennelse
-vuojŋamvarddem, -varddema
+vuojŋamvarddem
 hjerneblødning, hjernedrypp
-vuojŋastahka, -stagá
+vuojŋastahka
 åndedrett
-vuojŋŋadimmasjijnna, -sjijna
+vuojŋŋadimmasjijnna
 respirator
 vuojŋŋama (fl.)
 hjerne
-vuojŋŋammasjijnna, -sjijna
+vuojŋŋammasjijnna
 pustemaskin
-vuojŋŋamorgádna, -gána
+vuojŋŋamorgádna
 åndedrettsorgan
-vuojŋŋamspráddja, -sprádja
+vuojŋŋamspráddja
 inhalasjonsspray
 vuojŋŋat, vuojŋav
 inhalere
 vuojŋŋat, vuojŋav
 puste
-vuojsadahka, -dagá
+vuojsadahka
 stikkende verk
 vuokset, vuovsáv
 kaste opp, spy
-vuolep ganjálkanálla, -nála
+vuolep ganjálkanálla
 nedre tårekanal
 vuollánit
 gi opp, resignere
-vuollebádne, -báne
+vuollebádne
 underkjevetann
-vuollebavsev, -baksima
+vuollebavsev
 underleppe
-vuollediejggo, -diejgo
+vuollediejggo
 underarm
 vuollediejggodákte -dávte
 underarmsbein
-vuollegis varraprosænnta, -senta
+vuollegis varraprosænnta
 lav blodprosent
-vuollegis varraviesoj, -viessuha
+vuollegis varraviesoj
 lavt blodtrykk
-vuolleoalol, -ållula
+vuolleoalol
 underkjeve
-vuolleramás, -rabmasa
+vuolleramás
 nedre øyelokk
-vuollevájmmo, -vájmo
+vuollevájmmo
 underliv
 vuollevájmo (pl.)
 testikler
 vuollevájmo- vájmo
 underliv
-vuollevuobdda, -vuobda
+vuollevuobdda
 bukhulen
 vuolssje, vuolsje
 infeksjon
 vuoppta, vuopta
 hårstrå
-vuopptaruohttsa, -ruohtsa
+vuopptaruohttsa
 hårrot
 vuoptajt biesstet, bæstáv
 miste håret
 vuoptajt láhppet, láhpáv
 miste håret
-vuorastibme, -stime
+vuorastibme
 aldring
-vuorastuvvat, -stuváv
+vuorastuvvat
 eldes
-vuorasvuohta, -vuoda
+vuorasvuohta
 alderdom
-vuorddámus, -musá
+vuorddámus
 forventning
-vuorddemladnja, -lanjá
+vuorddemladnja
 venterom
-vuorddemlissta, -lista
+vuorddemlissta
 venteliste
 vuorkká, vuorká
 lager
-vuorkudahka, -dagá
+vuorkudahka
 lager
 vuorok (attr. vuorogis), vuoroga
 unormal
-vuosstájválldem, -válldema
+vuosstájválldem
 mottak
-vuossteábnas, -ábnnasa
+vuossteábnas
 antistoff
-vuosstesælgga, -selga
+vuosstesælgga
 motgift
-vuostasjviehkke, -viehke
+vuostasjviehkke
 førstehjelp
 vuotjos, vuohtjusa
 sekret
 vuovsas, vuoksasa
 oppkast
-væddjádahkes (attr. -dahkes), -dahkká(sa)
+væddjádahkes (attr. -dahkes)(sa)
 helsebringende
 væddját, væddjáv
 bli frisk, friskne til
 vækta, vekta
 (person)vekt
-vællahimhávve, -háve
+vællahimhávve
 liggesår
 vællahit
 holde senga, ligge
@@ -3327,55 +3327,55 @@ forverres
 
 ædnásj, ædnátja
 ringfinger
-æggárasstet, -rastáv
+æggárasstet
 illebefinnende, få et illebefinnende
 ællát
 bryte ut (skihpudahka ællá)
-æsjkáldahttet, -dahtáv
+æsjkáldahttet
 vrikke (ut av ledd)
-æsjkálduhttet, -duhtáv
+æsjkálduhttet
 vrikke (ut av ledd)
 Ø
 
-østrogiedna, -giena
+østrogiedna
 østrogen
 Å
 
 ålem, ålema
 lend, midje
-ålgop tjalmmegiehtje, -gietje
+ålgop tjalmmegiehtje
 ytre øyekrok
-ålgusjdálkas, -dálkkasa
+ålgusjdálkas
 utvortes medisin
-ållessjattuk (attr. -sjattuk), -sjattuga
+ållessjattuk (attr. -sjattuk)
 voksen
-årojbagádiddje, -diddje
+årojbagádiddje
 boveileder
-åssudahka, -dagá
+åssudahka
 avdeling
-åssudakskihppijsujtár, -sujtára
+åssudakskihppijsujtár
 avdelingssykepleier
-åtsådallam, -dallama
+åtsådallam
 undersøkelse jf. guoradallam
 åtsådit
 undersøke
-åtsådus, -dusá
+åtsådus
 biopsi
-åttjudallam, -dallama
+åttjudallam
 anfall
-åttjudallat, -daláv
+åttjudallat
 få anfall
-åvddåbádne, -báne
+åvddåbádne
 fortann (øvre)
-åvddåladnja, -lanjá
+åvddåladnja
 forkammer
-åvddånahttet, -nahtáv
+åvddånahttet
 utvikle
 åvddånit
 utvikle seg
-åvddåoajvvedemænssa, -mensa
+åvddåoajvvedemænssa
 frontallappdemens
-åvddåráksá, -rávsá
+åvddåráksá
 blærehalskjertel (prostata)
 åvdedit
 utvikle
