@@ -43,9 +43,7 @@
       <l pos="N">ájggevarra</l>
     </lg>
     <tg lang="nob">
-      <t
-        pos="N"
-      >menstruasjon jf. ruoppsada, liejbbe, ha ~ læjbbot, menstruasjåvnnå</t>
+      <t pos="N">menstruasjon jf. ruoppsada, liejbbe, ha ~ læjbbot, menstruasjåvnnå</t>
     </tg>
   </e>
   <e>
@@ -1382,7 +1380,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bunno (n'n)</l>
+      <l pos="N">bunno</l>
       <l pos="N">baksimtjuolmma</l>
     </lg>
     <tg lang="nob">
@@ -1682,7 +1680,7 @@
   <e>
     <lg>
       <l pos="N">bårredávdda</l>
-      <l pos="N" />
+      <l pos="N"></l>
     </lg>
     <tg lang="nob">
       <t pos="N">kreft jf. kræffta</t>
@@ -3983,7 +3981,7 @@
   <e>
     <lg>
       <l pos="N">guovsakradne</l>
-      <l pos="N" />
+      <l pos="N"></l>
     </lg>
     <tg lang="nob">
       <t pos="N">bukspyttkjertel</t>
@@ -6158,9 +6156,7 @@
       <l pos="N">liejbe</l>
     </lg>
     <tg lang="nob">
-      <t
-        pos="N"
-      >menstruasjon (dvs. menstruasjonsblod) jf. ájggevarra, ruoppsada, menstruasjåvnnå</t>
+      <t pos="N">menstruasjon (dvs. menstruasjonsblod) jf. ájggevarra, ruoppsada, menstruasjåvnnå</t>
     </tg>
   </e>
   <e>
@@ -12477,12 +12473,12 @@
       <l pos="N">varrabårredávdda</l>
     </lg>
     <tg lang="nob">
-      <t pos="N">varradæddo</t>
+      <t pos="N">blodkreft</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">blodkreft</l>
+      <l pos="N">varradæddo</l>
     </lg>
     <tg lang="nob">
       <t pos="N">blodtrykk</t>
@@ -13904,3 +13900,4 @@
     </tg>
   </e>
 </r>
+
