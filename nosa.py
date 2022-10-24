@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
+import sys
 from lxml import etree
 
 
-def line_pairs():
-    with open("nosa.txt") as nosa_stream:
+def line_pairs(name):
+    with open(f"{name}.txt") as name_stream:
         prev = ""
-        for line in nosa_stream.readlines():
+        for line in name_stream.readlines():
             if prev:
                 yield prev, line.strip()
                 prev = ""
@@ -13,9 +14,9 @@ def line_pairs():
                 prev = line.strip()
 
 
-def convert():
+def convert(name):
     root = etree.Element("r")
-    for pair in line_pairs():
+    for pair in line_pairs(name):
         if pair[1]:
             e = etree.SubElement(root, "e")
             lg = etree.SubElement(e, "lg")
@@ -26,16 +27,16 @@ def convert():
 
             for translation in [tran.strip() for tran in pair[1].split(";")]:
                 tg = etree.SubElement(e, "tg")
-                tg.set("lang", "smj")
+                tg.set("lang", "smj" if name == "nosa" else "nob")
                 t = etree.SubElement(tg, "t")
                 t.set("pos", "N")
                 t.text = translation
 
-    with open("nosa.xml", "w") as nosa_xml:
+    with open(f"{name}.xml", "w") as name_xml:
         print(
-            etree.tostring(root, pretty_print=True, encoding="unicode"), file=nosa_xml
+            etree.tostring(root, pretty_print=True, encoding="unicode"), file=name_xml
         )
 
 
 if __name__ == "__main__":
-    convert()
+    convert(sys.argv[1])
