@@ -1,13 +1,13 @@
 <r>
   <e>
     <lg>
-      <l pos="N">abortere</l>
+      <l pos="V">abortere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsuovkkanit</t>
+      <t pos="V">tsuovkkanit</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">dieverdit</t>
+      <t pos="V">dieverdit</t>
     </tg>
   </e>
   <e>
@@ -15,7 +15,7 @@
       <l pos="N">abstinens</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">abstinænnsa</t>
+      <t pos="N">abstinænssa</t>
     </tg>
   </e>
   <e>
@@ -29,13 +29,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">aktiv</l>
+      <l pos="A">aktiv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">aktijvva (attr. aktijvva), aktijva</t>
+      <t pos="A">aktijvva</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">dåjmalasj (attr. dåjmalasj)</t>
+      <t pos="A">dåjmalasj </t>
     </tg>
   </e>
   <e>
@@ -43,7 +43,7 @@
       <l pos="N">aktivitet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">doajmma, dåjma</t>
+      <t pos="N">doajmma</t>
     </tg>
   </e>
   <e>
@@ -64,13 +64,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">akutt</l>
+      <l pos="A">akutt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hæhkka (attr.)</t>
+      <t pos="A">hæhkka</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">hæhkkat (adv.)</t>
+      <t pos="Adv">hæhkkat</t>
     </tg>
   </e>
   <e>
@@ -78,7 +78,7 @@
       <l pos="N">albue</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">garŋŋel, garŋŋela</t>
+      <t pos="N">garŋŋel</t>
     </tg>
   </e>
   <e>
@@ -107,10 +107,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alene</l>
+      <l pos="Adv">alene</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">aktu</t>
+      <t pos="Adv">aktu</t>
     </tg>
   </e>
   <e>
@@ -126,7 +126,7 @@
       <l pos="N">alkoholiker</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">juhkke, juhkke</t>
+      <t pos="N">juhkke</t>
     </tg>
   </e>
   <e>
@@ -139,10 +139,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alkoholskadd</l>
+      <l pos="A">alkoholskadd</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">alkohåvllåvigák</t>
+      <t pos="A">alkohåvllåvigák</t>
     </tg>
   </e>
   <e>
@@ -152,6 +152,9 @@
     <tg lang="smj">
       <t pos="N">allergiddja</t>
     </tg>
+    <tg lang="smj">
+      <t pos="N">allergijja</t>
+    </tg>
   </e>
   <e>
     <lg>
@@ -159,6 +162,9 @@
     </lg>
     <tg lang="smj">
       <t pos="N">allergiddjadálkas</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="N">allergijjadálkas</t>
     </tg>
   </e>
   <e>
@@ -179,10 +185,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">alvorlig skadet</l>
+      <l pos="V">alvorlig skadet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vastet vaháguvvam (perf.part.)</t>
+      <t pos="V">vastet vaháguvvam</t>
     </tg>
   </e>
   <e>
@@ -214,7 +220,7 @@
       <l pos="N">ambolten</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">stáddá, státtá</t>
+      <t pos="N">stáddá</t>
     </tg>
   </e>
   <e>
@@ -254,15 +260,21 @@
       <l pos="N">amputasjon</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">amputerim</t>
+      <t pos="N">amputasjåvnnå</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">amputere</l>
+      <l pos="V">amputere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">oanedit, jallat, amputerit</t>
+      <t pos="V">oanedit</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="V">jallat</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="V">amputierit</t>
     </tg>
   </e>
   <e>
@@ -290,6 +302,9 @@
       <t pos="N">anemiddja</t>
     </tg>
     <tg lang="smj">
+      <t pos="N">anemijja</t>
+    </tg>
+    <tg lang="smj">
       <t pos="N">varravádne</t>
     </tg>
   </e>
@@ -304,10 +319,10 @@
   <e>
     <lg>
       <l pos="N">anfall</l>
-      <l pos="N">få anfall</l>
+      <l pos="V">få anfall</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">åttjudallat</t>
+      <t pos="V">åttjudallat</t>
     </tg>
   </e>
   <e>
@@ -323,19 +338,19 @@
       <l pos="N">angst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">goavgge, goavge</t>
+      <t pos="N">goavgge</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">ballo, balo</t>
+      <t pos="N">ballo</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">angst</l>
-      <l pos="N">ha panisk angst</l>
+      <l pos="V">ha panisk angst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hæggagæhtjáj ballat</t>
+      <t pos="V">hæggagæhtjáj ballat</t>
     </tg>
   </e>
   <e>
@@ -360,10 +375,7 @@
       <l pos="N">ansikt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">muohto, muodo</t>
-    </tg>
-    <tg lang="smj">
-      <t pos="N">muodo (fl.)</t>
+      <t pos="N">muohto</t>
     </tg>
   </e>
   <e>
@@ -404,7 +416,7 @@
       <l pos="N">ytterste del av anus</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">luogge, luokke</t>
+      <t pos="N">luogge</t>
     </tg>
   </e>
   <e>
@@ -440,11 +452,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">arbeidsledig</l>
-      <l pos="N">arbeidsløs</l>
+      <l pos="A">arbeidsledig</l>
+      <l pos="A">arbeidsløs</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bargodibme (attr. -bargodis)</t>
+      <t pos="A">bargodibme)</t>
     </tg>
   </e>
   <e>
@@ -468,18 +480,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">arbeidsudyktig</l>
+      <l pos="A">arbeidsudyktig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">barggofámodibme (attr. -fámodis)</t>
+      <t pos="A">barggofámodibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">arbeidsufør</l>
+      <l pos="A">arbeidsufør</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">barggofámodibme (attr. -fámodis)</t>
+      <t pos="A">barggofámodibme</t>
     </tg>
   </e>
   <e>
@@ -487,7 +499,7 @@
       <l pos="N">arm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">giehta, gieda</t>
+      <t pos="N">giehta</t>
     </tg>
   </e>
   <e>
@@ -529,7 +541,7 @@
       <l pos="N">arr</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">uddo, utto</t>
+      <t pos="N">uddo</t>
     </tg>
   </e>
   <e>
@@ -537,10 +549,10 @@
       <l pos="N">arv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">árbbe, árbe</t>
+      <t pos="N">árbbe</t>
     </tg>
   </e>
-  <e>
+  <e> OBS
     <lg>
       <l pos="N">arvelig sykdom</l>
     </lg>
@@ -561,7 +573,7 @@
       <l pos="N">astma</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ásstmá, ástmá</t>
+      <t pos="N">ásstmá</t>
     </tg>
   </e>
   <e>
@@ -576,7 +588,8 @@
   </e>
   <e>
     <lg>
-      <l pos="N">asylsøker (asylant)</l>
+      <l pos="N">asylsøker</l>
+      <l pos="N">asylant</l>
     </lg>
     <tg lang="smj">
       <t pos="N">suodjeåhttse</t>
@@ -603,7 +616,7 @@
       <l pos="N">avføring</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bajkka, bajka</t>
+      <t pos="N">bajkka</t>
     </tg>
   </e>
   <e>
@@ -625,11 +638,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">avlaste</l>
-      <l pos="N">lindre</l>
+      <l pos="V">avlaste</l>
+      <l pos="V">lindre</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">giehpedit</t>
+      <t pos="V">giehpedit</t>
     </tg>
   </e>
   <e>
@@ -643,7 +656,7 @@
   <e>
     <lg>
       <l pos="N">avlastningspute</l>
-      <l pos="N">avlastningsring (luftring)</l>
+      <l pos="N">avlastningsring (luftring)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">gæhpádahka</t>
@@ -662,7 +675,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">avleiring (i blodårer)</l>
+      <l pos="N">avleiring (i blodårer)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">njoarvve, njoarve</t>
@@ -670,15 +683,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">avruse</l>
+      <l pos="V">avruse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jierijdahttet</t>
+      <t pos="V">jierijdahttet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">avslappende</l>
+      <l pos="A">avslappende</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">oadjom</t>
@@ -694,19 +707,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">avta (om feber og smerte)</l>
+      <l pos="V">avta (om feber og smerte)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">luojttet, luojtáv</t>
+      <t pos="V">luojttet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">avta</l>
-      <l pos="N">gå over (om sykdom)</l>
+      <l pos="V">avta</l>
+      <l pos="V">gå over (om sykdom)</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">svijggat</t>
+      <t pos="V">svijggat</t>
     </tg>
   </e>
   <e>
@@ -727,7 +740,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakhode (nedre del)</l>
+      <l pos="N">bakhode (nedre del)</l> OBS
       <l pos="N">nakkegrop</l>
     </lg>
     <tg lang="smj">
@@ -736,7 +749,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakterie</l>
+      <l pos="N">bakterie</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">bakterija</t>
@@ -745,10 +758,10 @@
   <e>
     <lg>
       <l pos="N">balanse</l>
-      <l pos="N">ha dårlig balanse</l>
+      <l pos="N">ha dårlig balanse</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">stávtjurit</t>
+      <t pos="V">stávtjurit</t>
     </tg>
   </e>
   <e>
@@ -764,7 +777,7 @@
       <l pos="N">bandasje</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gurpas, gurppasa</t>
+      <t pos="N">gurpas</t>
     </tg>
     <tg lang="smj">
       <t pos="N">gurpastahka</t>
@@ -772,15 +785,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bandasjere</l>
+      <l pos="V">bandasjere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gurppit, gurppiv</t>
+      <t pos="V">gurppit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bankende smerte i fingeren</l>
+      <l pos="N">bankende smerte i fingeren</l> OBS
       <l pos="N">svi</l>
     </lg>
     <tg lang="smj">
@@ -808,7 +821,7 @@
       <l pos="N">barneorm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mádutja (fl.)</t>
+      <t pos="N">mádutja (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -816,10 +829,10 @@
       <l pos="N">barnesmekke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sliehppá, sliehpá</t>
+      <t pos="N">sliehppá</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">rægán, rægána</t>
+      <t pos="N">rægán</t>
     </tg>
   </e>
   <e>
@@ -832,10 +845,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">barnløs</l>
+      <l pos="A">barnløs</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mánádibme (attr. –dis)</t>
+      <t pos="A">mánádibme</t>
     </tg>
   </e>
   <e>
@@ -877,12 +890,12 @@
       <l pos="N">mustasje</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">njunnjevuolskávtjá (fl.)</t>
+      <t pos="N">njunnjevuolskávtjá (fl.)</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bechterevs sykdom</l>
+      <l pos="N">bechterevs sykdom</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">bekterevaskihpudahka</t>
@@ -890,18 +903,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bedøve (lokalt)</l>
+      <l pos="V">bedøve (lokalt)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jámedit, jámedav</t>
+      <t pos="V">jámedit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bedøve (narkose)</l>
+      <l pos="V">bedøve (narkose)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jámálguhttet</t>
+      <t pos="V">jámálguhttet</t>
     </tg>
   </e>
   <e>
@@ -914,11 +927,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">behandle (medisinsk)</l>
-      <l pos="N">medisinere</l>
+      <l pos="V">behandle (medisinsk)</l> OBS
+      <l pos="V">medisinere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dálkudit</t>
+      <t pos="V">dálkudit</t>
     </tg>
   </e>
   <e>
@@ -936,7 +949,7 @@
       <l pos="N">fot</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">juolgge, juolge</t>
+      <t pos="N">juolgge</t>
     </tg>
   </e>
   <e>
@@ -945,7 +958,7 @@
       <l pos="N">knokkel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dákte, dávte</t>
+      <t pos="N">dákte</t>
     </tg>
   </e>
   <e>
@@ -958,7 +971,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">beinbrudd  (brudd på knokkel)</l>
+      <l pos="N">beinbrudd  (brudd på knokkel)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">dáktedoajos</t>
@@ -969,12 +982,12 @@
       <l pos="N">beinmarg</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">adám, adáma</t>
+      <t pos="N">adám</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">beinskjørhet  (osteoporose)</l>
+      <l pos="N">beinskjørhet  (osteoporose)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">dákterasjesvuohta</t>
@@ -988,23 +1001,23 @@
       <t pos="N">gådtjålihtte</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">bæhkkin, bæhkkina</t>
+      <t pos="N">bæhkkin</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bekymre</l>
+      <l pos="V">bekymre</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">måråstahttet</t>
+      <t pos="V">måråstahttet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bekymre seg</l>
+      <l pos="V">bekymre seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">hudjat</t>
+      <t pos="V">hudjat</t>
     </tg>
   </e>
   <e>
@@ -1021,7 +1034,7 @@
       <l pos="N">uro</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hudja, hujá</t>
+      <t pos="N">hudja</t>
     </tg>
   </e>
   <e>
@@ -1029,7 +1042,7 @@
       <l pos="N">belastningsskade</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rassimvahák</t>
+      <t pos="N">rassimvahák</t> OBS
     </tg>
   </e>
   <e>
@@ -1045,7 +1058,7 @@
       <l pos="N">bendelorm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guorkká, guorká</t>
+      <t pos="N">guorkká</t>
     </tg>
   </e>
   <e>
@@ -1058,33 +1071,33 @@
   </e>
   <e>
     <lg>
-      <l pos="N">berge</l>
-      <l pos="N">redde</l>
+      <l pos="V">berge</l>
+      <l pos="V">redde</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gádjot, gájov</t>
+      <t pos="V">gádjot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">berolige</l>
-      <l pos="N">roe ned</l>
+      <l pos="V">berolige</l>
+      <l pos="V">roe ned</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">oadjodit</t>
+      <t pos="V">oadjodit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">beroligende (stimuli)</l>
+      <l pos="A">beroligende (stimuli)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">oadjodis</t>
+      <t pos="A">oadjodis</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">beroligende medisin</l>
+      <l pos="N">beroligende medisin</l> OBS
       <l pos="N">beroligende middel</l>
     </lg>
     <tg lang="smj">
@@ -1093,11 +1106,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">besvime</l>
-      <l pos="N">miste bevisstheten</l>
+      <l pos="V">besvime</l>
+      <l pos="V">miste bevisstheten</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jámálguvvat</t>
+      <t pos="V">jámálguvvat</t>
     </tg>
   </e>
   <e>
@@ -1114,7 +1127,7 @@
       <l pos="N">plage</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">muode, muode</t>
+      <t pos="N">muode</t>
     </tg>
   </e>
   <e>
@@ -1128,15 +1141,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bevisstløs (av ytre årsak)</l>
+      <l pos="A">bevisstløs (av ytre årsak)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">lárkas (attr. lárkas), lárkkasa</t>
+      <t pos="A">lárkas</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bevisstløshet (av ytre årsak)</l>
+      <l pos="N">bevisstløshet (av ytre årsak)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">lárkasvuohta</t>
@@ -1155,20 +1168,20 @@
       <l pos="N">bihulene</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">snuolggaloabme, snuolgaloame (fl.)</t>
+      <t pos="N">snuolggaloabme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bilsjuk</l>
+      <l pos="A">bilsjuk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bijllamåjdås (attr. -måjdås)</t>
+      <t pos="A">bijllamåjdås</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">bindehinne (utenpå øyeeplet)</l>
+      <l pos="N">bindehinne (utenpå øyeeplet)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">bájnnotsuodtsa</t>
@@ -1188,6 +1201,9 @@
     </lg>
     <tg lang="smj">
       <t pos="N">biopsiddja</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="N">biopsijja</t>
     </tg>
     <tg lang="smj">
       <t pos="N">åtsådus</t>
@@ -1214,7 +1230,7 @@
       <l pos="N">bleie</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rappsa, rapsa</t>
+      <t pos="N">rappsa</t>
     </tg>
   </e>
   <e>
@@ -1222,7 +1238,7 @@
       <l pos="N">bleietruse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rappsabåvså (fl.)</t>
+      <t pos="N">rappsabåvså (fl.)</t> OBS
     </tg>
     <tg lang="smj">
       <t pos="N">rappsatruvsa (fl.)</t>
@@ -1230,19 +1246,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blek</l>
+      <l pos="A">blek</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guovggat (attr. guovggis), guovggada</t>
+      <t pos="A">guovggat</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">blek</l>
-      <l pos="N">bli blek</l>
+      <l pos="V">bli blek</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guovgudit</t>
+      <t pos="V">guovgudit</t>
     </tg>
   </e>
   <e>
@@ -1258,12 +1274,12 @@
       <l pos="N">blemme</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skuovlle, skuovle</t>
+      <t pos="N">skuovlle</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">blemme (ved gnagsår)</l>
+      <l pos="N">blemme (ved gnagsår)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">skuohpalis</t>
@@ -1271,19 +1287,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blind</l>
+      <l pos="A">blind</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjalmedibme (attr. tjalmedis)</t>
+      <t pos="A">tjalmedibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">blind</l>
-      <l pos="N">bli blind</l>
+      <l pos="A">blind</l>
+      <l pos="V">bli blind</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjalmeduvvat, ­duváv</t>
+      <t pos="V">tjalmeduvvat</t>
     </tg>
   </e>
   <e>
@@ -1316,7 +1332,7 @@
       <l pos="N">blod</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varra, vará</t>
+      <t pos="N">varra</t>
     </tg>
   </e>
   <e>
@@ -1337,10 +1353,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blodfattig</l>
+      <l pos="A">blodfattig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varravánes (attr. -vanes)</t>
+      <t pos="A">varravánes</t>
     </tg>
   </e>
   <e>
@@ -1348,12 +1364,15 @@
       <l pos="N">blodforgiftning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varrasielggidus, varrasielggiduvvam</t>
+      <t pos="N">varrasielggidus</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="N">varrasielggiduvvam</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">blodfortynnende medisin</l>
+      <l pos="N">blodfortynnende medisin</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">varranjárbbudimdálkas</t>
@@ -1364,7 +1383,7 @@
       <l pos="N">blodgiver</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varravadde, varravadde</t>
+      <t pos="N">varravadde</t>
     </tg>
   </e>
   <e>
@@ -1377,10 +1396,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blodig</l>
+      <l pos="A">blodig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varran</t>
+      <t pos="N">varran</t> OBS
     </tg>
   </e>
   <e>
@@ -1434,6 +1453,9 @@
     <tg lang="smj">
       <t pos="N">anemiddja</t>
     </tg>
+     <tg lang="smj">
+      <t pos="N">anemijja</t>
+    </tg>
   </e>
   <e>
     <lg>
@@ -1472,15 +1494,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blodsprengt</l>
+      <l pos="A">blodsprengt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sáhppum</t>
+      <t pos="N">sáhppum</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">blodstillende middel</l>
+      <l pos="N">blodstillende middel</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">giellodimdálkas</t>
@@ -1497,10 +1519,10 @@
   <e>
     <lg>
       <l pos="N">blodstyrtning</l>
-      <l pos="N">ha blodstyrtning</l>
+      <l pos="N">ha blodstyrtning</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">varáv vuokset, vuovsáv</t>
+      <t pos="N">varáv vuokset</t>
     </tg>
   </e>
   <e>
@@ -1530,12 +1552,14 @@
   <e>
     <lg>
       <l pos="N">blodtrykk</l>
-      <l pos="N">høyt blodtrykk</l>
+      <l pos="N">høyt blodtrykk</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">varradæddo, alla varradæddo</t>
+      <t pos="N">varradæddo</t>
     </tg>
-  </e>
+    <tg lang="smj">
+      <t pos="N">alla varradæddo</t>
+    </tg>  </e>
   <e>
     <lg>
       <l pos="N">blodtrykksfall</l>
@@ -1578,7 +1602,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blærehalskjertel (prostata)</l>
+      <l pos="N">blærehalskjertel (prostata)</l> oBS
     </lg>
     <tg lang="smj">
       <t pos="N">åvddåráksá</t>
@@ -1595,10 +1619,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blø</l>
+      <l pos="V">blø</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varddet, vardáv</t>
+      <t pos="V">varddet</t>
     </tg>
   </e>
   <e>
@@ -1606,7 +1630,7 @@
       <l pos="N">bløder</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vardde, vardde</t>
+      <t pos="N">vardde</t>
     </tg>
   </e>
   <e>
@@ -1627,23 +1651,23 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blåmerke (på hud)</l>
+      <l pos="N">blåmerke (på hud)</l> OBS
       <l pos="N">blodutredning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sáhppe, sáhpe</t>
+      <t pos="N">sáhppe</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">sáhppom, sáhppoma</t>
+      <t pos="N">sáhppom</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">blåmerke</l>
-      <l pos="N">få blåmerke</l>
+      <l pos="V">få blåmerke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sáhpput, sáhppuv</t>
+      <t pos="V">sáhpput</t>
     </tg>
   </e>
   <e>
@@ -1683,7 +1707,7 @@
       <l pos="N">brennkopper</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dållåskuovle (fl.)</t>
+      <t pos="N">dållåskuovle (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -1691,7 +1715,7 @@
       <l pos="N">briller</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjalmána (fl.)</t>
+      <t pos="N">tjalmána (fl.)</t> OBS
     </tg>
     <tg lang="smj">
       <t pos="N">tjalmmeglása (fl.)</t>
@@ -1702,15 +1726,15 @@
       <l pos="N">brist</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">liejmme, liejme</t>
+      <t pos="N">liejmme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">briste</l>
+      <l pos="V">briste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">liejmedit</t>
+      <t pos="V">liejmedit</t>
     </tg>
   </e>
   <e>
@@ -1718,7 +1742,7 @@
       <l pos="N">brokk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">broahkka, bråhka</t>
+      <t pos="N">broahkka</t>
     </tg>
   </e>
   <e>
@@ -1729,7 +1753,7 @@
       <t pos="N">giehpesbåhttså</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">giepesbullje- bulje</t>
+      <t pos="N">giepesbullje</t>
     </tg>
   </e>
   <e>
@@ -1745,12 +1769,12 @@
       <l pos="N">brudd</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">doajos, dådjusa</t>
+      <t pos="N">doajos</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">brudd; komplisert brudd</l>
+      <l pos="N">brudd; komplisert brudd</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">doajos</t>
@@ -1764,10 +1788,10 @@
       <l pos="N">brusk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">njuorges, njuorggá</t>
+      <t pos="N">njuorges</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">tjagár, tjahkara</t>
+      <t pos="N">tjagár</t>
     </tg>
   </e>
   <e>
@@ -1775,7 +1799,7 @@
       <l pos="N">bryst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mielgga, mielga</t>
+      <t pos="N">mielgga</t>
     </tg>
   </e>
   <e>
@@ -1794,7 +1818,7 @@
       <t pos="N">badjevuobdda</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">radde, ratte</t>
+      <t pos="N">radde</t>
     </tg>
   </e>
   <e>
@@ -1815,10 +1839,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bryte ut</l>
+      <l pos="V">bryte ut</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ællát, (skihpudahka ællá)</t>
+      <t pos="V">ællát, (skihpudahka ællá)</t> OBS
     </tg>
   </e>
   <e>
@@ -1863,14 +1887,17 @@
     <tg lang="smj">
       <t pos="N">bulimiddja</t>
     </tg>
+     <tg lang="smj">
+      <t pos="N">bulimijja</t>
+    </tg>
   </e>
   <e>
     <lg>
       <l pos="N">byll</l>
-      <l pos="N">stor kvise</l>
+      <l pos="N">stor kvise</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">náres, nárrása</t>
+      <t pos="N">náres</t>
     </tg>
   </e>
   <e>
@@ -1883,10 +1910,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bøye seg</l>
+      <l pos="V">bøye seg</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sådjåt, såjåv</t>
+      <t pos="V">sådjåt</t>
     </tg>
   </e>
   <e>
@@ -1902,7 +1929,7 @@
       <l pos="N">cannabis</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">cannábis</t>
+      <t pos="N">cannábis</t> OBS
     </tg>
   </e>
   <e>
@@ -1910,7 +1937,7 @@
       <l pos="N">celle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sella, sella</t>
+      <t pos="N">sella</t>
     </tg>
   </e>
   <e>
@@ -1926,7 +1953,7 @@
       <l pos="N">Cowperkjertel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">Cowper-ráksá –rávsá</t>
+      <t pos="N">Cowper-ráksá</t>
     </tg>
   </e>
   <e>
@@ -1951,23 +1978,23 @@
       <l pos="N">bekymring</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hådje, håje</t>
+      <t pos="N">hådje</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">depressiv</l>
+      <l pos="A">depressiv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">låssismielak</t>
+      <t pos="A">låssismielak</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">desinfinsere</l>
+      <l pos="A">desinfinsere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjadárájnnit</t>
+      <t pos="A">tjadárájnnit</t>
     </tg>
   </e>
   <e>
@@ -1986,9 +2013,6 @@
     <tg lang="smj">
       <t pos="N">såhkårskihpudahka</t>
     </tg>
-    <tg lang="smj">
-      <t pos="N">varrasåhkårmihtun</t>
-    </tg>
   </e>
   <e>
     <lg>
@@ -2000,10 +2024,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">diagnostisere</l>
+      <l pos="V">diagnostisere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">diagnostiserit</t>
+      <t pos="V">diagnostiserit</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="V">diagnostisierit</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="V">diagnåvssit</t>
     </tg>
   </e>
   <e>
@@ -2011,7 +2041,7 @@
       <l pos="N">diare</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">slåtjos, slåhtjusa</t>
+      <t pos="N">slåtjos</t>
     </tg>
     <tg lang="smj">
       <t pos="N">tjadádahka</t>
@@ -2032,13 +2062,16 @@
     <tg lang="smj">
       <t pos="N">difteriddja</t>
     </tg>
+     <tg lang="smj">
+      <t pos="N">difterijja</t>
+    </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">diskriminere</l>
+      <l pos="V">diskriminere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nuppástit</t>
+      <t pos="V">nuppástit</t>
     </tg>
   </e>
   <e>
@@ -2051,11 +2084,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">distre</l>
-      <l pos="N">glemsk</l>
+      <l pos="A">distre</l>
+      <l pos="A">glemsk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vajáldahkes (attr. vajaldáhkes)</t>
+      <t pos="A">vajáldahkes</t>
     </tg>
   </e>
   <e>
@@ -2068,10 +2101,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dope ned</l>
+      <l pos="V">dope ned</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gáriduhttet, gáreduhtáv</t>
+      <t pos="V">gáriduhttet</t>
     </tg>
   </e>
   <e>
@@ -2079,12 +2112,12 @@
       <l pos="N">doping</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gáriduhttem, duhttema</t>
+      <t pos="N">gáriduhttem</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">dose (medisin)</l>
+      <l pos="N">dose (medisin)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">dálkasmierre</t>
@@ -2092,10 +2125,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dosere medisin</l>
+      <l pos="V">dosere medisin</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">dálkasmierev mierredit</t>
+      <t pos="V">dálkasmierev mierredit</t>
     </tg>
   </e>
   <e>
@@ -2116,32 +2149,33 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dovne; bli følelsesløs (om legemsdeler)</l>
+      <l pos="V">dovne</l> 
+      <l pos="V">bli følelsesløs(om legemsdeler)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jábmet, jámáv</t>
+      <t pos="V">jábmet</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">drukne</l>
+      <l pos="V">drukne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fællat, fellav</t>
+      <t pos="V">fællat</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">ferrat, ferav</t>
+      <t pos="V">ferrat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">druknet person</l>
+      <l pos="N">druknet person</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">fællam ulmusj, ulmutja</t>
+      <t pos="N">fællam ulmusj</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">ferram ulmusj, ulmutja</t>
+      <t pos="N">ferram ulmusj</t>
     </tg>
     <tg lang="smj">
       <t pos="N">hávkkam ulmusj</t>
@@ -2149,19 +2183,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dryppe</l>
+      <l pos="V">dryppe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">goajkkot</t>
+      <t pos="V">goajkkot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">dryppe</l>
-      <l pos="N">la dryppe</l>
+      <l pos="V">dryppe</l>
+      <l pos="V">la dryppe</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">goajkodit (trans.)</t>
+      <t pos="V">goajkodit</t>
     </tg>
   </e>
   <e>
@@ -2174,10 +2208,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">drømme</l>
+      <l pos="V">drømme</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">niegadit</t>
+      <t pos="V">niegadit</t>
     </tg>
   </e>
   <e>
@@ -2185,7 +2219,7 @@
       <l pos="N">drøvel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">spadne, spane</t>
+      <t pos="N">spadne</t>
     </tg>
   </e>
   <e>
@@ -2201,23 +2235,23 @@
       <l pos="N">dunhår</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">návva, náva</t>
+      <t pos="N">návva</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">duppe av</l>
+      <l pos="V">duppe av</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">nåhkåstit</t>
+      <t pos="V">nåhkåstit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">dusje</l>
+      <l pos="V">dusje</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">navoldit</t>
+      <t pos="V">navoldit</t>
     </tg>
   </e>
   <e>
@@ -2246,16 +2280,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dø</l>
-      <l pos="N">omkomme</l>
+      <l pos="V">dø</l>
+      <l pos="V">omkomme</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jábmet, jámáv</t>
+      <t pos="V">jábmet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">død (perf.part.)</l>
+      <l pos="N">død (perf.part.)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">jábmám (perf.part.)</t>
@@ -2267,18 +2301,18 @@
       <l pos="N">døden</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jábmem, jábmema</t>
+      <t pos="N">jábmem</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">dødelig sykdom</l>
+      <l pos="N">dødelig sykdom</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">jámegahtes skihpudahka</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">jábmemvihke – vige</t>
+      <t pos="N">jábmemvihkeS</t>
     </tg>
   </e>
   <e>
@@ -2310,35 +2344,35 @@
   </e>
   <e>
     <lg>
-      <l pos="N">døende</l>
-      <l pos="N">være døende</l>
+      <l pos="N">døende</l> OBS
+      <l pos="V">være døende</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jábmemin liehket</t>
+      <t pos="N">jábmemin liehket</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">døse</l>
+      <l pos="V">døse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sujbbot, sujbov</t>
+      <t pos="V">sujbbot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">døv</l>
+      <l pos="A">døv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bieljedibme (attr. -bieljedis)</t>
+      <t pos="A">bieljedibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">døvblind</l>
+      <l pos="A">døvblind</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bieljedistjalmedibme (attr. -tjalmedis)</t>
+      <t pos="A">bieljedistjalmedibme</t>
     </tg>
   </e>
   <e>
@@ -2351,18 +2385,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">døvstum</l>
+      <l pos="A">døvstum</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bieljedisgieladibme (attr. -gieladis)</t>
+      <t pos="A">bieljedisgieladibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">dårlig helse</l>
+      <l pos="N">dårlig helse</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">nievres hælsso, hælso</t>
+      <t pos="N">nievres hælsso</t>
     </tg>
     <tg lang="smj">
       <t pos="N">nievres varresvuohta</t>
@@ -2370,10 +2404,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">edru</l>
+      <l pos="A">edru</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjielgos (attr. tjielgos), tjilggusa</t>
+      <t pos="A">tjielgos</t>
     </tg>
   </e>
   <e>
@@ -2381,7 +2415,7 @@
       <l pos="N">egenandel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">iesjmávsos,-máksus</t>
+      <t pos="N">iesjmávsos</t>
     </tg>
   </e>
   <e>
@@ -2389,7 +2423,7 @@
       <l pos="N">egg</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">månne, måne</t>
+      <t pos="N">månne</t>
     </tg>
   </e>
   <e>
@@ -2429,7 +2463,7 @@
       <l pos="N">eksem</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rusjmas, russjmasa (fl.)</t>
+      <t pos="N">rusjmas</t>
     </tg>
     <tg lang="smj">
       <t pos="N">eksiebma</t>
@@ -2437,10 +2471,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">eldes</l>
+      <l pos="V">eldes</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuorastuvvat</t>
+      <t pos="V">vuorastuvvat</t>
     </tg>
   </e>
   <e>
@@ -2453,10 +2487,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">en som prater i søvne</l>
+      <l pos="N">en som prater i søvne</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">vuobok, vuoboga</t>
+      <t pos="N">vuobok</t>
     </tg>
   </e>
   <e>
@@ -2477,10 +2511,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">enslig</l>
+      <l pos="A">enslig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">aktugasj (attr. aktugasj), aktugattja</t>
+      <t pos="A">aktugasj</t>
     </tg>
   </e>
   <e>
@@ -2496,7 +2530,7 @@
       <l pos="N">enzym</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ensijmma, ensijma</t>
+      <t pos="N">ensijmma</t>
     </tg>
   </e>
   <e>
@@ -2506,7 +2540,10 @@
     <tg lang="smj">
       <t pos="N">epidemiddja</t>
     </tg>
-    <tg lang="smj">
+     <tg lang="smj">
+      <t pos="N">epidemijja</t>
+    </tg>
+   <tg lang="smj">
       <t pos="N">gålggedávdda</t>
     </tg>
   </e>
@@ -2529,7 +2566,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ereksjonsproblemer (fl.)</l>
+      <l pos="N">ereksjonsproblemer (fl.)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">tjuottjudakvihke</t>
@@ -2556,21 +2593,21 @@
       <l pos="N">evner</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vaddusa (fl.)</t>
+      <t pos="N">vaddusa (fl.)</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">falle om</l>
+      <l pos="N">falle om</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">ravggat, ravgav</t>
+      <t pos="N">ravggat</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">vierrat, vierav</t>
+      <t pos="N">vierrat</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">gahttjat, gahtjav</t>
+      <t pos="N">gahttjat</t>
     </tg>
   </e>
   <e>
@@ -2579,7 +2616,7 @@
       <l pos="N">risiko</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vádá, vádá</t>
+      <t pos="N">vádá</t>
     </tg>
   </e>
   <e>
@@ -2592,32 +2629,32 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fargeblind</l>
+      <l pos="A">fargeblind</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bájnnotjalmedibme (attr -tjalmedis)</t>
+      <t pos="A">bájnnotjalmedibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">farlig</l>
+      <l pos="A">farlig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">várálasj (attr. várálasj)</t>
+      <t pos="A">várálasj</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">farlig</l>
-      <l pos="N">risikabel</l>
+      <l pos="A">farlig</l>
+      <l pos="A">risikabel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vádálasj (attr. vádálasj)</t>
+      <t pos="A">vádálasj</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fastende</l>
+      <l pos="N">fastende</l> OBS
       <l pos="N">på fastende hjerte</l>
     </lg>
     <tg lang="smj">
@@ -2642,10 +2679,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fattig</l>
+      <l pos="A">fattig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hædjo (attr. hæjos), hæjo</t>
+      <t pos="A">hædjo</t>
     </tg>
   </e>
   <e>
@@ -2669,7 +2706,7 @@
       <l pos="N">feber</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fiebar, fiehpara</t>
+      <t pos="N">fiebar</t>
     </tg>
   </e>
   <e>
@@ -2690,10 +2727,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">feilbehandle</l>
+      <l pos="V">feilbehandle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">boasstot dálkudit</t>
+      <t pos="V">boasstot dálkudit</t>
     </tg>
   </e>
   <e>
@@ -2725,7 +2762,7 @@
       <l pos="N">fet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buojdde (attr. buojdes), buojde</t>
+      <t pos="N">buojdde</t>
     </tg>
   </e>
   <e>
@@ -2733,15 +2770,15 @@
       <l pos="N">fettkul</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjåssne, tjåsne</t>
+      <t pos="N">tjåssne</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fettsuge</l>
+      <l pos="V">fettsuge</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buojdev njammat, njamáv</t>
+      <t pos=VN">buojdev njammat</t> OBS
     </tg>
   </e>
   <e>
@@ -2758,7 +2795,7 @@
       <l pos="N">trevl</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sáras, sárrasa</t>
+      <t pos="N">sáras</t>
     </tg>
   </e>
   <e>
@@ -2768,13 +2805,16 @@
     <tg lang="smj">
       <t pos="N">fibromijalgiddja</t>
     </tg>
+    <tg lang="smj">
+      <t pos="N">fibromijalgijja</t>
+    </tg>
   </e>
   <e>
     <lg>
       <l pos="N">finger</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjuvdde, tjuvde</t>
+      <t pos="N">tjuvdde</t>
     </tg>
   </e>
   <e>
@@ -2811,7 +2851,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fise (flere ganger)</l>
+      <l pos="N">fise (flere ganger)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">buoskudit</t>
@@ -2822,15 +2862,15 @@
       <l pos="N">flass</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skiblle, skible</t>
+      <t pos="N">skiblle</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fluor</l>
+      <l pos="N">fluor</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">fluor, fluora</t>
+      <t pos="N">fluor</t>
     </tg>
   </e>
   <e>
@@ -2838,15 +2878,18 @@
       <l pos="N">flyktning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bádur, báhtura</t>
+      <t pos="N">bádur</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="N">báhtariddje</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">flytende</l>
+      <l pos="A">flytende</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gålgge</t>
+      <t pos="A">gålgge</t>
     </tg>
   </e>
   <e>
@@ -2875,18 +2918,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fontanelle (på barn)</l>
+      <l pos="N">fontanelle (på barn)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sudde, sutte</t>
+      <t pos="N">sudde</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forbrenne</l>
+      <l pos="V">forbrenne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">boalldet, boaldáv</t>
+      <t pos="V">boalldet</t>
     </tg>
   </e>
   <e>
@@ -2894,7 +2937,7 @@
       <l pos="N">forbrenning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">boalldem, boalddema</t>
+      <t pos="N">boalldem</t>
     </tg>
   </e>
   <e>
@@ -2939,10 +2982,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forebygge</l>
+      <l pos="V">forebygge</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">duostudit</t>
+      <t pos="V">duostudit</t>
     </tg>
   </e>
   <e>
@@ -2955,18 +2998,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">foreskrive (medisin)</l>
+      <l pos="V">foreskrive (medisin)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">mierredit (dálkkasav)</t>
+      <t pos="V">mierredit (dálkkasav)</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forfryse</l>
+      <l pos="V">forfryse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sjuvtjaguhttet</t>
+      <t pos="V">sjuvtjaguhttet</t>
     </tg>
   </e>
   <e>
@@ -2990,18 +3033,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forgifte</l>
+      <l pos="V">forgifte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sielggit, sielggiv</t>
+      <t pos="V">sielggit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forgiftes (bli forgiftet)</l>
+      <l pos="V">forgiftes (bli forgiftet)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sielggiduvvat</t>
+      <t pos="V">sielggiduvvat</t>
     </tg>
   </e>
   <e>
@@ -3014,11 +3057,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forkalket</l>
-      <l pos="N">bli forkalket</l>
+      <l pos="N">forkalke</l>
+      <l pos="V">bli forkalket</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kálkkanit</t>
+      <t pos="V">kálkkanit</t>
     </tg>
   </e>
   <e>
@@ -3043,23 +3086,23 @@
       <l pos="N">snue</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">snuohpa, snuoba</t>
+      <t pos="N">snuohpa</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forkjølet</l>
+      <l pos="A">forkjølet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">snuobas, snuohpasa</t>
+      <t pos="A">snuobas</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fornøyd</l>
+      <l pos="A">fornøyd</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dudálasj (attr. dudálasj), dudálattja</t>
+      <t pos="A">dudálasj</t>
     </tg>
   </e>
   <e>
@@ -3070,24 +3113,24 @@
       <t pos="N">tjiddnudahka</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">tjiddnum, tjiddnuma</t>
+      <t pos="N">tjiddnum</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">forstoppelse</l>
-      <l pos="N">få forstoppelse</l>
+      <l pos="V">få forstoppelse</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjiddnut, tjiddnuv</t>
+      <t pos="V">tjiddnut</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forstrekke</l>
+      <l pos="V">forstrekke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vanádit</t>
+      <t pos="V">vanádit</t>
     </tg>
   </e>
   <e>
@@ -3096,7 +3139,7 @@
       <l pos="N">vridning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">roassjko, roasjko</t>
+      <t pos="N">roassjko</t>
     </tg>
     <tg lang="smj">
       <t pos="N">vánádibme</t>
@@ -3104,10 +3147,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forstue</l>
+      <l pos="V">forstue</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">spæltjádit</t>
+      <t pos="V">spæltjádit</t>
     </tg>
   </e>
   <e>
@@ -3128,15 +3171,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forsvinne</l>
+      <l pos="V">forsvinne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gáhtot, gádov</t>
+      <t pos="V">gáhtot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fortann (nedre)</l>
+      <l pos="N">fortann (nedre)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">gájbbebádne</t>
@@ -3144,7 +3187,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fortann (øvre)</l>
+      <l pos="N">fortann (øvre)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">åvddåbádne</t>
@@ -3152,10 +3195,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fortvile</l>
+      <l pos="V">fortvile</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dármeduvvat</t>
+      <t pos="V">dármeduvvat</t>
     </tg>
   </e>
   <e>
@@ -3171,19 +3214,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fortvilt</l>
+      <l pos="A">fortvilt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dármedibme (attr. dármedis)</t>
+      <t pos="A">dármedibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">fortvilt</l>
-      <l pos="N">bli fortvilt</l>
+      <l pos="N">fortvilt</l> OBS
+      <l pos="V">bli fortvilt</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">dármeduvvat</t>
+      <t pos="V">dármeduvvat</t>
     </tg>
   </e>
   <e>
@@ -3196,23 +3239,23 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forverre seg</l>
+      <l pos="V">forverre seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">bahunit</t>
+      <t pos="V">bahunit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forverres</l>
+      <l pos="V">forverres</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">værránit</t>
+      <t pos="V">værránit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">forvirring (om friske folk)</l>
+      <l pos="N">forvirring (om friske folk)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">iehpedádjo</t>
@@ -3220,10 +3263,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forårsake abort</l>
+      <l pos="V">forårsake abort</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tsuovkkanahttet</t>
+      <t pos="V">tsuovkkanahttet</t>
     </tg>
   </e>
   <e>
@@ -3231,7 +3274,7 @@
       <l pos="N">foster</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">oahke, oage</t>
+      <t pos="N">oahke</t>
     </tg>
   </e>
   <e>
@@ -3301,10 +3344,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fraråde</l>
+      <l pos="V">fraråde</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">biehttot, biehtov</t>
+      <t pos="V">biehttot</t>
     </tg>
   </e>
   <e>
@@ -3312,47 +3355,50 @@
       <l pos="N">fregne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsåhppe, tsåhpe</t>
+      <t pos="N">tsåhppe</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">frisk og rask</l>
+      <l pos="A">frisk og rask</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sjahpe (attr. sjabes), sjabe</t>
+      <t pos="A">sjahpe</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">frisk</l>
-      <l pos="N">bli frisk</l>
+      <l pos="A">frisk</l>
+      <l pos="V">bli frisk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">væddját, væddjáv</t>
+      <t pos="V">væddját, væddjáv</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">varres (attr. varres), varrása</t>
+      <t pos="A">varres</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">varrásmuvvat</t>
+      <t pos="V">varrásmuvvat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">frisk</l>
-      <l pos="N">opplagt</l>
+      <l pos="V">frisk</l>
+      <l pos="V">opplagt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vieddje, vieddje</t>
+      <t pos="V">vieddje</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">friskmelde</l>
+      <l pos="V">friskmelde</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varrásin/vieddjen tjállet</t>
+      <t pos="V">varrásin tjállet</t> OBS
+    </tg>
+    <tg lang="smj">
+      <t pos="V">vieddjen tjállet</t> OBS
     </tg>
   </e>
   <e>
@@ -3360,15 +3406,18 @@
       <l pos="N">friskmelding</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varrásin/vieddjen tjáledibme</t>
+      <t pos="N">varrásin tjáledibme</t> OBS
+    </tg>
+     <tg lang="smj">
+      <t pos="N">vieddjen tjáledibme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">friskne til</l>
+      <l pos="V">friskne til</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">varrásmuvvat</t>
+      <t pos="V">varrásmuvvat</t>
     </tg>
   </e>
   <e>
@@ -3381,7 +3430,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">frozen shoulder (kronisk betennelse og smerter)</l>
+      <l pos="N">frozen shoulder (kronisk betennelse og smerter)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">oalggeladásvuolssje ja báktjasa</t>
@@ -3392,16 +3441,16 @@
       <l pos="N">frustrasjon</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">assjme, asjme</t>
+      <t pos="N">assjme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">frustrert</l>
-      <l pos="N">irritert</l>
+      <l pos="A">frustrert</l>
+      <l pos="A">irritert</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">assjmak (attr. assjmagis)</t>
+      <t pos="N">assjmak</t>
     </tg>
   </e>
   <e>
@@ -3411,7 +3460,7 @@
       <l pos="N">skrekk</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ballo, balo</t>
+      <t pos="N">ballo</t>
     </tg>
   </e>
   <e>
@@ -3432,19 +3481,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fryse i hjel</l>
+      <l pos="V">fryse i hjel</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jámas goallot, goalov</t>
+      <t pos="V">jámas goallot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">frysning</l>
-      <l pos="N">ha frysninger (pga. våte klær)</l>
+      <l pos="N">frysning</l> OBS
+      <l pos="N">ha frysninger (pga. våte klær)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jiekkaldit</t>
+      <t pos="V">jiekkaldit</t>
     </tg>
   </e>
   <e>
@@ -3465,11 +3514,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">funksjonshemmet</l>
-      <l pos="N">handikappet</l>
+      <l pos="A">funksjonshemmet</l>
+      <l pos="A">handikappet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fábmális (attr. fábmalis)</t>
+      <t pos="A">fábmális</t>
     </tg>
   </e>
   <e>
@@ -3477,7 +3526,10 @@
       <l pos="N">funksjonshemning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fábmálisvuohta, doajmmahieredibme</t>
+      <t pos="N">fábmálisvuohta</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="N">doajmmahieredibme</t>
     </tg>
   </e>
   <e>
@@ -3490,10 +3542,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">føde</l>
+      <l pos="V">føde</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">riegádahttet</t>
+      <t pos="V">riegádahttet</t>
     </tg>
   </e>
   <e>
@@ -3506,10 +3558,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fødes</l>
+      <l pos="V">fødes</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">riegádit</t>
+      <t pos="V">riegádit</t>
     </tg>
   </e>
   <e>
@@ -3555,20 +3607,20 @@
   </e>
   <e>
     <lg>
-      <l pos="N">føle</l>
-      <l pos="N">høre</l>
+      <l pos="V">føle</l>
+      <l pos="V">høre</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gullat, guláv</t>
+      <t pos="V">gullat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">føle</l>
-      <l pos="N">kjenne</l>
+      <l pos="V">føle</l>
+      <l pos="V">kjenne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dåbddåt, dåbdåv</t>
+      <t pos="V">dåbddåt</t>
     </tg>
   </e>
   <e>
@@ -3576,10 +3628,10 @@
       <l pos="N">følelse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dåbddo, dåbdo</t>
+      <t pos="N">dåbddo</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">gullo, gulo</t>
+      <t pos="N">gullo</t>
     </tg>
   </e>
   <e>
@@ -3592,10 +3644,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gal</l>
+      <l pos="A">gal</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bierik (attr. bierigis), bieriga</t>
+      <t pos="A">bierik</t>
     </tg>
   </e>
   <e>
@@ -3603,7 +3655,7 @@
       <l pos="N">galle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sáhppe, sáhpe</t>
+      <t pos="N">sáhppe</t>
     </tg>
   </e>
   <e>
@@ -3643,25 +3695,25 @@
       <l pos="N">gane</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guobme, guome</t>
+      <t pos="N">guobme</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">gane</l>
-      <l pos="N">harde gane</l>
+      <l pos="N">harde gane</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">garra guobme, guome</t>
+      <t pos="N">garra guobme</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">gane</l>
-      <l pos="N">myke (bløte) gane</l>
+      <l pos="N">myke (bløte) gane</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">dibma guobme, guome</t>
+      <t pos="N">dibma guobme</t>
     </tg>
   </e>
   <e>
@@ -3678,7 +3730,7 @@
       <l pos="N">korridor</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gáŋŋga, gáŋga</t>
+      <t pos="N">gáŋŋga</t>
     </tg>
   </e>
   <e>
@@ -3686,7 +3738,10 @@
       <l pos="N">gen</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gedna, gena</t>
+      <t pos="N">gedna</t>
+    </tg>
+    <tg lang="smj">
+      <t pos="N">giedna</t>
     </tg>
   </e>
   <e>
@@ -3720,14 +3775,17 @@
     <tg lang="smj">
       <t pos="N">geriatrijja</t>
     </tg>
+    <tg lang="smj">
+      <t pos="N">geriatriddja</t>
+    </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gi opp</l>
-      <l pos="N">resignere</l>
+      <l pos="N">gi opp</l> OBS
+      <l pos="V">resignere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuollánit</t>
+      <t pos="V">vuollánit</t>
     </tg>
   </e>
   <e>
@@ -3735,7 +3793,7 @@
       <l pos="N">gikt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jikta, jivta</t>
+      <t pos="N">jikta</t>
     </tg>
   </e>
   <e>
@@ -3759,15 +3817,15 @@
       <l pos="N">gips</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jippsa, jipsa</t>
+      <t pos="N">jippsa</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gipse</l>
+      <l pos="V">gipse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jippsit, jippsiv</t>
+      <t pos="V">jippsit</t>
     </tg>
   </e>
   <e>
@@ -3775,7 +3833,10 @@
       <l pos="N">gjenkjenne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dåbddåt, dåbddåv (dåbddågoahtet)</t>
+      <t pos="N">dåbddåt (dåbddågoahtet)</t> OBS
+    </tg>
+     <tg lang="smj">
+      <t pos="N">dåbddågoahtet</t>
     </tg>
   </e>
   <e>
@@ -3812,19 +3873,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">glemsk</l>
-      <l pos="N">bli glemsk (miste hukommelsen)</l>
+      <l pos="A">glemsk</l>
+      <l pos="V">bli glemsk (miste hukommelsen)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">mujtoduvvat</t>
+      <t pos="V">mujtoduvvat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">glemsom</l>
+      <l pos="A">glemsom</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mujtodibme (attr. mujtodis)</t>
+      <t pos="A">mujtodibme</t>
     </tg>
   </e>
   <e>
@@ -3837,27 +3898,27 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gluten</l>
+      <l pos="N">gluten</l> 
     </lg>
     <tg lang="smj">
-      <t pos="N">gluten, glutena</t>
+      <t pos="N">gluten</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">glutenfri</l>
+      <l pos="A">glutenfri</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">glutenahtes</t>
+      <t pos="A">glutenahtes</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gnage</l>
-      <l pos="N">gi gnagsår</l>
+      <l pos="V">gnage</l>
+      <l pos="V">gi gnagsår</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">skuohppit</t>
+      <t pos="V">skuohppit</t>
     </tg>
   </e>
   <e>
@@ -3873,15 +3934,15 @@
       <l pos="N">gomme</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guobme, guome</t>
+      <t pos="N">guobme</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gravid</l>
+      <l pos="A">gravid</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">iesselis (attr. iesselis)</t>
+      <t pos="A">iesselis</t>
     </tg>
   </e>
   <e>
@@ -3903,10 +3964,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gro; ikke gro (nektende 3. pers. entall presens)</l>
+      <l pos="V">gro; ikke gro (nektende 3. pers. entall presens)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">savvet</t>
+      <t pos="V">savvet</t>
     </tg>
     <tg lang="smj">
       <t pos="N">ij save</t>
@@ -3914,7 +3975,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grums (uklar om væske)</l>
+      <l pos="N">grums (uklar om væske)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">smadje (gåttjån la smadje)</t>
@@ -3922,7 +3983,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grønn stær</l>
+      <l pos="N">grønn stær</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">ruodnáligge</t>
@@ -3930,7 +3991,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grå stær</l>
+      <l pos="N">grå stær</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">rávvisligge</t>
@@ -3941,23 +4002,23 @@
       <l pos="N">gråt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjieras, tjierrasa</t>
+      <t pos="N">tjieras</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gråte</l>
+      <l pos="V">gråte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjierrot, tjierov</t>
+      <t pos="V">tjierrot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">gulpe</l>
+      <l pos="V">gulpe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">goavllot, goavlov</t>
+      <t pos="V">goavllot</t>
     </tg>
   </e>
   <e>
@@ -3970,14 +4031,14 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gå</l>
-      <l pos="N">gå tur</l>
+      <l pos="V">gå</l>
+      <l pos="V">gå tur</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">vádtset, váttsáv</t>
+      <t pos="V">vádtset</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">váttsatjit</t>
+      <t pos="V">váttsatjit</t>
     </tg>
   </e>
   <e>
@@ -3985,7 +4046,7 @@
       <l pos="N">hake</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gájbbe, gájbe</t>
+      <t pos="N">gájbbe</t>
     </tg>
   </e>
   <e>
@@ -4009,22 +4070,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hals (innvendig)</l>
+      <l pos="N">hals (innvendig)</l> OBS
       <l pos="N">spiserør</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjåttå, tjåddåga</t>
+      <t pos="N">tjåttå</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hals (utvendig)</l>
+      <l pos="N">hals (utvendig)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjiehpe, tjiebe</t>
+      <t pos="N">tjiehpe</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">tjiebet, tjiebeda</t>
+      <t pos="N">tjiebet</t>
     </tg>
   </e>
   <e>
@@ -4037,7 +4098,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">halssene (stor)</l>
+      <l pos="N">halssene (stor)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">tjiebetsuodna</t>
@@ -4045,18 +4106,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">halt</l>
+      <l pos="A">halt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skiermmá (attr. skiermmá), skiermá</t>
+      <t pos="A">skiermmá</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">halte</l>
+      <l pos="V">halte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skiermmot, skiermov</t>
+      <t pos="V">skiermmot, skiermov</t>
     </tg>
   </e>
   <e>
@@ -4069,10 +4130,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">harke</l>
+      <l pos="V">harke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ráhkot, rágov</t>
+      <t pos="V">ráhkot</t>
     </tg>
   </e>
   <e>
@@ -4080,25 +4141,25 @@
       <l pos="N">hasjisj</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hássja, hássja</t>
+      <t pos="N">hássja</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">helbrede</l>
-      <l pos="N">kurere</l>
-      <l pos="N">lege (sykdom)</l>
+      <l pos="V">helbrede</l>
+      <l pos="V">kurere</l>
+      <l pos="V">lege (sykdom)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">buoredit</t>
+      <t pos="V">buoredit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">helbredelig</l>
+      <l pos="A">helbredelig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buoredahtte (attr. -dahtte)</t>
+      <t pos="A">buoredahtte</t>
     </tg>
   </e>
   <e>
@@ -4111,11 +4172,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hele</l>
-      <l pos="N">lege (sår)</l>
+      <l pos="V">hele</l>
+      <l pos="V">lege (sår)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">savedit</t>
+      <t pos="V">savedit</t>
     </tg>
   </e>
   <e>
@@ -4123,7 +4184,7 @@
       <l pos="N">helse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hælsso, hælso</t>
+      <t pos="N">hælsso</t>
     </tg>
     <tg lang="smj">
       <t pos="N">varresvuohta</t>
@@ -4140,10 +4201,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">helsebringende</l>
+      <l pos="A">helsebringende</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">væddjádahkes (attr. -dahkes)</t>
+      <t pos="A">væddjádahkes</t>
     </tg>
   </e>
   <e>
@@ -4196,10 +4257,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">helseskadelig</l>
+      <l pos="A">helseskadelig</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">varresvuohtavárálasj (attr. -várálasj)</t>
+      <t pos="A">varresvuohtavárálasj</t>
     </tg>
   </e>
   <e>
@@ -4255,26 +4316,26 @@
       <l pos="N">hemoroide</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hemorojdda</t>
+      <t pos="N">hemorojdda</t>OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">henge seg</l>
+      <l pos="V">henge seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gatsostit ietjas</t>
+      <t pos="V">gatsostit ietjas</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">gartsastit ietjas</t>
+      <t pos="V">gartsastit ietjas</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">henvise til</l>
+      <l pos="V">henvise til</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sievvet, sæváv</t>
+      <t pos="N">sievvet</t>
     </tg>
   </e>
   <e>
@@ -4290,7 +4351,7 @@
       <l pos="N">herd (ryggpartiet mellom skuldrene)</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hárddo, hárdo</t>
+      <t pos="N">hárddo</t>
     </tg>
   </e>
   <e>
@@ -4303,10 +4364,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hes</l>
+      <l pos="A">hes</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sædos, sedusa</t>
+      <t pos="A">sædos</t>
     </tg>
   </e>
   <e>
@@ -4314,7 +4375,7 @@
       <l pos="N">hete</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">báhkka, báhka</t>
+      <t pos="N">báhkka</t>
     </tg>
   </e>
   <e>
@@ -4330,10 +4391,10 @@
       <l pos="N">hevelse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">båhte, både</t>
+      <t pos="N">båhte</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">sluggam, sluggama</t>
+      <t pos="N">sluggam</t>
     </tg>
   </e>
   <e>
@@ -4347,18 +4408,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hikke</l>
+      <l pos="V">hikke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">njahkastit, njahkedit</t>
+      <t pos="N">njahkastit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hikste</l>
+      <l pos="V">hikste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hagŋadit</t>
+      <t pos=VN">hagŋadit</t>
     </tg>
   </e>
   <e>
@@ -4366,7 +4427,7 @@
       <l pos="N">hinne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsuodtsa, tsuottsa</t>
+      <t pos="N">tsuodtsa</t>
     </tg>
   </e>
   <e>
@@ -4375,16 +4436,16 @@
       <l pos="N">slimhinne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">snjárttjá, snjártjá</t>
+      <t pos="N">snjárttjá</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">hinne</l>
-      <l pos="N">tynn hinne</l>
+      <l pos="N">tynn hinne</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">skoade, skoade</t>
+      <t pos="N">skoade</t>
     </tg>
   </e>
   <e>
@@ -4392,23 +4453,23 @@
       <l pos="N">hjelp</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viehkke, viehke</t>
+      <t pos="N">viehkke</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hjelpe</l>
+      <l pos="V">hjelpe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viehkedit</t>
+      <t pos="V">viehkedit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hjelpe (mot eller for noe)</l>
+      <l pos="V">hjelpe (mot eller for noe)</l> OBS 
     </lg>
     <tg lang="smj">
-      <t pos="N">basstet</t>
+      <t pos="V">basstet</t>
     </tg>
   </e>
   <e>
@@ -4440,7 +4501,7 @@
       <l pos="N">hjemmesykepleie</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sijddaskihppijsujtto,-sujto</t>
+      <t pos="N">sijddaskihppijsujtto</t>
     </tg>
   </e>
   <e>
@@ -4456,7 +4517,7 @@
       <l pos="N">hjerne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuojŋŋama (fl.)</t>
+      <t pos="N">vuojŋŋama (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -4513,12 +4574,12 @@
       <l pos="N">hjerte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsåhke, tsåge</t>
+      <t pos="N">tsåhke</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hjerte- og karsykdom</l>
+      <l pos="N">hjerte- og karsykdom</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">tsåhke- ja varravárrevihke</t>
@@ -4569,7 +4630,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hjertekrampe (angina pectoris)</l>
+      <l pos="N">hjertekrampe (angina pectoris)</l> oBS
     </lg>
     <tg lang="smj">
       <t pos="N">tsåhkegæsádahka</t>
@@ -4588,7 +4649,7 @@
       <l pos="N">hjerteslag</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsåhkeslága, tsåhkesláhka</t>
+      <t pos="N">tsåhkeslága, tsåhkesláhka</t> OBS
     </tg>
   </e>
   <e>
@@ -4613,7 +4674,7 @@
       <l pos="N">kinntann</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjalán, tjalána</t>
+      <t pos="N">tjalán</t>
     </tg>
   </e>
   <e>
@@ -4621,7 +4682,7 @@
       <l pos="N">hode</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">oajvve, oajve</t>
+      <t pos="N">oajvve</t>
     </tg>
   </e>
   <e>
@@ -4656,7 +4717,7 @@
       <l pos="N">hodepinetablett</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tablæhtta oajvveluottudahkaj</t>
+      <t pos="N">tablæhtta oajvveluottudahkaj</t>  OBS
     </tg>
   </e>
   <e>
@@ -4667,7 +4728,7 @@
       <t pos="N">oajvveskuvrre</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">skuvrre, skuvre</t>
+      <t pos="N">skuvrre</t>
     </tg>
   </e>
   <e>
@@ -4675,7 +4736,7 @@
       <l pos="N">hofte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nårås, nårråsa</t>
+      <t pos="N">nårås</t>
     </tg>
   </e>
   <e>
@@ -4696,7 +4757,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hoftepartiet (pl.)</l>
+      <l pos="N">hoftepartiet (pl.)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">tjoarbiele</t>
@@ -4704,27 +4765,27 @@
   </e>
   <e>
     <lg>
-      <l pos="N">holde seg i form</l>
+      <l pos="V">holde seg i form</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sjahpedit</t>
+      <t pos="V">sjahpedit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">holde senga</l>
+      <l pos="V">holde senga</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">vellahit</t>
+      <t pos="V">vellahit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">holde senga</l>
-      <l pos="N">ligge</l>
+      <l pos="V">holde senga</l> OBS
+      <l pos="V">ligge</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vællahit</t>
+      <t pos="V">vællahit</t>
     </tg>
   </e>
   <e>
@@ -4745,18 +4806,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hoste  s.</l>
+      <l pos="N">hoste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gåsås, gåssåsa</t>
+      <t pos="N">gåsås</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hoste  v.</l>
+      <l pos="V">hoste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gåssåt, gåsåv</t>
+      <t pos="V">gåssåt</t>
     </tg>
   </e>
   <e>
@@ -4777,22 +4838,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hoven</l>
-      <l pos="N">være hoven/oppsvulmet</l>
+      <l pos="A">hoven</l>
+      <l pos="V">være hoven/oppsvulmet</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">båden liehket</t>
+      <t pos="V">båden liehket</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hovne opp</l>
+      <l pos="V">hovne opp</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">båhtånit</t>
+      <t pos="V">båhtånit</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">sluggat</t>
+      <t pos="V">sluggat</t>
     </tg>
   </e>
   <e>
@@ -4808,16 +4869,16 @@
       <l pos="N">hull</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rájgge, rájge</t>
+      <t pos="N">rájgge</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">hull</l>
-      <l pos="N">gå hull på</l>
+      <l pos="V">gå hull på</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">rájggánit</t>
+      <t pos="V">rájggánit</t>
     </tg>
   </e>
   <e>
@@ -4830,19 +4891,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">huske</l>
+      <l pos="V">huske</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mujttet, mujtáv</t>
+      <t pos="V">mujttet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hutre (i sammenkrøpet stilling)</l>
-      <l pos="N">småfryse</l>
+      <l pos="V">hutre (i sammenkrøpet stilling)</l> OBS
+      <l pos="V">småfryse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">huhttahit, huhttahav</t>
+      <t pos="V">huhttahit</t>
     </tg>
   </e>
   <e>
@@ -4894,10 +4955,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hyperaktiv</l>
+      <l pos="A">hyperaktiv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skindik (attr. skindigis), skindiga</t>
+      <t pos="A">skindik</t>
     </tg>
   </e>
   <e>
@@ -4921,7 +4982,7 @@
       <l pos="N">hæl</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">boasske, boaske</t>
+      <t pos="N">boasske</t>
     </tg>
   </e>
   <e>
@@ -4929,7 +4990,7 @@
       <l pos="N">høreapparat</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guládahka, guládagá</t>
+      <t pos="N">guládahka</t> OBS - gulán?
     </tg>
   </e>
   <e>
@@ -4945,7 +5006,7 @@
       <l pos="N">hørsel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gullo, gulo</t>
+      <t pos="N">gullo</t>
     </tg>
   </e>
   <e>
@@ -4953,15 +5014,15 @@
       <l pos="N">hørselsbein</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gullodávte (fl.)</t>
+      <t pos="N">gullodávte (fl.)</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">hørselshemmet</l>
+      <l pos="A">hørselshemmet</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gulodibme (attr. gulodis)</t>
+      <t pos="A">gulodibme</t>
     </tg>
   </e>
   <e>
@@ -4982,15 +5043,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hånden gikk ut av ledd</l>
+      <l pos="N">hånden gikk ut av ledd</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">giehta gahtjaj lahtasis</t>
+      <t pos="N">giehta gahtjaj lahtasis</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">håndens overside</l>
+      <l pos="N">håndens overside</l> OBS
       <l pos="N">håndbak</l>
     </lg>
     <tg lang="smj">
@@ -5052,15 +5113,15 @@
       <l pos="N">håp</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">doajvvo, doajvo</t>
+      <t pos="N">doajvvo</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">håpe</l>
+      <l pos="V">håpe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">doajvvot, doajvov</t>
+      <t pos="V">doajvvot</t>
     </tg>
   </e>
   <e>
@@ -5068,7 +5129,7 @@
       <l pos="N">hårfeste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gidno, gino</t>
+      <t pos="N">gidno</t>
     </tg>
   </e>
   <e>
@@ -5084,7 +5145,7 @@
       <l pos="N">hårskille</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sárgge, sárge</t>
+      <t pos="N">sárgge</t>
     </tg>
   </e>
   <e>
@@ -5092,7 +5153,7 @@
       <l pos="N">hårstrå</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuoppta, vuopta</t>
+      <t pos="N">vuoppta</t>
     </tg>
   </e>
   <e>
@@ -5106,18 +5167,18 @@
   <e>
     <lg>
       <l pos="N">illebefinnende</l>
-      <l pos="N">få et illebefinnende</l>
+      <l pos="V">få et illebefinnende</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">æggárasstet</t>
+      <t pos="V">æggárasstet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">indre øyekrok</l>
+      <l pos="N">indre øyekrok</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sisŋep tjalmmegiehtje</t>
+      <t pos="N">sisŋep tjalmmegiehtje</t> OBS
     </tg>
   </e>
   <e>
@@ -5133,7 +5194,7 @@
       <l pos="N">infeksjon</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuolssje, vuolsje</t>
+      <t pos="N">vuolssje</t>
     </tg>
   </e>
   <e>
@@ -5165,10 +5226,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">inhalere</l>
+      <l pos="V">inhalere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuojŋŋat, vuojŋav</t>
+      <t pos="V">vuojŋŋat</t>
     </tg>
   </e>
   <e>
@@ -5198,32 +5259,31 @@
   </e>
   <e>
     <lg>
-      <l pos="N">inngrodd negl</l>
+      <l pos="N">inngrodd negl</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sisisjaddam gadtsa, gattsa</t>
+      <t pos="N">sisisjaddam gadtsa</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">innkalle</l>
+      <l pos="V">innkalle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gåhttjot, gåhtjov</t>
+      <t pos="V">gåhttjot</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">innkalling (til kontroll</l>
-      <l pos="N">spesialist)</l>
+      <l pos="N">innkalling (til kontroll spesialist)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gåhtjulvis kontroallaj, spesialisstaj</t>
+      <t pos="N">gåhtjulvis kontroallaj, spesialisstaj</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">innlegge (på sykehus)</l>
+      <l pos="N">innlegge (på sykehus)</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">biedjat/tjáledit skihppijviessuj</t>
@@ -5234,7 +5294,7 @@
       <l pos="N">innleggelse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjáledibme skihppijviessuj</t>
+      <t pos="N">tjáledibme skihppijviessuj</t> OBS
     </tg>
   </e>
   <e>
@@ -5242,12 +5302,12 @@
       <l pos="N">innvandrer</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sirdulasj (attr. sirdulasj)</t>
+      <t pos="N">sirdulasj</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">innvortes medisin</l>
+      <l pos="N">innvortes medisin</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">sisŋusjdálkas</t>
@@ -5282,7 +5342,7 @@
       <l pos="N">intravenøst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">njuolgga varraj</t>
+      <t pos="N">njuolgga varraj</t> OBS
     </tg>
   </e>
   <e>
@@ -5299,7 +5359,7 @@
       <l pos="N">isjias</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">issjás, issjása</t>
+      <t pos="N">issjás</t>
     </tg>
   </e>
   <e>
@@ -5312,10 +5372,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">isolere</l>
+      <l pos="V">isolere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sieradit</t>
+      <t pos="V">sieradit</t>
     </tg>
   </e>
   <e>
@@ -5342,7 +5402,7 @@
       <l pos="N">jern</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ruovdde, ruovde</t>
+      <t pos="N">ruovdde</t>
     </tg>
   </e>
   <e>
@@ -5391,10 +5451,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kald</l>
+      <l pos="A">kald</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">galmas (attr. galmma), galmmasa</t>
+      <t pos="A">galmas</t>
     </tg>
   </e>
   <e>
@@ -5412,6 +5472,9 @@
     <tg lang="smj">
       <t pos="N">kaloriddja</t>
     </tg>
+    <tg lang="smj">
+      <t pos="N">kalorijja</t>
+    </tg>
   </e>
   <e>
     <lg>
@@ -5425,10 +5488,10 @@
   <e>
     <lg>
       <l pos="N">kapsel</l>
-      <l pos="N">omgivende hinne</l>
+      <l pos="N">omgivende hinne</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">skoade, skoade</t>
+      <t pos="N">skoade</t>
     </tg>
   </e>
   <e>
@@ -5449,10 +5512,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaste opp</l>
+      <l pos="V">kaste opp</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">vuokset, vuovsáv</t>
+      <t pos="V">vuokset</t>
     </tg>
   </e>
   <e>
@@ -5478,6 +5541,9 @@
     </lg>
     <tg lang="smj">
       <t pos="N">katehtar</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="N">katiehtar</t>
     </tg>
   </e>
   <e>
@@ -5514,11 +5580,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kinke</l>
-      <l pos="N">få kink i ryggen</l>
+      <l pos="V">kinke</l>
+      <l pos="V">få kink i ryggen</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">roassjkat, råsjkav (roassjkat hárddov)</t>
+      <t pos="V">roassjkat, råsjkav (roassjkat hárddov)</t>
     </tg>
   </e>
   <e>
@@ -5526,7 +5592,7 @@
       <l pos="N">kinn</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nierra, niera</t>
+      <t pos="N">nierra</t>
     </tg>
   </e>
   <e>
@@ -5542,7 +5608,7 @@
       <l pos="N">kiropraktor</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kiroprávtur</t>
+      <t pos="N">kiroprávtor</t>
     </tg>
   </e>
   <e>
@@ -5550,33 +5616,33 @@
       <l pos="N">kiste</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gissto, gisto</t>
+      <t pos="N">gissto</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjede seg</l>
+      <l pos="V">kjede seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gávkkahit</t>
+      <t pos="V">gávkkahit</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">kjeft</l>
-      <l pos="N">få kjeft</l>
+      <l pos="V">få kjeft</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">bælkkut, bælkuv</t>
+      <t pos="V">bælkkut</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjefte</l>
-      <l pos="N">skjelle ut</l>
+      <l pos="V">kjefte</l>
+      <l pos="V">skjelle ut</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">bielkket, bælkáv</t>
+      <t pos="N">bielkket</t>
     </tg>
   </e>
   <e>
@@ -5584,23 +5650,23 @@
       <l pos="N">kjeller</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjieller, tjællára</t>
+      <t pos="N">tjieller</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjenne murrende smerte</l>
+      <l pos="N">kjenne murrende smerte</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">surmestit</t>
+      <t pos="V">surmestit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjenne på (med hender)</l>
+      <l pos="N">kjenne på (med hender)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gulldalit</t>
+      <t pos="V">gulldalit</t>
     </tg>
   </e>
   <e>
@@ -5608,7 +5674,7 @@
       <l pos="N">kjertel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ráksá, rávsá</t>
+      <t pos="N">ráksá</t>
     </tg>
   </e>
   <e>
@@ -5616,7 +5682,7 @@
       <l pos="N">kjeve</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">oalol, ållula</t>
+      <t pos="N">oalol</t>
     </tg>
   </e>
   <e>
@@ -5632,16 +5698,16 @@
       <l pos="N">kjevespyttkjertel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">oaloltjålggåráksá,- rávsá</t>
+      <t pos="N">oaloltjålggåráksá</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjølig</l>
-      <l pos="N">bli kjølig (pga. våte klær)</l>
+      <l pos="N">kjølig</l> OBS
+      <l pos="V">bli kjølig (pga. våte klær)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jevsijdit</t>
+      <t pos="V">jevsijdit</t>
     </tg>
   </e>
   <e>
@@ -5649,7 +5715,7 @@
       <l pos="N">kjønn</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sjiervve, sjierve</t>
+      <t pos="N">sjiervve</t>
     </tg>
   </e>
   <e>
@@ -5665,15 +5731,15 @@
       <l pos="N">kjønnshår</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">siehppa, siehpa</t>
+      <t pos="N">siehppa</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnskjertler</l>
+      <l pos="N">kjønnskjertler</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">sjiervverávsá (fl.)</t>
+      <t pos="N">sjiervverávsá (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -5703,11 +5769,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnsorgan (kvinnelig)</l>
+      <l pos="N">kjønnsorgan (kvinnelig)</l> OBS
       <l pos="N">vagina</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsinna, tsinna</t>
+      <t pos="N">tsinna</t> OBS
     </tg>
   </e>
   <e>
@@ -5715,15 +5781,15 @@
       <l pos="N">kjønnssykdom</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sjiervveskihpudahka –dagá</t>
+      <t pos="N">sjiervveskihpudahka</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kladd (underlag)</l>
+      <l pos="N">kladd (underlag)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">kládda, klátta</t>
+      <t pos="N">kládda</t>
     </tg>
   </e>
   <e>
@@ -5736,10 +5802,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">klage (om feilaktighet)</l>
+      <l pos="N">klage (om feilaktighet)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gujddit, gujddiv</t>
+      <t pos="N">gujddit</t>
     </tg>
   </e>
   <e>
@@ -5748,31 +5814,31 @@
       <l pos="N">jammer</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">luodjom, luodjoma</t>
+      <t pos="N">luodjom</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">klare</l>
+      <l pos="V">klare</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nahkat, nagáv</t>
+      <t pos="N">nahkat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kle av seg</l>
+      <l pos="V">kle av seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">nuoladit</t>
+      <t pos="V">nuoladit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kle på seg</l>
+      <l pos="V">kle på seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">gárvvunit</t>
+      <t pos="V">gárvvunit</t>
     </tg>
   </e>
   <e>
@@ -5788,15 +5854,18 @@
       <l pos="N">klitoris</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bunno, baksimtjuolmma</t>
+      <t pos="N">bunno</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="N">baksimtjuolmma</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">klore seg</l>
+      <l pos="V">klore seg</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ruohkkat, ruohkav</t>
+      <t pos="V>ruohkkat</t>
     </tg>
   </e>
   <e>
@@ -5806,13 +5875,16 @@
     <tg lang="smj">
       <t pos="N">klysterra</t>
     </tg>
+     <tg lang="smj">
+      <t pos="N">klistar</t> OBS
+    </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">klø</l>
+      <l pos="V">klø</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">sagŋedit</t>
+      <t pos="V">sagŋedit</t>
     </tg>
   </e>
   <e>
@@ -5823,16 +5895,16 @@
       <t pos="N">sagŋedibme</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">saŋásj, saŋátja</t>
+      <t pos="N">saŋásj</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">kløe</l>
-      <l pos="N">sterk kløe</l>
+      <l pos="N">sterk kløe</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">saŋátja (fl.)</t>
+      <t pos="N">saŋátja (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -5840,7 +5912,7 @@
       <l pos="N">kne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buolvva, buolva</t>
+      <t pos="N">buolvva</t>
     </tg>
   </e>
   <e>
@@ -5848,7 +5920,7 @@
       <l pos="N">knehase</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fieŋŋge, fieŋge</t>
+      <t pos="N">fieŋŋge</t>
     </tg>
   </e>
   <e>
@@ -5873,10 +5945,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">knoke (i fot- eller handledd)</l>
+      <l pos="N">knoke (i fot- eller handledd)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjuhttá, tjuhtá</t>
+      <t pos="N">tjuhttá</t>
     </tg>
   </e>
   <e>
@@ -5884,7 +5956,7 @@
       <l pos="N">knuskbrenning</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">duovllom, duovlloma</t>
+      <t pos="N">duovllom</t>
     </tg>
   </e>
   <e>
@@ -5892,12 +5964,13 @@
       <l pos="N">knyttneve</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjårmmå, tjårmå</t>
+      <t pos="N">tjårmmå</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">koldbrann; dødt vev</l>
+      <l pos="N">koldbrann</l>
+      <l pos="N">dødt vev</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">jábmaoadtje</t>
@@ -5908,7 +5981,7 @@
       <l pos="N">kolera</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kolera, kolera</t>
+      <t pos="N">kolera</t> OBS
     </tg>
   </e>
   <e>
@@ -5924,15 +5997,15 @@
       <l pos="N">kols</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">koalssa, kålsa</t>
+      <t pos="N">koalssa</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">komme seg på beina</l>
+      <l pos="V">komme seg på beina</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">juolgij nali væddját</t>
+      <t pos="V">juolgij nali væddját</t> OBS
     </tg>
   </e>
   <e>
@@ -5980,19 +6053,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kontrollere</l>
+      <l pos="V">kontrollere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kontrollerit</t>
+      <t pos="V">kontrollerit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">koppe</l>
-      <l pos="N">årelate</l>
+      <l pos="V">koppe</l>
+      <l pos="V">årelate</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kåhppit, kåhppiv</t>
+      <t pos="V">kåhppit</t>
     </tg>
   </e>
   <e>
@@ -6000,7 +6073,7 @@
       <l pos="N">korsbein</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gádnes, gáddná</t>
+      <t pos="N">gádnes</t>
     </tg>
   </e>
   <e>
@@ -6021,10 +6094,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kraftløs</l>
+      <l pos="A">kraftløs</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">fámodibme (attr. -fámodis)</t>
+      <t pos="A">fámodibme</t>
     </tg>
   </e>
   <e>
@@ -6032,7 +6105,7 @@
       <l pos="N">krampe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">krámmpa, krámpa</t>
+      <t pos="N">krámmpa</t>
     </tg>
     <tg lang="smj">
       <t pos="N">gæsádahka</t>
@@ -6040,7 +6113,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">krangle</l>
+      <l pos="V">krangle</l>
     </lg>
     <tg lang="smj">
       <t pos="N">belkatjit</t>
@@ -6052,7 +6125,7 @@
       <l pos="N">hjertepulsåre</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsåhkevarravárre- váre</t>
+      <t pos="N">tsåhkevarravárre</t>
     </tg>
   </e>
   <e>
@@ -6071,7 +6144,7 @@
       <t pos="N">bårredávdda</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">kræffta, krefta</t>
+      <t pos="N">kræffta</t>
     </tg>
   </e>
   <e>
@@ -6087,7 +6160,10 @@
       <l pos="N">krem</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kræmma, kremma jf. vuojdas</t>
+      <t pos="N">kræmma</t>
+    </tg>
+     <tg lang="smj">
+      <t pos="N">vuojdas</t>
     </tg>
   </e>
   <e>
@@ -6109,7 +6185,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kronisk sykdom</l>
+      <l pos="N">kronisk sykdom</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">bisse skihpudahka</t>
@@ -6120,7 +6196,7 @@
       <l pos="N">kropp</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rumáj, rubmaha</t>
+      <t pos="N">rumáj</t>
     </tg>
   </e>
   <e>
@@ -6145,7 +6221,7 @@
       <l pos="N">krykke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dårjun, dårjuna</t>
+      <t pos="N">dårjun</t>
     </tg>
   </e>
   <e>
@@ -6162,7 +6238,7 @@
       <l pos="N">klump</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjåssne, tjåsne</t>
+      <t pos="N">tjåssne</t>
     </tg>
   </e>
   <e>
@@ -6186,19 +6262,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kurativ</l>
-      <l pos="N">helbredende</l>
+      <l pos="A">kurativ</l>
+      <l pos="V">helbredende</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buorediddje</t>
+      <t pos="V">buorediddje</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kurere med knusk</l>
+      <l pos="V">kurere med knusk</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">duovllot, duovlov</t>
+      <t pos="V">duovllot</t>
     </tg>
   </e>
   <e>
@@ -6206,7 +6282,7 @@
       <l pos="N">kusma</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">kussmá, kusmá</t>
+      <t pos="N">kussmá</t>
     </tg>
   </e>
   <e>
@@ -6215,42 +6291,42 @@
       <l pos="N">sår</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hávve, háve</t>
+      <t pos="N">hávve</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kutte seg</l>
-      <l pos="N">skjære seg</l>
+      <l pos="V">kutte seg</l> OBS
+      <l pos="V">skjære seg</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjuohpadit</t>
+      <t pos="V">tjuohpadit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kvalm</l>
+      <l pos="A">kvalm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">måjdås (attr. måjdås), måjddåsa</t>
+      <t pos="A">måjdås</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kvalm</l>
-      <l pos="N">bli kvalm</l>
+      <l pos="N">kvalm</l> OBS
+      <l pos="V">bli kvalm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">måjddåt, måjdåv</t>
+      <t pos="V">måjddåt</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kvalm</l>
-      <l pos="N">være kvalm</l>
+      <l pos="N">kvalm</l> OBS
+      <l pos="V">være kvalm</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gåhkot, gågov</t>
+      <t pos="V">gåhkot</t>
     </tg>
   </e>
   <e>
@@ -6263,26 +6339,29 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kvele</l>
+      <l pos="V">kvele</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buvvet, buváv</t>
+      <t pos="V">buvvet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kveles</l>
+      <l pos="V">kveles</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buvvut, buvvuv</t>
+      <t pos="V">buvvut</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">kveles; drukne</l>
+      <l pos="V">kveles</l>
+      <l pos="V">drukne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hávkkat, hávkav jf. ferrat, fællat</t>
+      <t pos="V">hávkkat</t>
+      <t pos="V">ferrat</t>
+      <t pos="V">fællat</t>
     </tg>
   </e>
   <e>
@@ -6290,7 +6369,7 @@
       <l pos="N">kvinne</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nissun, nissuna</t>
+      <t pos="N">nissun</t>
     </tg>
   </e>
   <e>
@@ -6298,10 +6377,10 @@
       <l pos="N">kvinnebryst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjidtje, tjittje</t>
+      <t pos="N">tjidtje</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">njidtje, njittje</t>
+      <t pos="N">njidtje</t>
     </tg>
   </e>
   <e>
@@ -6323,7 +6402,7 @@
       <t pos="N">tjásmagis</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">tjismas, tjissmasa</t>
+      <t pos="N">tjismas</t>
     </tg>
   </e>
   <e>
@@ -6347,7 +6426,7 @@
       <l pos="N">lager</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuorkká, vuorká</t>
+      <t pos="N">vuorkká</t>
     </tg>
     <tg lang="smj">
       <t pos="N">vuorkudahka</t>
@@ -6371,27 +6450,27 @@
   </e>
   <e>
     <lg>
-      <l pos="N">laktoseintolerant</l>
+      <l pos="A">laktoseintolerant</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">laktåvssårassje (attr. -rasjes)</t>
+      <t pos="A">laktåvssårassje</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lam</l>
+      <l pos="A">lam</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gálnas (attr. gállna), gállnasa</t>
+      <t pos="A">gálnas</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lam</l>
-      <l pos="N">bli lam</l>
+      <l pos="N">lam</l> OBS
+      <l pos="V">bli lam</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gállnat, gálnav</t>
+      <t pos="V">gállnat</t>
     </tg>
   </e>
   <e>
@@ -6399,7 +6478,7 @@
       <l pos="N">lammelse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gállnam, gállnama</t>
+      <t pos="N">gállnam</t>
     </tg>
   </e>
   <e>
@@ -6412,10 +6491,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">langsynt</l>
+      <l pos="A">langsynt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">guhkesvuojnne</t>
+      <t pos="V">guhkesvuojnne</t>
     </tg>
   </e>
   <e>
@@ -6439,20 +6518,20 @@
       <l pos="N">laser</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">lásar, lássara</t>
+      <t pos="N">lásar</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">latexhanske (engangshanske)</l>
+      <l pos="N">latexhanske</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">latekshánsska ,-hánska</t>
+      <t pos="N">latekshánsska</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lav blodprosent</l>
+      <l pos="N">lav blodprosent</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">vuollegis varraprosænnta</t>
@@ -6460,7 +6539,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lavt blodtrykk</l>
+      <l pos="N">lavt blodtrykk</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">vuollegis varraviesoj</t>
@@ -6471,7 +6550,7 @@
       <l pos="N">ledd</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ladás, lahtasa</t>
+      <t pos="N">ladás</t>
     </tg>
   </e>
   <e>
@@ -6492,10 +6571,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leddknoke (i hånd eller fot)</l>
+      <l pos="N">leddknoke (i hånd eller fot)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjuvlle, tjuvle</t>
+      <t pos="N">tjuvlle</t>
     </tg>
   </e>
   <e>
@@ -6506,16 +6585,16 @@
       <t pos="N">dálkudiddje</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">dåktår, dåktåra</t>
+      <t pos="N">dåktår</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">legehjelp</l>
-      <l pos="N">få legehjelp</l>
+      <l pos="V">få legehjelp</l>OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">dåktårviehkev oadtjot, oattjov</t>
+      <t pos="V">dåktårviehkev oadtjot, oattjov</t> OBS
     </tg>
   </e>
   <e>
@@ -6533,7 +6612,7 @@
       <l pos="N">preparat</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dálkas, dálkkasa</t>
+      <t pos="N">dálkas</t>
     </tg>
   </e>
   <e>
@@ -6551,17 +6630,17 @@
       <l pos="N">skavank</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">májnne, májne</t>
+      <t pos="N">májnne</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">leges</l>
-      <l pos="N">helbredes</l>
-      <l pos="N">kureres</l>
+      <l pos="V">leges</l>
+      <l pos="V">helbredes</l>
+      <l pos="V">kureres</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">buorránit</t>
+      <t pos="V">buorránit</t>
     </tg>
   </e>
   <e>
@@ -6583,7 +6662,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">legg (leggbein)</l>
+      <l pos="N">legg (leggbein)</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">njiehtsagis</t>
@@ -6595,7 +6674,7 @@
       <l pos="N">leggmuskel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">váhkká, váhká</t>
+      <t pos="N">váhkká</t>
     </tg>
   </e>
   <e>
@@ -6608,26 +6687,26 @@
   </e>
   <e>
     <lg>
-      <l pos="N">legge (en annen person)</l>
+      <l pos="V">legge (en annen person)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">viellidahttet –dahtáv</t>
+      <t pos="V">viellidahttet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">legge inn (pasient)</l>
+      <l pos="V">legge inn (pasient)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjáledit dálkudibmáj, sujttoj/skihppijviessuj</t>
+      <t pos="V">tjáledit dálkudibmáj, sujttoj/skihppijviessuj</t> OBS
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">legge seg ned</l>
+      <l pos="V">legge seg ned</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viellidit</t>
+      <t pos="V">viellidit</t>
     </tg>
   </e>
   <e>
@@ -6636,7 +6715,7 @@
       <l pos="N">midje</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">ålem, ålema</t>
+      <t pos="N">ålem</t>
     </tg>
   </e>
   <e>
@@ -6644,34 +6723,34 @@
       <l pos="N">leppe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bavsev, baksima</t>
+      <t pos="N">bavsev</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">njálmmerabdda, njálmmerabda</t>
-    </tg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">lese (heale)</l>
-    </lg>
-    <tg lang="smj">
-      <t pos="N">låhkåt, lågåv</t>
+      <t pos="N">njálmmerabdda</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">leve</l>
+      <l pos="V">lese (heale)</l>OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">viessot, viesov</t>
+      <t pos="N">låhkåt</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">leve sunt</l>
+      <l pos="V">leve</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">lassjot viessot, viesov</t>
+      <t pos="V">viessot</t>
+    </tg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">leve sunt</l> OBS
+    </lg>
+    <tg lang="smj">
+      <t pos="V">lassjot viessot</t>
     </tg>
   </e>
   <e>
@@ -6679,7 +6758,7 @@
       <l pos="N">levekår</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viessomvidjura (fl.)</t>
+      <t pos="N">viessomvidjura (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -6692,11 +6771,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">levende (presens partisipp)</l>
-      <l pos="N">i live</l>
+      <l pos="V">levende (presens partisipp)</l>
+      <l pos="V">i live</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viesso, viesso</t>
+      <t pos="V">viesso, viesso</t>
     </tg>
   </e>
   <e>
@@ -6704,23 +6783,23 @@
       <l pos="N">lever</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">librre, libre</t>
+      <t pos="N">librre</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lide</l>
+      <l pos="V">lide</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gillat, gillav</t>
+      <t pos="V">gillat</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lide av</l>
+      <l pos="V">lide av</l>OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">skihpat (+ elativ)</t>
+      <t pos="V">skihpat (+ elativ)</t> OBS
     </tg>
   </e>
   <e>
@@ -6728,10 +6807,10 @@
       <l pos="N">lidelse</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gierddam, gierddama</t>
+      <t pos="N">gierddam</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">gillam, gillama</t>
+      <t pos="N">gillam</t>
     </tg>
     <tg lang="smj">
       <t pos="N">vájvvástuvvam</t>
@@ -6748,18 +6827,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lift (løfter)</l>
+      <l pos="N">lift (løfter)</l>OBS 
     </lg>
     <tg lang="smj">
-      <t pos="N">låggŋår, låggŋåra</t>
+      <t pos="N">låggŋår, låggŋåra</t>OBS menneske
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">ligge for døden</l>
+      <l pos="V">ligge for døden</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">jábmema åvdån liehket</t>
+      <t pos="V">jábmema åvdån liehket</t> OBS
     </tg>
   </e>
   <e>
@@ -6775,10 +6854,10 @@
       <l pos="N">lik</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jábbmek, jábbmega</t>
+      <t pos="N">jábbmek</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">lijkka, lijka</t>
+      <t pos="N">lijkka</t>
     </tg>
   </e>
   <e>
@@ -6802,7 +6881,7 @@
       <l pos="N">lillefinger</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjiehtjer, tjiehtjera</t>
+      <t pos="N">tjiehtjer</t>
     </tg>
     <tg lang="smj">
       <t pos="N">tjiehtjerasj</t>
@@ -6810,10 +6889,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lindre smerte</l>
+      <l pos="V">lindre smerte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">báktjasijt giehpedit</t>
+      <t pos="V">báktjasijt giehpedit</t> OBS
     </tg>
   </e>
   <e>
@@ -6835,16 +6914,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lite kutt</l>
-      <l pos="N">lite sår</l>
+      <l pos="N">lite kutt</l>OBS
+      <l pos="N">lite sår</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">hávásj, hávátja</t>
+      <t pos="N">hávásj</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">liten øreflipp</l>
+      <l pos="N">liten øreflipp</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">bielljegætjásj</t>
@@ -6855,15 +6934,15 @@
       <l pos="N">liv</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viessom, viessoma</t>
+      <t pos="N">viessom</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">livløs</l>
+      <l pos="A">livløs</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hehkadibme (attr. -dis)</t>
+      <t pos="A">hehkadibme</t>
     </tg>
   </e>
   <e>
@@ -6871,7 +6950,7 @@
       <l pos="N">livmor</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">skoahto, skoado</t>
+      <t pos="N">skoahto</t>
     </tg>
   </e>
   <e>
@@ -6900,10 +6979,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">livreddende førstehjelp</l>
+      <l pos="N">livreddende førstehjelp</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">hæggagáddjo vuostasjviehkke</t>
+      <t pos="N">hæggagáddjo vuostasjviehkke</t>OBS
     </tg>
   </e>
   <e>
@@ -6924,22 +7003,25 @@
   </e>
   <e>
     <lg>
-      <l pos="N">livsfare; dødsangst</l>
+      <l pos="N">livsfare</l>
+      <l pos="N">dødsangst</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hægganieda jf. jábmemballo</t>
+      <t pos="N">hægganieda</t>
+      <t pos="N">jábmemballo</t>
+
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">livsfarlig</l>
-      <l pos="N">livstruende</l>
+      <l pos="A">livsfarlig</l>
+      <l pos="A">livstruende</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hæggavádálasj (attr. -vádálasj)</t>
+      <t pos="A">hæggavádálasj</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">hæggavárálasj (attr. -várálasj)</t>
+      <t pos="A">hæggavárálasj</t>
     </tg>
   </e>
   <e>
@@ -6955,7 +7037,7 @@
       <l pos="N">livsstilsendring</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viessomvuoge ietjájduhttem</t>
+      <t pos="N">viessomvuoge ietjájduhttem</t> OBS
     </tg>
   </e>
   <e>
@@ -6968,10 +7050,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">livsviktig medisin</l>
+      <l pos="N">livsviktig medisin</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">hæggaájnas dálkas, dálkkasa</t>
+      <t pos="N">hæggaájnas dálkas</t>
     </tg>
   </e>
   <e>
@@ -6979,7 +7061,7 @@
       <l pos="N">logoped</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">logopeda</t>
+      <t pos="N">logopiehta</t> OBS
     </tg>
   </e>
   <e>
@@ -7000,10 +7082,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lufte</l>
+      <l pos="V">lufte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bieggodit</t>
+      <t pos="V">bieggodit</t>
     </tg>
   </e>
   <e>
@@ -7011,19 +7093,19 @@
       <l pos="N">luftrør</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gurkos, gurkkusa</t>
+      <t pos="N">gurkosS</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">luftsmerte</l>
-      <l pos="N">ha luftsmerter</l>
+      <l pos="V">ha luftsmerter</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">biegŋat</t>
+      <t pos="V">biegŋat</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">tjoajvve biegŋá</t>
+      <t pos="N">tjoajvve biegŋá</t> OBS
     </tg>
   </e>
   <e>
@@ -7031,7 +7113,7 @@
       <l pos="N">luftsmerter</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bieggabáktjasa (fl.)</t>
+      <t pos="N">bieggabáktjasa (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -7039,7 +7121,8 @@
       <l pos="N">lukt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">happsa, hapsa jf. tsiehka</t>
+      <t pos="N">happsa</t>
+      <t pos="N">tsiehka</t>
     </tg>
   </e>
   <e>
@@ -7048,24 +7131,24 @@
       <l pos="N">duft</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tsiehka, tsiega jf. happsa</t>
+      <t pos="N">tsiehka</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lukte</l>
+      <l pos="V">lukte</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">happset, hapsáv (tr.)</t>
+      <t pos="V">happset</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">lukte</l>
-      <l pos="N">gi fra seg lukt</l>
+      <l pos="V">lukte</l>
+      <l pos="V">gi fra seg lukt</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">happsut (intr.)</t>
+      <t pos="V">happsut</t>
     </tg>
   </e>
   <e>
@@ -7081,7 +7164,7 @@
       <l pos="N">lunge</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">giehpes, gæhppá</t>
+      <t pos="N">giehpes</t>
     </tg>
   </e>
   <e>
@@ -7105,7 +7188,7 @@
       <l pos="N">lus</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dihkke, dihke</t>
+      <t pos="N">dihkke</t>
     </tg>
   </e>
   <e>
@@ -7113,7 +7196,7 @@
       <l pos="N">lymfe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">lymffa, lymfa</t>
+      <t pos="N">lymffa</t> OBS
     </tg>
   </e>
   <e>
@@ -7121,7 +7204,7 @@
       <l pos="N">lymfekjertel</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">lymffaráksá</t>
+      <t pos="N">lymffaráksá</t> OBS
     </tg>
   </e>
   <e>
@@ -7129,7 +7212,7 @@
       <l pos="N">lymfekreft</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">lymffabårredávdda</t>
+      <t pos="N">lymffabårredávdda</t>OBS
     </tg>
   </e>
   <e>
@@ -7150,11 +7233,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lytte på</l>
-      <l pos="N">lytte til</l>
+      <l pos="V">lytte på</l>
+      <l pos="V">lytte til</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">gulldalit</t>
+      <t pos="V">gulldalit</t>
     </tg>
   </e>
   <e>
@@ -7167,10 +7250,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">løpe</l>
+      <l pos="V">løpe</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">viehkat, viegav</t>
+      <t pos="V">viehkat</t>
     </tg>
   </e>
   <e>
@@ -7186,7 +7269,7 @@
       <l pos="N">lårbein</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">tjårbieldákte, dávte</t>
+      <t pos="N">tjårbieldákte</t>
     </tg>
   </e>
   <e>
@@ -7207,10 +7290,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lårmuskel (på menneske)</l>
+      <l pos="N">lårmuskel (på menneske)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjibbe, tjippe</t>
+      <t pos="N">tjibbe</t>
     </tg>
   </e>
   <e>
@@ -7218,10 +7301,10 @@
       <l pos="N">madrass</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">bånstår, bånnståra</t>
+      <t pos="N">bånstår</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">bålstår, bållståra</t>
+      <t pos="N">bålstår</t>
     </tg>
   </e>
   <e>
@@ -7237,10 +7320,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mage (sekk)</l>
+      <l pos="N">mage (sekk)</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">tjoajvve, tjoajve</t>
+      <t pos="N">tjoajvve</t>
     </tg>
   </e>
   <e>
@@ -7283,7 +7366,7 @@
       <l pos="N">malaria</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">malárija</t>
+      <t pos="N">malárija</t>OBS malárra
     </tg>
   </e>
   <e>
@@ -7296,8 +7379,8 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mangel på matlyst</l>
-      <l pos="N">dårlig matlyst</l>
+      <l pos="N">mangel på matlyst</l> OBS
+      <l pos="N">dårlig matlyst</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">nievres bårråmmiella</t>
@@ -7330,16 +7413,16 @@
   <e>
     <lg>
       <l pos="N">mareritt</l>
-      <l pos="N">ha mareritt</l>
+      <l pos="V">ha mareritt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dæddut, dædduv</t>
+      <t pos="V">dæddut</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">marg</l>
-      <l pos="N">den forlengede marg</l>
+      <l pos="N">den forlengede marg</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">tjavelkadámjoarkka</t>
@@ -7355,21 +7438,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">massere</l>
+      <l pos="V">massere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">masserit</t>
+      <t pos="V">masserit</t>
+      <t pos="V">massierit</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">ruvvit, ruvviv</t>
+      <t pos="V">ruvvit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">mate</l>
+      <l pos="V">mate</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">biebbmat, biebmav</t>
+      <t pos="V">biebbmat</t>
     </tg>
   </e>
   <e>
@@ -7378,7 +7462,7 @@
       <l pos="N">puss</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">siedja, sieja</t>
+      <t pos="N">siedja</t>
     </tg>
   </e>
   <e>
@@ -7391,7 +7475,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medfødt lyte</l>
+      <l pos="N">medfødt lyte</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">riegádimmájnne</t>
@@ -7418,7 +7502,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medisinrør (medrør)</l>
+      <l pos="N">medisinrør (medrør)</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">dálkasbåhttså</t>
@@ -7426,7 +7510,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medisinske hjelpemidler</l>
+      <l pos="N">medisinske hjelpemidler</l>OBS
     </lg>
     <tg lang="smj">
       <t pos="N">sujttovædtsaga (fl.)</t>
@@ -7477,13 +7561,18 @@
     <tg lang="smj">
       <t pos="N">menstruasjåvnnå</t>
     </tg>
+    <tg lang="smj">
+      <t pos="N">læjbbom</t>
+    </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">menstruasjon (dvs. menstruasjonsblod)</l>
+      <l pos="N">menstruasjonsblod</l>OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">liejbbe, liejbe jf. ájggevarra, ruoppsada menstruasjåvnå</t>
+      <t pos="N">liejbbe</t>
+      <t pos="N">ájggevarra</t>
+
     </tg>
   </e>
   <e>
@@ -7492,14 +7581,25 @@
     </lg>
     <tg lang="smj">
       <t pos="N">ájggevarrabáktjasa</t>
+      <t pos="N">læjbbombáktjasa</t>
     </tg>
   </e>
+   <e>
+    <lg>
+      <l pos="V">menstruere</l>
+      <l pos="V">ha menstruasjon</l> OBS
+    </lg>
+    <tg lang="smj">
+      <t pos="V">læjbbot</t>
+    </tg>
+  </e>
+ 
   <e>
     <lg>
       <l pos="N">meslinger</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">smávvasa (fl.)</t>
+      <t pos="N">smávvasa (fl.)</t> OBS
     </tg>
   </e>
   <e>
@@ -7507,7 +7607,7 @@
       <l pos="N">migrene</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">måstos, måsstusa</t>
+      <t pos="N">måstos</t>
     </tg>
   </e>
   <e>
@@ -7531,7 +7631,7 @@
       <l pos="N">mikstur</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">massta, masta</t>
+      <t pos="N">massta</t>
     </tg>
   </e>
   <e>
@@ -7548,7 +7648,7 @@
       <l pos="N">miljø</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">birás, birrasa</t>
+      <t pos="N">birás</t>
     </tg>
   </e>
   <e>
@@ -7580,7 +7680,7 @@
       <l pos="N">milt</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">dábdde, dábde</t>
+      <t pos="N">dábdde</t>
     </tg>
   </e>
   <e>
@@ -7609,10 +7709,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">miste forstanden</l>
+      <l pos="V">miste forstanden</l> OBS
     </lg>
     <tg lang="smj">
-      <t pos="N">mieladuvvat</t>
+      <t pos="V">mieladuvvat</t>
     </tg>
   </e>
   <e>
@@ -7625,30 +7725,30 @@
   </e>
   <e>
     <lg>
-      <l pos="N">miste håret</l>
+      <l pos="V">miste håret</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">vuoptajt biesstet, bæstáv</t>
+      <t pos="V">vuoptajt biesstet</t> OBS
     </tg>
     <tg lang="smj">
-      <t pos="N">vuoptajt láhppet, láhpáv</t>
-    </tg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">miste pusten</l>
-      <l pos="N">hive etter pusten</l>
-    </lg>
-    <tg lang="smj">
-      <t pos="N">háhpaskuvvat</t>
+      <t pos="V">vuoptajt láhppet</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">mobbe</l>
+      <l pos="V">miste pusten</l> OBS
+      <l pos="V">hive etter pusten</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">givseldit</t>
+      <t pos="V">háhpaskuvvat</t>
+    </tg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">mobbe</l>
+    </lg>
+    <tg lang="smj">
+      <t pos="V">givseldit</t>
     </tg>
   </e>
   <e>
@@ -7656,7 +7756,7 @@
       <l pos="N">mobbeoffer</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">givseldime gille</t>
+      <t pos="N">givseldimgille</t> 
     </tg>
   </e>
   <e>
@@ -7693,10 +7793,10 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mosjonere</l>
+      <l pos="V">mosjonere</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">másjkudallat</t>
+      <t pos="V">másjkudallat</t>
     </tg>
   </e>
   <e>
@@ -7721,7 +7821,7 @@
       <l pos="N">depresjon</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">hæsso, hæso</t>
+      <t pos="N">hæsso</t>
     </tg>
   </e>
   <e>
@@ -7737,7 +7837,7 @@
       <l pos="N">munn</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">njálmme, njálme</t>
+      <t pos="N">njálmme</t>
     </tg>
   </e>
   <e>
@@ -7786,12 +7886,12 @@
       <l pos="N">seneknute</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">jarre, jare</t>
+      <t pos="N">jarreS</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">myke (bløte) gane</l>
+      <l pos="N">myke (bløte) gane</l> OBS
     </lg>
     <tg lang="smj">
       <t pos="N">dibma guobme, guome</t>
@@ -7799,29 +7899,29 @@
   </e>
   <e>
     <lg>
-      <l pos="N">måle</l>
+      <l pos="V">måle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">mihttit, mihttiv</t>
+      <t pos="V">mihttit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">nagle</l>
+      <l pos="V">nagle</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">návllit, návlliv</t>
+      <t pos="V">návllit</t>
     </tg>
   </e>
   <e>
     <lg>
-      <l pos="N">naken</l>
+      <l pos="A">naken</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">rihtso (adj.)</t>
+      <t pos="A">rihtso</t>
     </tg>
     <tg lang="smj">
-      <t pos="N">rihttsot (adv.)</t>
+      <t pos="Adv">rihttsot</t>
     </tg>
   </e>
   <e>
@@ -7829,7 +7929,7 @@
       <l pos="N">nakke</l>
     </lg>
     <tg lang="smj">
-      <t pos="N">nisske, niske</t>
+      <t pos="N">nisske</t>
     </tg>
   </e>
   <e>
