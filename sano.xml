@@ -7,10 +7,10 @@
       <t pos="N">stoffskifte</t>
     </tg>
     <tg lang="nob">
-      <t pos="N">alla ábnasmålssom høyt stoffskifte</t>
+      <t pos="N">alla ábnasmålssom høyt stoffskifte</t>OBS
     </tg>
     <tg lang="nob">
-      <t pos="N">vuollegis ábnasmålssom lavt stoffskifte</t>
+      <t pos="N">vuollegis ábnasmålssom lavt stoffskifte</t>OBS
     </tg>
   </e>
   <e>
@@ -24,10 +24,10 @@
   <e>
     <lg>
       <l pos="N">adám</l>
-      <l pos="N">adáma</l>
     </lg>
     <tg lang="nob">
-      <t pos="N">(bein)marg</t>
+      <t pos="N">marg</t>
+      <t pos="N">beinmarg</t>
     </tg>
   </e>
   <e>
@@ -43,7 +43,7 @@
       <l pos="N">ájggevarra</l>
     </lg>
     <tg lang="nob">
-      <t pos="N">menstruasjon jf. ruoppsada, liejbbe, ha ~ læjbbot, menstruasjåvnnå</t>
+      <t pos="N">menstruasjon jf. ruoppsada, liejbbe, ha ~ læjbbot, menstruasjåvnnå</t>OBS
     </tg>
   </e>
   <e>
@@ -57,16 +57,15 @@
   <e>
     <lg>
       <l pos="N">ájttet</l>
-      <l pos="N">ájtáv</l>
     </lg>
     <tg lang="nob">
-      <t pos="N">true jf. nihttet</t>
+      <t pos="N">true</t>
+     <t pos="N">nihttet</t>
     </tg>
   </e>
   <e>
     <lg>
       <l pos="N">ájtto</l>
-      <l pos="N">ájto</l>
     </lg>
     <tg lang="nob">
       <t pos="N">trussel jf. nihtto, nihtodibme</t>
