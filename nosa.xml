@@ -1,3 +1,72 @@
+   <e>
+      <lg>
+         <l pos="N">hevd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>holde i hevd</re>
+            <t pos="V">áimmahuššat</t>
+         </tg>
+      </mg>
+   </e>
+-----------------
+   <e>
+      <lg>
+         <l pos="Phrase">noen steder</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">gostege</t>
+            <re>nekting</re>
+
+         </tg>
+      </mg>
+   </e>
+ --------------------------------------
+   <e>
+    <lg freq="54">
+      <l pos="N">mannjesássa</l>
+    </lg>
+    <mg>
+      <l_ref>mannji_n</l_ref>
+      <tg xml:lang="nob">
+        <t pos="Phrase">tilkommende svigerdatter</t>
+      </tg>
+</mg>
+    </mg>
+    <mg>
+      <l_ref>mannji_n</l_ref>
+      <tg xml:lang="nob">
+        <re>om en kvinnes brors tilkommende hustru og om tilkommende ektemannens søster</re>
+        <t pos="Phrase">tilkommende svigersøster</t>
+      </tg>
+</mg>
+    </mg>
+  </e>
+  
+---------
+  <e>
+    <lg>
+      <l pos="N">bađavuloš</l>
+    </lg>
+    <mg>
+      <tg xml:xml:lang="nob">
+        <t pos="N">sitteunderlag</t>
+        <xg>
+          <x>Soai áiguba buvttadit bađavuložiid bohccoduoljis.</x>
+          <xt>De skal produsere sitterunderlag av reinskinn.</xt>
+        </xg>
+      </tg>
+</mg>
+    </mg>
+  </e>
+
+
+--------
+<l pos="N" nr="Pl">buvssat</l>
+
+----------------
+
 <r>
   <e>
     <lg>
