@@ -532,8 +532,8 @@
       <l pos="N">anemiddja</l>
     </lg>
     <mg>
-      <l_ref>anemijja</l_ref>
-      <l_ref>varravádne</l_ref>
+      <l_ref>anemijja_n</l_ref>
+      <l_ref>varravádne_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">blodmangel</t>
       <t pos="N">anemi</t>
@@ -545,8 +545,8 @@
       <l pos="N">anemijja</l>
     </lg>
     <mg>
-      <l_ref>anemiddja</l_ref>
-      <l_ref>varravádne</l_ref>
+      <l_ref>anemiddja_n</l_ref>
+      <l_ref>varravádne_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">blodmangel</t>
       <t pos="N">anemi</t>
@@ -588,8 +588,8 @@
       <l pos="N">apotiehkka</l>
     </lg>
     <mg>
-      <l_ref>dálkasoases</l_ref>
-      <l_ref>apotæhkka</l_ref>
+      <l_ref>dálkasoases_n</l_ref>
+      <l_ref>apotæhkka_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">apotek</t>
     </tg>
@@ -600,8 +600,8 @@
       <l pos="N">apotæhkka</l>
     </lg>
     <mg>
-      <l_ref>dálkasoases</l_ref>
-      <l_ref>apotiehkka</l_ref>
+      <l_ref>dálkasoases_</l_ref>
+      <l_ref>apotiehkka_</l_ref>
     <tg xml:lang="nob">
       <t pos="N">apotek</t>
     </tg>
@@ -1529,7 +1529,7 @@
       <l pos="N">bierbbe</l>
     </lg>
     <mg>
-      <l_ref>bierŋesdákte</l_ref>
+      <l_ref>bierŋesdákte_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">skulderblad</t>
     </tg>
@@ -1560,7 +1560,7 @@
       <l pos="N">bierŋesdákte</l>
     </lg>
     <mg>
-      <l_ref>bierbbe</l_ref>
+      <l_ref>bierbbe_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">skulderblad</t>
     </tg>
@@ -6078,7 +6078,7 @@
       <l pos="N">hoavkkánibme</l>
     </lg>
     <mg>
-      <l_ref>hoavkkánam</l_ref>
+      <l_ref>hoavkkánam_v</l_ref>
     <tg xml:lang="nob">
       <t pos="N">senilitet</t>bs
     </tg>
