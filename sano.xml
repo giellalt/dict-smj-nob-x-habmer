@@ -90,6 +90,41 @@
 !</mg>
 !  </e>
 !
+!  <e>
+!    <lg>
+!      <l pos="N">sajes dálkudibme</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="nob">
+!      <t pos="N">alternativ medisin</t>
+!    </tg>
+!</mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="V">sisisjaddam</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="nob">
+!      <t pos="V">inngrodd</t>
+!       <xg>
+!          <x>sisisjaddam gadtsa</x>
+!          <xt>inngrodd negl</xt>
+!        </xg>
+!    </tg>
+!</mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">opium</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="nob">
+!      <t pos="N">opium</t>
+!    </tg>
+!</mg>
+!  </e>
+
 <r>
   <e>
     <lg>
@@ -329,10 +364,21 @@
   </e>
   <e>
     <lg>
-      <l pos="N">allergiddja</l>
       <l pos="N">allergijja</l>
     </lg>
     <mg>
+      <l_ref>allergiddja_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">allergi</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">allergiddja</l>
+    </lg>
+    <mg>
+      <l_ref>allergijja_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">allergi</t>
     </tg>
@@ -465,9 +511,20 @@
   <e>
     <lg>
       <l pos="N">amputerim</l>
+    </lg>
+    <mg>
+      <l_ref>amputierim_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">amputasjon</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">amputierim</l>
     </lg>
     <mg>
+      <l_ref>amputerim_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">amputasjon</t>
     </tg>
@@ -781,9 +838,20 @@
   <e>
     <lg>
       <l pos="N">bádneregulerim</l>
+    </lg>
+    <mg>
+      <l_ref>bádneregulierim_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">tannregulering</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">bádneregulierim</l>
     </lg>
     <mg>
+      <l_ref>bádneregulerim_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">tannregulering</t>
     </tg>
@@ -1130,7 +1198,6 @@
   <e>
     <lg>
       <l pos="N">bavsev</l>
-      <l pos="N">baksima</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -1856,9 +1923,20 @@
   <e>
     <lg>
       <l pos="N">bulimiddja</l>
+    </lg>
+    <mg>
+      <l_ref>bulimijja_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">bulimi</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">bulimijja</l>
     </lg>
     <mg>
+      <l_ref>bulimiddja_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">bulimi</t>
     </tg>
@@ -1867,9 +1945,9 @@
   <e>
     <lg>
       <l pos="N">bunno</l>
-      <l pos="N">baksimtjuolmma</l>
     </lg>
     <mg>
+      <l_ref>baksimtjuolmma_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">klitoris</t>
     </tg>
@@ -2776,9 +2854,20 @@
   <e>
     <lg>
       <l pos="V">diagnostiserit</l>
+    </lg>
+    <mg>
+      <l_ref>diagnostisierit_v</l_ref>
+    <tg xml:lang="nob">
+      <t pos="V">diagnostisere</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="V">diagnostisierit</l>
     </lg>
     <mg>
+      <l_ref>diagnostiserit_v</l_ref>
     <tg xml:lang="nob">
       <t pos="V">diagnostisere</t>
     </tg>
@@ -2912,10 +3001,21 @@
   </e>
   <e>
     <lg>
-      <l pos="N">difteriddja</l>
       <l pos="N">difterijja</l>
     </lg>
     <mg>
+      <l_ref>difteriddja_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">difteri</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">difteriddja</l>
+    </lg>
+    <mg>
+      <l_ref>difterijja_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">difteri</t>
     </tg>
@@ -3172,9 +3272,9 @@
   <e>
     <lg>
       <l pos="V">dåbddåt</l>
-      <l pos="V">dåbddågoahtet</l>
     </lg>
     <mg>
+      <l_ref>dåbddågoahtet_v</l_ref>
     <tg xml:lang="nob">
       <t pos="V">gjenkjenne</t>
     </tg>
@@ -3434,15 +3534,25 @@
   <e>
     <lg>
       <l pos="N">epidemiddja</l>
-      <l pos="N">epidemijja</l>
     </lg>
     <mg>
-    <tg xml:lang="nob">
+       <l_ref>epidemijja_n</l_ref>
+   <tg xml:lang="nob">
       <t pos="N">epidemi</t>
     </tg>
 </mg>
   </e>
   <e>
+    <lg>
+      <l pos="N">epidemijja</l>
+    </lg>
+    <mg>
+       <l_ref>epidemiddja_n</l_ref>
+   <tg xml:lang="nob">
+      <t pos="N">epidemi</t>
+    </tg>
+</mg>
+  </e>  <e>
     <lg>
       <l pos="N">ergoterapievtta</l>
     </lg>
@@ -3465,9 +3575,10 @@
   <e>
     <lg>
       <l pos="N">fábmálisvuohta</l>
-      <l pos="N">doajmmahieredibme</l>
     </lg>
     <mg>
+       <l_ref>doajmmahieredibme_n</l_ref>
+
     <tg xml:lang="nob">
       <t pos="N">funksjonshemning</t>
     </tg>
@@ -3532,9 +3643,20 @@
   <e>
     <lg>
       <l pos="N">fibromijalgiddja</l>
+    </lg>
+    <mg>
+      <l_ref>fibromijalgijja_</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">fibromyalgi</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">fibromijalgijja</l>
     </lg>
     <mg>
+      <l_ref>fibromijalgiddja_</l_ref>
     <tg xml:lang="nob">
       <t pos="N">fibromyalgi</t>
     </tg>
@@ -4277,9 +4399,20 @@
   <e>
     <lg>
       <l pos="N">giednatæssta</l>
+    </lg>
+    <mg>
+      <l_ref>gednatæssta_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">gentest</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="N">gednatæssta</l>
     </lg>
     <mg>
+      <l_ref>giednatæssta_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">gentest</t>
     </tg>
@@ -4683,9 +4816,9 @@
   <e>
     <lg>
       <l pos="N">goabrre</l>
-      <l pos="N">bielljegåhpe</l>
     </lg>
     <mg>
+      <l_ref>bielljegåhpe_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">øregrop</t>
     </tg>
@@ -5121,7 +5254,6 @@
   <e>
     <lg>
       <l pos="N">guovsakradne</l>
-      <l pos="N"></l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -7224,10 +7356,21 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kaloriddja</l>
       <l pos="N">kalorijja</l>
     </lg>
     <mg>
+      <l_ref>kaloriddja_n</l_ref>
+    <tg xml:lang="nob">
+      <t pos="N">kalori</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kaloriddja</l>
+    </lg>
+    <mg>
+      <l_ref>kalorijja_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">kalori</t>
     </tg>
@@ -7398,10 +7541,21 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kontrollerit</l>
       <l pos="V">kontrollierit</l>
     </lg>
     <mg>
+      <l_ref>kontrollerit_v</l_ref>
+    <tg xml:lang="nob">
+      <t pos="V">kontrollere</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">kontrollerit</l>
+    </lg>
+    <mg>
+      <l_ref>kontrollierit_v</l_ref>
     <tg xml:lang="nob">
       <t pos="V">kontrollere</t>
     </tg>
@@ -8287,10 +8441,21 @@
   </e>
   <e>
     <lg>
-      <l pos="V">masserit</l>
       <l pos="V">massierit</l>
     </lg>
     <mg>
+      <l_ref>masserit_v</l_ref>
+    <tg xml:lang="nob">
+      <t pos="V">massere</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">masserit</l>
+    </lg>
+    <mg>
+      <l_ref>massierit_v</l_ref>
     <tg xml:lang="nob">
       <t pos="V">massere</t>
     </tg>
@@ -8806,7 +8971,6 @@
   <e>
     <lg>
       <l pos="N">náhpe</l>
-      <l pos="N">nábe</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -8860,11 +9024,11 @@
   <e>
     <lg>
       <l pos="N">náres</l>
-      <l pos="N">nárrása</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">byll, stor kvise</t>
+      <t pos="N">byll</t>
+      <t pos="Phrase">stor kvise</t>s
     </tg>
 </mg>
   </e>
@@ -8931,7 +9095,6 @@
   <e>
     <lg>
       <l pos="N">návva</l>
-      <l pos="N">náva</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -8952,7 +9115,6 @@
   <e>
     <lg>
       <l pos="N">nevrolåvggå</l>
-      <l pos="N">nevrolåvgå</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9026,7 +9188,6 @@
   <e>
     <lg>
       <l pos="N">niehko</l>
-      <l pos="N">niego</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9040,14 +9201,14 @@
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">jomfruhinne, møydom</t>
+      <t pos="N">jomfruhinne</t>
+      <t pos="N">møydom</t>
     </tg>
 </mg>
   </e>
   <e>
     <lg>
       <l pos="N">nielgge</l>
-      <l pos="N">nielge</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9058,7 +9219,6 @@
   <e>
     <lg>
       <l pos="N">nierra</l>
-      <l pos="N">niera</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9078,53 +9238,43 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nievres bårråmmiella</l>
+      <l pos="A">nievres</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">mangel på matlyst, dårlig matlyst</t>
+      <t pos="A">dårlig</t>
+        <xg>
+          <x>nievres bårråmmiella</x>
+          <xt>mangel på matlyst, dårlig matlyst</xt>
+        </xg>
+                <xg>
+          <x>nievres oamedåbddo</x>
+          <xt>skyldfølelse, dårlig samvittighet</xt>
+        </xg>
+                <xg>
+          <x>nievres varresvuohta</x>
+          <xt>dårlig helse</xt>
+        </xg>
     </tg>
 </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">nievres hælsso</l>
-      <l pos="N">hælso</l>
+      <l pos="N">oamedåbddo</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">dårlig helse</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nievres oamedåbddo</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">skyldfølelse, dårlig samvittighet</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nievres varresvuohta</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">dårlig helse</t>
+      <t pos="N">samvittighet</t>
     </tg>
 </mg>
   </e>
   <e>
     <lg>
       <l pos="N">nihtá</l>
-      <l pos="N">nidá</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">nyrene og fettet rundt</t>
+      <t pos="Phrase">nyrene og fettet rundt</t>
     </tg>
 </mg>
   <e>
@@ -9150,7 +9300,6 @@
   <e>
     <lg>
       <l pos="N">nisske</l>
-      <l pos="N">niske</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9161,7 +9310,6 @@
   <e>
     <lg>
       <l pos="N">nissun</l>
-      <l pos="N">nissuna</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9328,7 +9476,6 @@
   <e>
     <lg>
       <l pos="N">njiello</l>
-      <l pos="N">njielo</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9371,7 +9518,6 @@
   <e>
     <lg>
       <l pos="N">njunnje</l>
-      <l pos="N">njunje</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9503,7 +9649,6 @@
   <e>
     <lg>
       <l pos="N">njuorges</l>
-      <l pos="N">njuorggá</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9544,7 +9689,6 @@
   <e>
     <lg>
       <l pos="N">njuovtjam</l>
-      <l pos="N">njuoktjama</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9635,7 +9779,6 @@
   <e>
     <lg>
       <l pos="N">nulssem</l>
-      <l pos="N">nulssema</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9707,7 +9850,6 @@
   <e>
     <lg>
       <l pos="N">nærvva</l>
-      <l pos="N">nerva</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9861,7 +10003,6 @@
   <e>
     <lg>
       <l pos="N">oahke</l>
-      <l pos="N">oage</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9892,7 +10033,6 @@
   <e>
     <lg>
       <l pos="N">oahtse</l>
-      <l pos="N">oatse</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -9903,7 +10043,6 @@
   <e>
     <lg>
       <l pos="N">oajvve</l>
-      <l pos="N">oajve</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10047,7 +10186,6 @@
   <e>
     <lg>
       <l pos="N">oalol</l>
-      <l pos="N">ållula</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10088,7 +10226,6 @@
   <e>
     <lg>
       <l pos="N">oaloltjålggåráksá</l>
-      <l pos="N">- rávsá</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10142,9 +10279,20 @@
   <e>
     <lg>
       <l pos="V">obduserit</l>
+    </lg>
+    <mg>
+      <l_ref>obdusierit_v</l_ref>
+    <tg xml:lang="nob">
+      <t pos="V">obdusere</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
       <l pos="V">obdusierit</l>
     </lg>
     <mg>
+      <l_ref>obduserit_v</l_ref>
     <tg xml:lang="nob">
       <t pos="V">obdusere</t>
     </tg>
@@ -10178,17 +10326,6 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">oksygenflaske</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">opium</l>
-      <l pos="N">opiuma</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">opium</t>
     </tg>
 </mg>
   </e>
@@ -10229,17 +10366,6 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">pariapparat</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">parkinsona vihke</l>
-      <l pos="N">- vige</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">parkinsons sykdom</t>
     </tg>
 </mg>
   </e>
@@ -10307,9 +10433,9 @@
   <e>
     <lg>
       <l pos="N">plåstar</l>
-      <l pos="N">ploasstara</l>
     </lg>
     <mg>
+      <l_ref>njuobrre_n</l_ref>
     <tg xml:lang="nob">
       <t pos="N">plaster</t>
     </tg>
@@ -10510,7 +10636,6 @@
   <e>
     <lg>
       <l pos="N">pæssta</l>
-      <l pos="N">pesta</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10521,7 +10646,6 @@
   <e>
     <lg>
       <l pos="N">radde</l>
-      <l pos="N">ratte</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10536,13 +10660,12 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="V">råde</t>
-      <t pos="V">kunne noe for</t>
+      <t pos="Phrase">kunne noe for</t>
     </tg>
 </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">ráddje</l>
       <l pos="N">ráddje</l>
     </lg>
     <mg>
@@ -10553,11 +10676,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">radioaktijva suonjardibme</l>
+      <l pos="N">suonjardibme</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="N">radioaktiv stråling</t>
+      <t pos="N">stråling</t>
+        <xg>
+          <x>radioaktijva suonjardibme</x>
+          <xt>radioaktiv stråling</xt>
+        </xg>
     </tg>
 </mg>
   </e>
@@ -10615,7 +10742,6 @@
   <e>
     <lg>
       <l pos="N">rájgge</l>
-      <l pos="N">rájge</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10843,7 +10969,6 @@
   <e>
     <lg>
       <l pos="N">ribon</l>
-      <l pos="N">ribona</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -10996,7 +11121,6 @@
   <e>
     <lg>
       <l pos="N">rijddo</l>
-      <l pos="N">rijdo</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -11063,7 +11187,6 @@
     </tg>
 </mg>
   </e>
-
   <e>
     <lg>
       <l pos="N">rumáj</l>
@@ -11424,16 +11547,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sajes dálkudibme</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">alternativ medisin</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">sájveldit</l>
     </lg>
     <mg>
@@ -11497,7 +11610,6 @@
   <e>
     <lg>
       <l pos="N">sáras</l>
-      <l pos="N">sárrasa</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -11508,7 +11620,6 @@
   <e>
     <lg>
       <l pos="N">sárgge</l>
-      <l pos="N">sárge</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -11522,7 +11633,7 @@
     </lg>
     <mg>
     <tg xml:lang="nob">
-            <re>sår</re>
+            <re>om sår</re>
       <t pos="V">lege</t>
       <t pos="V">hele</t>
     </tg>
@@ -11580,7 +11691,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">sella</l>
       <l pos="N">sella</l>
     </lg>
     <mg>
@@ -11751,7 +11861,6 @@
   <e>
     <lg>
       <l pos="N">sijddaskihppijsujtto</l>
-      <l pos="N">-sujto</l>
     </lg>
     <mg>
     <tg xml:lang="nob">
@@ -11806,17 +11915,6 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">inneklima</t>
-    </tg>
-</mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">sisisjaddam gadtsa</l>
-      <l pos="N">gattsa</l>
-    </lg>
-    <mg>
-    <tg xml:lang="nob">
-      <t pos="N">inngrodd negl</t>
     </tg>
 </mg>
   </e>
@@ -12215,11 +12313,6 @@
       <t pos="Phrase">lide av</t>
     </tg>
 </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">skihpat</l>
-    </lg>
     <mg>
     <tg xml:lang="nob">
       <t pos="Phrase">være syk</t>
@@ -16308,6 +16401,10 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">sykdom</t>
+        <xg>
+          <x>parkinsona vihke</x>
+          <xt>parkinsons sykdom</xt>
+        </xg>
     </tg>
 </mg>
   </e>
