@@ -1,129 +1,129 @@
-!   <e>
-!    <lg>
-!      <l pos="N">gluten</l>obs
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">gluten</t>
-!    </tg>
-!</mg>
-!  </e>
-! 
-!  <e>
-!    <lg>
-!      <l pos="N">kolera</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">kolera</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">låggŋår</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">lift (løfter)</t>obs feil
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">malárija</l>obs, feil 
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">malaria</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">rosen</l>obs
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">rosen</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">turnus</l>obs
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">turnus</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">tyfus</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">tyfus</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">cannábis</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">cannabis</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">fluor</l>obs
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">fluor</t>
-!    </tg>
-!</mg>
-!  </e>
-!
-!  <e>
-!    <lg>
-!      <l pos="N">sajes dálkudibme</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">alternativ medisin</t>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="V">sisisjaddam</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="V">inngrodd</t>
-!       <xg>
-!          <x>sisisjaddam gadtsa</x>
-!          <xt>inngrodd negl</xt>
-!        </xg>
-!    </tg>
-!</mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">opium</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="nob">
-!      <t pos="N">opium</t>
-!    </tg>
-!</mg>
-!  </e>
+   <!-- <e>
+    <lg>
+      <l pos="N">gluten</l>obs
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">gluten</t>
+    </tg>
+</mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">kolera</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">kolera</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">låggŋår</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">lift (løfter)</t>obs feil
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">malárija</l>obs, feil
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">malaria</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rosen</l>obs
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">rosen</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">turnus</l>obs
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">turnus</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tyfus</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">tyfus</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">cannábis</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">cannabis</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">fluor</l>obs
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">fluor</t>
+    </tg>
+</mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">sajes dálkudibme</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">alternativ medisin</t>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">sisisjaddam</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="V">inngrodd</t>
+       <xg>
+          <x>sisisjaddam gadtsa</x>
+          <xt>inngrodd negl</xt>
+        </xg>
+    </tg>
+</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">opium</l>
+    </lg>
+    <mg>
+    <tg xml:lang="nob">
+      <t pos="N">opium</t>
+    </tg>
+</mg>
+  </e> -->
 
 <r>
   <e>
