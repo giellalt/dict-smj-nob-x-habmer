@@ -217,7 +217,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">nihttet</t>
+      <l pos="V">nihttet</l>
     </lg>
     <mg>
  <l_ref>ájttet_v</l_ref>
@@ -234,19 +234,19 @@
       <l_ref>nihtto_n</l_ref>
       <l_ref>nihtodibme_n</l_ref>
     <tg xml:lang="nob">
-      <t pos="N">trussel/t>
+      <t pos="N">trussel</t>
     </tg>
 </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">nihtto</l
+      <l pos="N">nihtto</l>
     </lg>
     <mg>
       <l_ref>ájtto_n</l_ref>
       <l_ref>nihtodibme_n</l_ref>
           <tg xml:lang="nob">
-      <t pos="N">trussel/t>
+      <t pos="N">trussel</t>
     </tg>
 </mg>
   </e>
@@ -258,7 +258,7 @@
       <l_ref>ájtto_n</l_ref>
       <l_ref>nihtto_n</l_ref>
     <tg xml:lang="nob">
-      <t pos="N">trussel/t>
+      <t pos="N">trussel</t>
     </tg>
 </mg>
   </e>
@@ -1105,6 +1105,7 @@
       <t pos="A">arbeidsudyktig</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="A">arbeidsufør</t>
     </tg>
@@ -1973,6 +1974,7 @@
       <t pos="N">svamplege i penis</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="N">penishode</t>
     </tg>
@@ -2267,6 +2269,7 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">hevelse</t>
+      <xg>
           <x>båden liehket</x>
           <xt>være hoven/oppsvulmet</xt>
         </xg>
@@ -2613,6 +2616,7 @@
                <x>Gæhttjalit dálkkasijt</x>
                <xt>Prøve ut medisiner</xt>
             </xg>
+            <xg>
                <x>Dálkas báktjasijda</x>
                <xt>Smertestillende medisin</xt>
             </xg>
@@ -2762,6 +2766,7 @@
             <re>medisinsk</re>
       <t pos="V">behandle</t>
       <t pos="V">medisinere</t>
+      <xg>
                <x>boasstot dálkudit</x>
                <xt>feilbehandle</xt>
             </xg>
@@ -3970,7 +3975,7 @@
     </lg>
     <mg>
     <tg xml:lang="nob">
-      <t pos="V">­stoppe</l>
+      <t pos="V">­stoppe</t>
              <xg>
                <x>Ganugahtáv varddemav</x>
                <xt>Jeg stopper blødningen</xt>
@@ -4223,7 +4228,7 @@
     </tg>
 </mg>
   </e>
-
+  <e>
     <lg>
       <l pos="N">gávastahka</l>
     </lg>
@@ -4980,6 +4985,7 @@
       <t pos="Phrase">kjenne på</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="Phrase">lytte på</t>
       <t pos="Phrase">lytte til</t>
@@ -6118,6 +6124,7 @@
       <t pos="N">ribbe</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="N">ribbein</t>
     </tg>
@@ -6612,6 +6619,7 @@
       <t pos="N">nattevakt</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="N">nattskift</t>
     </tg>
@@ -6830,6 +6838,7 @@
       <t pos="N">koldbrann</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="Phrase">dødt vev</t>
     </tg>
@@ -6887,10 +6896,12 @@
       <t pos="N">dø</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="N">dovne</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
             <re>om legemsdeler</re>
       <t pos="Phrase">bli følelsesløs</t>
@@ -9277,6 +9288,7 @@
       <t pos="Phrase">nyrene og fettet rundt</t>
     </tg>
 </mg>
+  </e>
   <e>
     <lg>
       <l pos="N">nikotijnnanjuobrre</l>
@@ -12478,6 +12490,7 @@
       <t pos="Phrase">tynn hinne</t>
     </tg>
 </mg>
+<mg>
     <tg xml:lang="nob">
       <t pos="N">kapsel</t>
        <t pos="Phrase">omgivende hinne</t>
