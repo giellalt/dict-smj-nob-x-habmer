@@ -154,7 +154,7 @@
     </tg>
 </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="N">adám</l>
@@ -166,7 +166,7 @@
     </tg>
 </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="N">áhkásjdierrediddje</l>
@@ -199,7 +199,7 @@
       <l pos="N">ájggevarrabáktjasa</l>
     </lg>
     <mg>
-    <tg xml:lang="nob"> 
+    <tg xml:lang="nob">
       <t pos="N">menstruasjonssmerter</t>
     </tg>
 </mg>
@@ -1063,7 +1063,7 @@
             </xg>
     </tg>
 </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="N">ballo</l>
@@ -1239,7 +1239,7 @@
             <xg>
                <x>tjuvdde bávtjes</x>
                <xt>fingeren smerter</xt>
-            </xg>      
+            </xg>
     </tg>
 </mg>
   </e>
@@ -1753,7 +1753,7 @@
         <xg>
           <x>Kronisk sykdom.</x>
           <xt>Bisso skihpudahka.</xt>
-        </xg>    
+        </xg>
     </tg>
 </mg>
   </e>
@@ -3061,7 +3061,7 @@
     </tg>
 </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="N">doajos</l>
@@ -4140,7 +4140,7 @@
             </xg>
     </tg>
 </mg>
-  </e>    
+  </e>
   <e>
     <lg>
       <l pos="V">gárvvunit</l>
@@ -11160,7 +11160,7 @@
             <xg>
                <x>Roassjkat hárddov</x>
                <xt>Få kink i ryggen.</xt>
-            </xg>    
+            </xg>
             </tg>
 </mg>
   </e>
@@ -12419,7 +12419,7 @@
             <xg>
                <x>biedjat/tjáledit skihppijviessuj</x>
                <xt>legge inn på sykhus</xt>
-            </xg> 
+            </xg>
     </tg>
 </mg>
   </e>
@@ -12444,7 +12444,7 @@
             <xg>
                <x>alzheimera skihpudahka</x>
                <xt>alzheimer</xt>
-            </xg> 
+            </xg>
    </tg>
 </mg>
   </e>
@@ -12678,7 +12678,7 @@
             <xg>
                <x>Gåttjån la smadje.</x>
                <xt>Grums i urinen.</xt>
-            </xg>    
+            </xg>
             </tg>
 </mg>
   </e>
@@ -13549,7 +13549,7 @@
     <mg>
     <tg xml:lang="nob">
       <t pos="N">diabetes</t>
-      <t pos="N">sukkersyke</t>    
+      <t pos="N">sukkersyke</t>
       </tg>
 </mg>
   </e>
@@ -13700,7 +13700,7 @@
             <xg>
                <x>biedjat/tjáledit skihppijviessuj</x>
                <xt>legge inn på sykhus</xt>
-            </xg> 
+            </xg>
     </tg>
 </mg>
   </e>
@@ -15695,7 +15695,7 @@
       <t pos="V">friskmelde</t>
     </tg>
 </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="N">varrasirddem</l>
@@ -15726,7 +15726,7 @@
     </tg>
 </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="N">varra</l>
@@ -16382,7 +16382,7 @@
             </xg>
     </tg>
 </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="V">vievkestit</l>
@@ -17135,7 +17135,7 @@
             <xg>
                <x>Skihpudahka ællá</x>
                <xt>Sykdomen bryter ut</xt>
-            </xg> 
+            </xg>
     </tg>
 </mg>
   </e>
@@ -17356,4 +17356,3 @@
 </mg>
   </e>
 </r>
-
