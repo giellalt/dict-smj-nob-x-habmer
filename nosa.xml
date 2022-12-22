@@ -1,144 +1,145 @@
-
-!  <e>
-!    <lg>
-!      <l pos="N">alternativ medisin</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">sajes dálkudibme</t>
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">bakterie</l> OBS
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">bakterija</t>
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">cannabis</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">cannábis</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">fluor</l> OBS
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">fluor</t>
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">gluten</l> 
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">gluten</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">kolera</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">kolera</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">malaria</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">malárija</t>OBS malárra
-!    </tg>
-!    </mg>
-!  </e>  
-!    <e>
-!    <lg>
-!      <l pos="N">opium</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">opium</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!    <e>
-!    <lg>
-!      <l pos="N">psoriasis</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">psoriásis</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!    <e>
-!    <lg>
-!      <l pos="N">turnus</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">turnus</t>OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">tyfus</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">tyfus</t>OBS
-!    </tg>
-!    </mg>
-!  </e>  
-!  <e>
-!    <lg>
-!      <l pos="N">virus</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">virus</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">rosen</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">rosen</t> OBS
-!    </tg>
-!    </mg>
-!  </e>
-!  <e>
-!    <lg>
-!      <l pos="N">vagina</l>
-!    </lg>
-!    <mg>
-!    <tg xml:lang="smj">
-!      <t pos="N">tsinnadåhppå</t>obs
-!    </tg>
-!    </mg>
-!  </e>
+<!--
+  <e>
+    <lg>
+      <l pos="N">alternativ medisin</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">sajes dálkudibme</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">bakterie</l> OBS
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">bakterija</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">cannabis</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">cannábis</t> OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">fluor</l> OBS
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">fluor</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">gluten</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">gluten</t> OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kolera</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">kolera</t> OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">malaria</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">malárija</t>OBS malárra
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="N">opium</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">opium</t> OBS
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="N">psoriasis</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">psoriásis</t> OBS
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="N">turnus</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">turnus</t>OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">tyfus</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">tyfus</t>OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">virus</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">virus</t> OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">rosen</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">rosen</t> OBS
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">vagina</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">tsinnadåhppå</t>obs
+    </tg>
+    </mg>
+  </e>
+-->
 
 
 
