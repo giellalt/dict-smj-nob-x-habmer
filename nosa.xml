@@ -1,80 +1,147 @@
-   <e>
-      <lg>
-         <l pos="N">hevd</l>
-      </lg>
-    <mg>
-      <mg>
-         <tg xml:xml:lang="sme">
-         <re>holde i hevd</re>
-            <t pos="V">áimmahuššat</t>
-         </tg>
-    </mg>
-      </mg>
-   </e>
------------------
-   <e>
-      <lg>
-         <l pos="Phrase">noen steder</l>
-      </lg>
-    <mg>
-      <mg>
-         <tg xml:xml:lang="sme">
-            <t pos="Adv">gostege</t>
-            <re>nekting</re>
 
-         </tg>
-    </mg>
-      </mg>
-   </e>
- --------------------------------------
-   <e>
-    <lg freq="54">
-      <l pos="N">mannjesássa</l>
-    </lg>
-    <mg>
-    <mg>
-      <l_ref>mannji_n</l_ref>
-      <tg xml:xml:lang="nob">
-        <t pos="Phrase">tilkommende svigerdatter</t>
-      </tg>
-    </mg>
-</mg>
-    </mg>
-    <mg>
-      <l_ref>mannji_n</l_ref>
-      <tg xml:xml:lang="nob">
-        <re>om en kvinnes brors tilkommende hustru og om tilkommende ektemannens søster</re>
-        <t pos="Phrase">tilkommende svigersøster</t>
-      </tg>
-    </mg>
-</mg>
-    </mg>
-  </e>
-  
----------
-  <e>
-    <lg>
-      <l pos="N">bađavuloš</l>
-    </lg>
-    <mg>
-    <mg>
-      <tg xml:xml:xml:lang="nob">
-        <t pos="N">sitteunderlag</t>
-        <xg>
-          <x>Soai áiguba buvttadit bađavuložiid bohccoduoljis.</x>
-          <xt>De skal produsere sitterunderlag av reinskinn.</xt>
-        </xg>
-      </tg>
-    </mg>
-</mg>
-    </mg>
-  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">alternativ medisin</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">sajes dálkudibme</t>
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">bakterie</l> OBS
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">bakterija</t>
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">cannabis</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">cannábis</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">fluor</l> OBS
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">fluor</t>
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">gluten</l> 
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">gluten</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">kolera</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">kolera</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">malaria</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">malárija</t>OBS malárra
+!    </tg>
+!    </mg>
+!  </e>  
+!    <e>
+!    <lg>
+!      <l pos="N">opium</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">opium</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!    <e>
+!    <lg>
+!      <l pos="N">psoriasis</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">psoriásis</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!    <e>
+!    <lg>
+!      <l pos="N">turnus</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">turnus</t>OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">tyfus</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">tyfus</t>OBS
+!    </tg>
+!    </mg>
+!  </e>  
+!  <e>
+!    <lg>
+!      <l pos="N">virus</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">virus</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">rosen</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">rosen</t> OBS
+!    </tg>
+!    </mg>
+!  </e>
+!  <e>
+!    <lg>
+!      <l pos="N">vagina</l>
+!    </lg>
+!    <mg>
+!    <tg xml:lang="smj">
+!      <t pos="N">tsinnadåhppå</t>obs
+!    </tg>
+!    </mg>
+!  </e>
 
 
---------
-<l pos="N" nr="Pl">buvssat</l>
 
-----------------
 
 <r>
   <e>
@@ -283,43 +350,32 @@
     </tg>
     </mg>
   </e>
+  
   <e>
     <lg>
-      <l pos="N">alternativ medisin</l>
+      <l pos="A">alvorlig</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">sajes dálkudibme</t>
+      <t pos="Adv">vastet</t>
+        <xg>
+          <x>alvorlig skadet</x>
+          <xt>vastet vaháguvvam</xt>
+        </xg>
+        <t pos="A">alvos</t>
+        <xg>
+          <x>alvorlig sykdom</x>
+          <xt>alvos skihpudahka</xt>
+        </xg>
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="V">alvorlig skadet</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">vastet vaháguvvam</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">alvorlig sykdom</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">alvos skihpudahka</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
     <lg>
       <l pos="N">alzheimer</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">alzheimera skihpudahka</t>
+      <t pos="Phrase">alzheimera skihpudahka</t>
     </tg>
     </mg>
   </e>
@@ -400,25 +456,37 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="V">oanedit</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">jallat</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">amputierit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">anabole steroider</l>
+      <l pos="N">steroid</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">anabåvlå steroijda (fl.)</t>OBS
-    </tg>
+      <t pos="N">steroijdda</t>
+        <xg>
+          <x>anabole steroider</x>
+          <xt>anabåvlå steroijda</xt>
+        </xg>    
+        </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="A">anabol</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="A">anabåvllå</t>
+        <xg>
+          <x>anabole steroider</x>
+          <xt>anabåvlå steroijda</xt>
+        </xg>   
+           </tg>
     </mg>
   </e>
   <e>
@@ -434,18 +502,12 @@
   <e>
     <lg>
       <l pos="N">anemi</l>
-      <l pos="N">blodmangel</l>
     </lg>
     <mg>
+       <l_ref>blodmangel_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">anemiddja</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">anemijja</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">varravádne</t>
     </tg>
     </mg>
@@ -463,10 +525,10 @@
   <e>
     <lg>
       <l pos="N">anfall</l>
-      <l pos="V">få anfall</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>få anfall</re>
       <t pos="V">åttjudallat</t>
     </tg>
     </mg>
@@ -488,20 +550,12 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">goavgge</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">ballo</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">angst</l>
-      <l pos="V">ha panisk angst</l>
-    </lg>
-    <mg>
+     <mg>
     <tg xml:lang="smj">
+             <re>ha panisk angst</re>
       <t pos="V">hæggagæhtjáj ballat</t>
     </tg>
     </mg>
@@ -509,9 +563,9 @@
   <e>
     <lg>
       <l pos="N">ankel</l>
-      <l pos="N">ankelledd</l>
     </lg>
     <mg>
+      <l_ref>ankelledd_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">juolggeladás</t>
     </tg>
@@ -580,10 +634,10 @@
   <e>
     <lg>
       <l pos="N">anus</l>
-      <l pos="N">ytterste del av anus</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ytterste del av anus</re>
       <t pos="N">luogge</t>
     </tg>
     </mg>
@@ -605,23 +659,17 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">dálkasoases</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">apotæhkka</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">apotiehkka</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">arbeidsdyktig</l>
-      <l pos="N">arbeidsfør</l>
+      <l pos="A">arbeidsdyktig</l>
     </lg>
     <mg>
+      <l_ref>arbeidsfør_a</l_ref>
     <tg xml:lang="smj">
       <t pos="N">barggoulmusj</t>
     </tg>
@@ -630,11 +678,11 @@
   <e>
     <lg>
       <l pos="A">arbeidsledig</l>
-      <l pos="A">arbeidsløs</l>
     </lg>
     <mg>
+        <l_ref>arbeidsløs_a</l_ref>
     <tg xml:lang="smj">
-      <t pos="A">bargodibme)</t>
+      <t pos="A">bargodibme</t>
     </tg>
     </mg>
   </e>
@@ -655,9 +703,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">barggoterapievtta</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">barggohárjjididdje</t>
     </tg>
     </mg>
@@ -725,10 +770,10 @@
   <e>
     <lg>
       <l pos="N">armledd</l>
-      <l pos="N">handledd</l>
-      <l pos="N">håndledd</l>
     </lg>
     <mg>
+      <l_ref>håndledd_n</l_ref>
+      <l_ref>handledd_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">giehtaladás</t>
     </tg>
@@ -754,9 +799,9 @@
     </tg>
     </mg>
   </e>
-  <e> OBS
+  <e>
     <lg>
-      <l pos="N">arvelig sykdom</l>
+      <l pos="Phrase">arvelig sykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -787,10 +832,10 @@
   <e>
     <lg>
       <l pos="N">astma</l>
-      <l pos="N">pustevansker</l>
-      <l pos="N">åndenød</l>
     </lg>
     <mg>
+      <l_ref>pustevanske_n</l_ref>
+      <l_ref>åndenød_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">dahpaldahka</t>
     </tg>
@@ -799,9 +844,9 @@
   <e>
     <lg>
       <l pos="N">asylsøker</l>
-      <l pos="N">asylant</l>
     </lg>
     <mg>
+      <l_ref>asylant_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">suodjeåhttse</t>
     </tg>
@@ -840,12 +885,15 @@
   <e>
     <lg>
       <l pos="N">avføring</l>
-      <l pos="N">hard avføring</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">garrabajkka</t>
-    </tg>
+      <t pos="N">bajkka</t>
+        <xg>
+          <x>hard avføring</x>
+          <xt>garra bajkka</xt>
+        </xg>    
+        </tg>
     </mg>
   </e>
   <e>
@@ -861,9 +909,9 @@
   <e>
     <lg>
       <l pos="V">avlaste</l>
-      <l pos="V">lindre</l>
     </lg>
     <mg>
+       <l_ref>lindre_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">giehpedit</t>
     </tg>
@@ -882,34 +930,34 @@
   <e>
     <lg>
       <l pos="N">avlastningspute</l>
-      <l pos="N">avlastningsring (luftring)</l> OBS
     </lg>
     <mg>
+       <l_ref>avlastningsring_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gæhpádahka</t>
-    </tg>
-    </mg>
     <tg xml:lang="smj">
+             <re>luftring</re>
       <t pos="N">gæhpádisriŋŋgo</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">avleires</l>
+      <l pos="V">avleires</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">njoarvvut</t>
+      <t pos="V">njoarvvut</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">avleiring (i blodårer)</l> OBS
+      <l pos="N">avleiring</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>i blodårer</re>
       <t pos="N">njoarvve</t>
     </tg>
     </mg>
@@ -926,11 +974,11 @@
   </e>
   <e>
     <lg>
-      <l pos="A">avslappende</l> OBS
+      <l pos="A">avslappende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">oadjom</t>
+      <t pos="V">oadjom</t>
     </tg>
     </mg>
   </e>
@@ -946,21 +994,13 @@
   </e>
   <e>
     <lg>
-      <l pos="V">avta (om feber og smerte)</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">luojttet</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">avta</l>
-      <l pos="V">gå over (om sykdom)</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>om feber og smerte</re>
+      <t pos="V">luojttet</t>
+             <re>gå over (om sykdom)</re>
       <t pos="V">svijggat</t>
     </tg>
     </mg>
@@ -987,29 +1027,20 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bakhode (nedre del)</l> OBS
-      <l pos="N">nakkegrop</l>
+      <l pos="N">bakhode</l>
     </lg>
     <mg>
+      <l_ref>nakkegrop_n</l_ref>
     <tg xml:lang="smj">
+             <re>nedre del</re>
       <t pos="N">gahtsem</t>
     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
-      <l pos="N">bakterie</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">bakterija</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">balanse</l>
-      <l pos="N">ha dårlig balanse</l> OBS
+      <l pos="V">balansere</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -1034,9 +1065,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">gurpas</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">gurpastahka</t>
     </tg>
     </mg>
@@ -1053,12 +1081,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bankende smerte i fingeren</l> OBS
-      <l pos="N">svi</l>
+      <l pos="V">svi</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">duvkestit</t>
+            <re>bankende smerte i fingeren</re>
+      <t pos="V">duvkestit</t>
     </tg>
     </mg>
   </e>
@@ -1088,7 +1116,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">mádutja (fl.)</t> OBS
+      <t pos="N" nr="Pl">mádutja</t>
     </tg>
     </mg>
   </e>
@@ -1099,9 +1127,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">sliehppá</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">rægán</t>
     </tg>
     </mg>
@@ -1139,9 +1164,9 @@
   <e>
     <lg>
       <l pos="N">barsel</l>
-      <l pos="N">fødsel</l>
     </lg>
     <mg>
+       <l_ref>fødsel_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">riegádahttem</t>
     </tg>
@@ -1170,17 +1195,17 @@
   <e>
     <lg>
       <l pos="N">bart</l>
-      <l pos="N">mustasje</l>
     </lg>
     <mg>
+      <l_ref>mustasje_n</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">njunnjevuolskávtjá (fl.)</t> OBS
+      <t pos="N" nr="Pl">njunnjevuolskávtjá</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">bechterevs sykdom</l> OBS
+      <l pos="Phrase">bechterevs sykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -1190,21 +1215,15 @@
   </e>
   <e>
     <lg>
-      <l pos="V">bedøve (lokalt)</l> OBS
+      <l pos="V">bedøve</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>lokalt</re>
       <t pos="V">jámedit</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">bedøve (narkose)</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
+             <re>narkose</re>
       <t pos="V">jámálguhttet</t>
+    </tg>
     </tg>
     </mg>
   </e>
@@ -1220,22 +1239,25 @@
   </e>
   <e>
     <lg>
-      <l pos="V">behandle (medisinsk)</l> OBS
-      <l pos="V">medisinere</l>
+      <l pos="V">behandle</l>
     </lg>
     <mg>
+       <l_ref>medisinere_v</l_ref>
+
     <tg xml:lang="smj">
+            <re>medisinsk</re>
       <t pos="V">dálkudit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">behandling (medisinsk)</l>
-      <l pos="N">medisinering</l>
+      <l pos="N">behandling</l>
     </lg>
     <mg>
+         <l_ref>medisinering_n</l_ref>
     <tg xml:lang="smj">
+            <re>medisinsk</re>
       <t pos="N">dálkudibme</t>
     </tg>
     </mg>
@@ -1243,10 +1265,10 @@
   <e>
     <lg>
       <l pos="N">bein</l>
-      <l pos="N">fot</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+          <l_ref>fot_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">juolgge</t>
     </tg>
     </mg>
@@ -1254,9 +1276,9 @@
   <e>
     <lg>
       <l pos="N">bein</l>
-      <l pos="N">knokkel</l>
     </lg>
     <mg>
+         <l_ref>knokkel_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">dákte</t>
     </tg>
@@ -1274,10 +1296,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">beinbrudd  (brudd på knokkel)</l> OBS
+      <l pos="N">beinbrudd</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>brudd på knokkel</re>
       <t pos="N">dáktedoajos</t>
     </tg>
     </mg>
@@ -1294,10 +1317,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">beinskjørhet  (osteoporose)</l> OBS
+      <l pos="N">beinskjørhet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>osteoporose</re>
       <t pos="N">dákterasjesvuohta</t>
     </tg>
     </mg>
@@ -1309,9 +1333,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">gådtjålihtte</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">bæhkkin</t>
     </tg>
     </mg>
@@ -1325,34 +1346,20 @@
       <t pos="V">måråstahttet</t>
     </tg>
     </mg>
+      <mg>
+         <tg xml:lang="smj">
+            <re>bekymre seg</re>
+            <t pos="V">hudjat</t>
+         </tg>
+      </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="V">bekymre seg</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">hudjat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
     <lg>
       <l pos="N">bekymring</l>
     </lg>
     <mg>
+      <l_ref>uro_n</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">måråstibme</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">bekymring</l>
-      <l pos="N">uro</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
+       <t pos="N">måråstibme</t>
       <t pos="N">hudja</t>
     </tg>
     </mg>
@@ -1363,7 +1370,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">rassimvahák</t> OBS
+      <t pos="N">rassimvahák</t>
     </tg>
     </mg>
   </e>
@@ -1400,9 +1407,9 @@
   <e>
     <lg>
       <l pos="V">berge</l>
-      <l pos="V">redde</l>
     </lg>
     <mg>
+      <l_ref>redde_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">gádjot</t>
     </tg>
@@ -1411,31 +1418,32 @@
   <e>
     <lg>
       <l pos="V">berolige</l>
-      <l pos="V">roe ned</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>roe ned</re>
       <t pos="V">oadjodit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A">beroligende (stimuli)</l> OBS
+      <l pos="A">beroligende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="A">oadjodis</t>
+              <re>stimuli</re>
+      <t pos="N">oadjodis</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">beroligende medisin</l> OBS
-      <l pos="N">beroligende middel</l>
+      <l pos="Phrase">beroligende medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+       <re>beroligende middel</re>
       <t pos="N">oadjodimdálkas</t>
     </tg>
     </mg>
@@ -1443,10 +1451,10 @@
   <e>
     <lg>
       <l pos="V">besvime</l>
-      <l pos="V">miste bevisstheten</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>miste bevisstheten</re>
       <t pos="V">jámálguvvat</t>
     </tg>
     </mg>
@@ -1464,9 +1472,9 @@
   <e>
     <lg>
       <l pos="N">besvær</l>
-      <l pos="N">plage</l>
     </lg>
     <mg>
+      <l_ref>plage_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">muode</t>
     </tg>
@@ -1475,9 +1483,9 @@
   <e>
     <lg>
       <l pos="N">besvær</l>
-      <l pos="N">vanskelighet</l>
     </lg>
     <mg>
+      <l_ref>vanskelighet_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">masjvalisvuohta</t>
     </tg>
@@ -1485,20 +1493,22 @@
   </e>
   <e>
     <lg>
-      <l pos="A">bevisstløs (av ytre årsak)</l> OBS
+      <l pos="A">bevisstløs</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>av ytre årsak</re>
       <t pos="A">lárkas</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">bevisstløshet (av ytre årsak)</l> OBS
+      <l pos="N">bevisstløshet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>av ytre årsak</re>
       <t pos="N">lárkasvuohta</t>
     </tg>
     </mg>
@@ -1515,7 +1525,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bihulene</l>
+      <l pos="N">bihule</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -1535,10 +1545,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">bindehinne (utenpå øyeeplet)</l> OBS
+      <l pos="N">bindehinne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>utenpå øyeeplet</re>
       <t pos="N">bájnnotsuodtsa</t>
     </tg>
     </mg>
@@ -1560,13 +1571,7 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">biopsiddja</t>
-    </tg>
-    </mg>
-     <tg xml:lang="smj">
       <t pos="N">biopsijja</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">åtsådus</t>
     </tg>
     </mg>
@@ -1607,11 +1612,8 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">rappsabåvså (fl.)</t> OBS
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="N">rappsatruvsa (fl.)</t>
+      <t pos="N" nr="Pl">rappsabåvså</t>
+      <t pos="N" nr="Pl">rappsatruvsa</t>
     </tg>
     </mg>
   </e>
@@ -1628,10 +1630,10 @@
   <e>
     <lg>
       <l pos="N">blek</l>
-      <l pos="V">bli blek</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli blek</re>
       <t pos="V">guovgudit</t>
     </tg>
     </mg>
@@ -1658,10 +1660,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blemme (ved gnagsår)</l> OBS
+      <l pos="N">blemme</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ved gnagsår</re>
       <t pos="N">skuohpalis</t>
     </tg>
     </mg>
@@ -1672,27 +1675,22 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli blind</re>
+      <t pos="V">tjalmeduvvat</t>
+    </tg>
+    </mg>
+        <mg>
+    <tg xml:lang="smj">
       <t pos="A">tjalmedibme</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="A">blind</l>
-      <l pos="V">bli blind</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">tjalmeduvvat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">blindhet</l>
-      <l pos="N">svaksynthet</l>
     </lg>
     <mg>
+      <l_ref>svaksynthet_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">tjalmedisvuohta</t>
     </tg>
@@ -1765,16 +1763,13 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">varrasielggidus</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">varrasielggiduvvam</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">blodfortynnende medisin</l>OBS
+      <l pos="Phrase">blodfortynnende medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -1808,7 +1803,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">varran</t> OBS
+      <t pos="N" nr="Ess">varran</t>
     </tg>
     </mg>
   </e>
@@ -1825,9 +1820,9 @@
   <e>
     <lg>
       <l pos="N">blodkar</l>
-      <l pos="N">blodåre</l>
     </lg>
     <mg>
+      <l_ref>blodåre_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">varravárre</t>
     </tg>
@@ -1859,7 +1854,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">varraseælla</t>
+      <t pos="N">varrasælla</t>
     </tg>
     </mg>
   </e>
@@ -1870,13 +1865,7 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">varravádne</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">anemiddja</t>
-    </tg>
-    </mg>
-     <tg xml:lang="smj">
       <t pos="N">anemijja</t>
     </tg>
     </mg>
@@ -1943,13 +1932,13 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">sáhppum</t> OBS
+      <t pos="V">sáhppum</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">blodstillende middel</l> OBS
+      <l pos="Phrase">blodstillende middel</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -1970,11 +1959,11 @@
   <e>
     <lg>
       <l pos="N">blodstyrtning</l>
-      <l pos="N">ha blodstyrtning</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">varáv vuokset</t>
+            <re>ha blodstyrtning<</re>
+      <t pos="Phrase">varáv vuokset</t>
     </tg>
     </mg>
   </e>
@@ -2005,23 +1994,22 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">varraviesoj</t>
+        <xg>
+          <x>lavt blodtrykk</x>
+          <xt>vuollegis varraviesoj</xt>
+        </xg>
+    </tg>
+    </mg>
+     <mg>
+    <tg xml:lang="smj">
+      <t pos="N">varradæddo</t>
+         <xg>
+          <x>høyt blodtrykk</x>
+          <xt>alla varradæddo</xt>
+        </xg>
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">blodtrykk</l>
-      <l pos="N">høyt blodtrykk</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">varradæddo</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="N">alla varradæddo</t>
-    </tg>
-    </mg>  </e>
   <e>
     <lg>
       <l pos="N">blodtrykksfall</l>
@@ -2074,10 +2062,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blærehalskjertel (prostata)</l> oBS
+      <l pos="N">blærehalskjertel</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>prostata</re>
       <t pos="N">åvddåráksá</t>
     </tg>
     </mg>
@@ -2085,9 +2074,9 @@
   <e>
     <lg>
       <l pos="N">blærekatarr</l>
-      <l pos="N">urinveisbetennelse</l>
     </lg>
     <mg>
+      <l_ref>urinveisbetennelse_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gådtjåráhkkovuolssje</t>
     </tg>
@@ -2135,26 +2124,23 @@
   </e>
   <e>
     <lg>
-      <l pos="N">blåmerke (på hud)</l> OBS
-      <l pos="N">blodutredning</l>
+      <l pos="N">blåmerke</l>
     </lg>
     <mg>
+      <l_ref>blodutredning_n</l_ref>
     <tg xml:lang="smj">
+            <re>på hud</re>
       <t pos="N">sáhppe</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">sáhppom</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">blåmerke</l>
-      <l pos="V">få blåmerke</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+              <re>få blåmerke</re>
       <t pos="V">sáhpput</t>
     </tg>
     </mg>
@@ -2205,7 +2191,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">dållåskuovle (fl.)</t> OBS
+      <t pos="N" nr="Pl">dållåskuovle</t>
     </tg>
     </mg>
   </e>
@@ -2215,11 +2201,12 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjalmána (fl.)</t> OBS
+      <t pos="N" nr="Pl">tjalmána</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjalmmeglása (fl.)</t>
+      <t pos="N" nr="Pl">tjalmmeglása</t>
     </tg>
     </mg>
   </e>
@@ -2262,6 +2249,7 @@
       <t pos="N">giehpesbåhttså</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">giepesbullje</t>
     </tg>
@@ -2289,18 +2277,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">brudd; komplisert brudd</l> OBS
+      <l pos="N">brudd</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">doajos</t>
+        <xg>
+          <x>komplisert brudd</x>
+          <xt>vastes doajos</xt>
+        </xg>
     </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="N">vastes doajos</t>
-    </tg>
-    </mg>
-  </e>
+    </e>
   <e>
     <lg>
       <l pos="N">brusk</l>
@@ -2310,6 +2298,7 @@
       <t pos="N">njuorges</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjagár</t>
     </tg>
@@ -2334,7 +2323,14 @@
       <t pos="N">mielggadákte</t>
     </tg>
     </mg>
-  </e>
+    <mg>
+    <tg xml:lang="smj">
+             <re>spissen av brystbeinet</re>
+      <t pos="N">mielgganjunnje</t>
+    </tg>
+    </mg>
+  </e> 
+  
   <e>
     <lg>
       <l pos="N">brystkasse</l>
@@ -2344,6 +2340,7 @@
       <t pos="N">badjevuobdda</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">radde</t>
     </tg>
@@ -2375,7 +2372,11 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">ællát, (skihpudahka ællá)</t> OBS
+      <t pos="V">ællát</t>
+        <xg>
+          <x>skihpudahka ællá</x>
+          <xt>sykdommen bryter ut</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -2418,6 +2419,7 @@
       <t pos="N">guovsakradne</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">guovsakráksá</t>
     </tg>
@@ -2440,10 +2442,10 @@
   <e>
     <lg>
       <l pos="N">byll</l>
-      <l pos="N">stor kvise</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>stor kvise</re>
       <t pos="N">náres</t>
     </tg>
     </mg>
@@ -2478,16 +2480,7 @@
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">cannabis</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">cannábis</t> OBS
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">celle</l>
@@ -2541,9 +2534,9 @@
   <e>
     <lg>
       <l pos="N">depresjon</l>
-      <l pos="N">bekymring</l>
     </lg>
     <mg>
+      <l_ref>bekymring_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">hådje</t>
     </tg>
@@ -2582,9 +2575,9 @@
   <e>
     <lg>
       <l pos="N">diabetes</l>
-      <l pos="N">sukkersyke</l>
     </lg>
     <mg>
+      <l_ref>sukkersyke_</l_ref>
     <tg xml:lang="smj">
       <t pos="N">såhkårskihpudahka</t>
     </tg>
@@ -2627,6 +2620,7 @@
       <t pos="N">slåtjos</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjadádahka</t>
     </tg>
@@ -2679,9 +2673,9 @@
   <e>
     <lg>
       <l pos="A">distre</l>
-      <l pos="A">glemsk</l>
     </lg>
     <mg>
+      <l_ref>glemsk_a</l_ref>
     <tg xml:lang="smj">
       <t pos="A">vajáldahkes</t>
     </tg>
@@ -2699,10 +2693,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">dope ned</l> OBS
+      <l pos="V">dope</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>ned</re>
       <t pos="V">gáriduhttet</t>
     </tg>
     </mg>
@@ -2719,21 +2714,26 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dose (medisin)</l> OBS
+      <l pos="N">dose</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>medisin</re>
       <t pos="N">dálkasmierre</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">dosere medisin</l> OBS
+      <l pos="V">dosere</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">dálkasmierev mierredit</t>
+      <t pos="V">mierredit</t>
+         <xg>
+          <x>dosere medisin</x>
+          <xt>dálkasmierev mierredit</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -2760,11 +2760,11 @@
   <e>
     <lg>
       <l pos="V">dovne</l> 
-      <l pos="V">bli følelsesløs(om legemsdeler)</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">jábmet</t> OBS
+            <re>bli følelsesløs (om legemsdeler)</re>
+      <t pos="V">jábmet</t>
     </tg>
     </mg>
   </e>
@@ -2775,29 +2775,29 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="V">fællat</t>
-    </tg>
+        <xg>
+          <x>druknet person</x>
+          <xt>fællam ulmusj</xt>
+        </xg>    </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="V">ferrat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">druknet person</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">fællam ulmusj</t>
-    </tg>
+      <t pos="V">ferrat</t>
+        <xg>
+          <x>druknet person</x>
+          <xt>ferram ulmusj</xt>
+        </xg>    
+        </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="N">ferram ulmusj</t>
-    </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="N">hávkkam ulmusj</t>
-    </tg>
+      <t pos="V">hávkkat</t>
+        <xg>
+          <x>druknet person</x>
+          <xt>hávkkam ulmusj</xt>
+        </xg>    
+        </tg>
     </mg>
   </e>
   <e>
@@ -2809,14 +2809,9 @@
       <t pos="V">goajkkot</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">dryppe</l>
-      <l pos="V">la dryppe</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>la dryppe</re>
       <t pos="V">goajkodit</t>
     </tg>
     </mg>
@@ -2873,7 +2868,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">duppe av</l> OBS
+      <l pos="Phrase">duppe av</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -2924,9 +2919,9 @@
   <e>
     <lg>
       <l pos="V">dø</l>
-      <l pos="V">omkomme</l>
     </lg>
     <mg>
+      <l_ref>omkomme_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">jábmet</t>
     </tg>
@@ -2934,17 +2929,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">død (perf.part.)</l> OBS
+      <l pos="A">død</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">jábmám (perf.part.)</t>
+      <t pos="V">jábmám</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">død</l>
       <l pos="N">døden</l>
     </lg>
     <mg>
@@ -2955,17 +2949,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dødelig sykdom</l> OBS
+      <l pos="A">dødelig</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">jámegahtes skihpudahka</t>
+      <t pos="A">jámegahtes</t>
+         <xg>
+          <x>dødelig sykdom</x>
+          <xt>jámegahtes skihpudahka</xt>
+        </xg>
     </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="N">jábmemvihkeS</t>
-    </tg>
-    </mg>
   </e>
   <e>
     <lg>
@@ -2986,6 +2979,7 @@
       <t pos="N">jábmemballo</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hægganieda</t>
     </tg>
@@ -3003,12 +2997,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">døende</l> OBS
-      <l pos="V">være døende</l>
+      <l pos="A">døende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">jábmemin liehket</t> OBS
+            <re>være døende</re>
+      <t pos="Phrase">jábmemin liehket</t>
     </tg>
     </mg>
   </e>
@@ -3064,15 +3058,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">dårlig helse</l> OBS
+      <l pos="A">dårlig</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">nievres hælsso</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="N">nievres varresvuohta</t>
+      <t pos="A">nievres</t>
     </tg>
     </mg>
   </e>
@@ -3155,6 +3145,7 @@
       <t pos="N">rusjmas</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">eksiebma</t>
     </tg>
@@ -3182,7 +3173,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">en som prater i søvne</l> OBS
+      <l pos="Phrase">en som prater i søvne</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -3261,9 +3252,9 @@
   <e>
     <lg>
       <l pos="N">epilepsi</l>
-      <l pos="N">fallesyke</l>
     </lg>
     <mg>
+      <l_ref>fallesyke_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">jámálguvvamvihke</t>
     </tg>
@@ -3281,7 +3272,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">ereksjonsproblemer (fl.)</l> OBS
+      <l pos="N">ereksjonsproblem</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -3315,23 +3306,25 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">vaddusa (fl.)</t> OBS
+      <t pos="N" nr="Pl">vaddusa</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">falle om</l> OBS
+      <l pos="N">falle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">ravggat</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vierrat</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gahttjat</t>
     </tg>
@@ -3340,10 +3333,10 @@
   <e>
     <lg>
       <l pos="N">fare</l>
-      <l pos="N">risiko</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>risiko_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">vádá</t>
     </tg>
     </mg>
@@ -3381,9 +3374,9 @@
   <e>
     <lg>
       <l pos="A">farlig</l>
-      <l pos="A">risikabel</l>
     </lg>
     <mg>
+      <l_ref>risikabel_a</l_ref>
     <tg xml:lang="smj">
       <t pos="A">vádálasj</t>
     </tg>
@@ -3391,11 +3384,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fastende</l> OBS
-      <l pos="N">på fastende hjerte</l>
+      <l pos="A">fastende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>på fastende hjerte</re>
       <t pos="N">båråk</t>
     </tg>
     </mg>
@@ -3631,18 +3624,14 @@
       <t pos="N">buosskot</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">fise (flere ganger)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>flere ganger</re>
       <t pos="N">buoskudit</t>
     </tg>
     </mg>
   </e>
-  <e>
+   <e>
     <lg>
       <l pos="N">flass</l>
     </lg>
@@ -3652,16 +3641,7 @@
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">fluor</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">fluor</t>
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">flyktning</l>
@@ -3671,6 +3651,7 @@
       <t pos="N">bádur</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">báhtariddje</t>
     </tg>
@@ -3718,10 +3699,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fontanelle (på barn)</l> OBS
+      <l pos="N">fontanelle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>på barn</re>
       <t pos="N">sudde</t>
     </tg>
     </mg>
@@ -3818,11 +3800,16 @@
   </e>
   <e>
     <lg>
-      <l pos="V">foreskrive (medisin)</l> OBS
+      <l pos="V">foreskrive</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">mierredit (dálkkasav)</t>
+            <re>medisin</re>
+      <t pos="V">mierredit</t>
+        <xg>
+          <x>forskrive medisin</x>
+          <xt>mierredit dálkkasav</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -3855,6 +3842,7 @@
       <t pos="N">sjuvtjaguhttem</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">suvtjaguvvam</t>
     </tg>
@@ -3872,10 +3860,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">forgiftes (bli forgiftet)</l> OBS
+      <l pos="V">forgiftes</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>bli forgiftet</re>
       <t pos="V">sielggiduvvat</t>
     </tg>
     </mg>
@@ -3924,9 +3913,9 @@
   <e>
     <lg>
       <l pos="N">forkjølelse</l>
-      <l pos="N">snue</l>
     </lg>
     <mg>
+      <l_ref>snue_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">snuohpa</t>
     </tg>
@@ -3961,6 +3950,7 @@
       <t pos="N">tjiddnudahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjiddnum</t>
     </tg>
@@ -3969,10 +3959,10 @@
   <e>
     <lg>
       <l pos="N">forstoppelse</l>
-      <l pos="V">få forstoppelse</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>få forstoppelse<</re>
       <t pos="V">tjiddnut</t>
     </tg>
     </mg>
@@ -3990,13 +3980,14 @@
   <e>
     <lg>
       <l pos="N">forstrekkelse</l>
-      <l pos="N">vridning</l>
     </lg>
     <mg>
+      <l_ref>vridning_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">roassjko</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vánádibme</t>
     </tg>
@@ -4044,20 +4035,17 @@
   </e>
   <e>
     <lg>
-      <l pos="N">fortann (nedre)</l> OBS
+      <l pos="N">fortann</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>nedre</re>
       <t pos="N">gájbbebádne</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">fortann (øvre)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>øvre</re>
       <t pos="N">åvddåbádne</t>
     </tg>
     </mg>
@@ -4081,6 +4069,7 @@
       <t pos="N">dármedibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">dármedisvuohta</t>
     </tg>
@@ -4095,14 +4084,9 @@
       <t pos="A">dármedibme</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">fortvilt</l> OBS
-      <l pos="V">bli fortvilt</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli fortvilt</re>
       <t pos="V">dármeduvvat</t>
     </tg>
     </mg>
@@ -4119,7 +4103,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">forverre seg</l> OBS
+      <l pos="Phrase">forverre seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -4129,7 +4113,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">forverres</l> OBS
+      <l pos="V">forverres</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -4139,21 +4123,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">forvirring (om friske folk)</l> OBS
+      <l pos="N">forvirring</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>om friske folk</re>
       <t pos="N">iehpedádjo</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">forårsake abort</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">tsuovkkanahttet</t>
     </tg>
     </mg>
   </e>
@@ -4210,9 +4185,9 @@
   <e>
     <lg>
       <l pos="N">fotpleier</l>
-      <l pos="N">fotterapeut</l>
     </lg>
     <mg>
+      <l_ref>fotterapeut_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">juolggesujtár</t>
     </tg>
@@ -4270,7 +4245,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">frisk og rask</l> OBS
+      <l pos="Phrase">frisk og rask</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -4288,10 +4263,12 @@
       <t pos="V">væddját</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="A">varres</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">varrásmuvvat</t>
     </tg>
@@ -4300,10 +4277,10 @@
   <e>
     <lg>
       <l pos="V">frisk</l>
-      <l pos="V">opplagt</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>opplagt_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="V">vieddje</t>
     </tg>
     </mg>
@@ -4314,11 +4291,12 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">varrásin tjállet</t> OBS
+      <t pos="Phrase">varrásin tjállet</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="V">vieddjen tjállet</t> OBS
+      <t pos="Phrase">vieddjen tjállet</t>
     </tg>
     </mg>
   </e>
@@ -4328,17 +4306,17 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">varrásin tjáledibme</t> OBS
+      <t pos="Pharse">varrásin tjáledibme</t>
     </tg>
     </mg>
      <tg xml:lang="smj">
-      <t pos="N">vieddjen tjáledibme</t>
+      <t pos="Phrase">vieddjen tjáledibme</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">friskne til</l> OBS
+      <l pos="Phrase">friskne til</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -4358,10 +4336,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">frozen shoulder (kronisk betennelse og smerter)</l> OBS
+      <l pos="Phrase">frozen shoulder</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>kronisk betennelse og smerter</re>
       <t pos="N">oalggeladásvuolssje ja báktjasa</t>
     </tg>
     </mg>
@@ -4379,9 +4358,9 @@
   <e>
     <lg>
       <l pos="A">frustrert</l>
-      <l pos="A">irritert</l>
     </lg>
     <mg>
+      <l_ref>irritert_v</l_ref>
     <tg xml:lang="smj">
       <t pos="N">asjmak</t>
     </tg>
@@ -4390,10 +4369,10 @@
   <e>
     <lg>
       <l pos="N">frykt</l>
-      <l pos="N">redsel</l>
-      <l pos="N">skrekk</l>
     </lg>
     <mg>
+      <l_ref>redsel_n</l_ref>
+      <l_ref>skrekk_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">ballo</t>
     </tg>
@@ -4416,26 +4395,20 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">goallot</t>
-    </tg>
+        <xg>
+          <x>fryse i hjel</x>
+          <xt>jámas goallot</xt>
+        </xg>    
+        </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">fryse i hjel</l> OBS
+      <l pos="N">frysning</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">jámas goallot</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">frysning</l> OBS
-      <l pos="N">ha frysninger (pga. våte klær)</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
+            <re>ha frysninger (pga. våte klær)</re>
       <t pos="V">jiekkaldit</t>
     </tg>
     </mg>
@@ -4463,9 +4436,9 @@
   <e>
     <lg>
       <l pos="A">funksjonshemmet</l>
-      <l pos="A">handikappet</l>
     </lg>
     <mg>
+      <l_ref>handikappet_a</l_ref>
     <tg xml:lang="smj">
       <t pos="A">fábmális</t>
     </tg>
@@ -4558,9 +4531,9 @@
   <e>
     <lg>
       <l pos="N">fødselsmerke</l>
-      <l pos="N">føflekk</l>
     </lg>
     <mg>
+      <l_ref>føflekk_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">riegádimdieblle</t>
     </tg>
@@ -4579,21 +4552,12 @@
   <e>
     <lg>
       <l pos="V">føle</l>
-      <l pos="V">høre</l>
     </lg>
     <mg>
+      <l_ref>høre_v</l_ref>
+       <l_ref>kjenne_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">gullat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">føle</l>
-      <l pos="V">kjenne</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
       <t pos="V">dåbddåt</t>
     </tg>
     </mg>
@@ -4607,6 +4571,7 @@
       <t pos="N">dåbddo</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gullo</t>
     </tg>
@@ -4619,6 +4584,10 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">vuostasjviehkke</t>
+       <xg>
+          <x>livreddende førstehjelp</x>
+          <xt>hæggagáddjo vuostasjviehkke<</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -4695,22 +4664,18 @@
   <e>
     <lg>
       <l pos="N">gane</l>
-      <l pos="N">harde gane</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">garra guobme</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">gane</l>
-      <l pos="N">myke (bløte) gane</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">dibma guobme</t>
+      <t pos="N">guobme</t>
+        <xg>
+          <x>myke (bløte) gane</x>
+          <xt>dibma guobme</xt>
+        </xg>
+        <xg>
+          <x>harde gane</x>
+          <xt>garra guobme</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -4727,9 +4692,9 @@
   <e>
     <lg>
       <l pos="N">gang</l>
-      <l pos="N">korridor</l>
     </lg>
     <mg>
+      <l_ref>korridor_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gáŋŋga</t>
     </tg>
@@ -4744,6 +4709,7 @@
       <t pos="N">gedna</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">giedna</t>
     </tg>
@@ -4788,6 +4754,7 @@
       <t pos="N">geriatrijja</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">geriatriddja</t>
     </tg>
@@ -4795,7 +4762,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gi opp</l> OBS
+      <l pos="Phrase">gi opp</l>
       <l pos="V">resignere</l>
     </lg>
     <mg>
@@ -4860,11 +4827,11 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">dåbddåt</t> OBS
+      <t pos="V">dåbddåt</t>
     </tg>
     </mg>
      <tg xml:lang="smj">
-      <t pos="N">dåbddågoahtet</t>
+      <t pos="V">dåbddågoahtet</t>
     </tg>
     </mg>
   </e>
@@ -4911,10 +4878,10 @@
   <e>
     <lg>
       <l pos="A">glemsk</l>
-      <l pos="V">bli glemsk (miste hukommelsen)</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli glemsk (miste hukommelsen)</re>
       <t pos="V">mujtoduvvat</t>
     </tg>
     </mg>
@@ -4941,16 +4908,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">gluten</l> 
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">gluten</t> OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="A">glutenfri</l>
     </lg>
     <mg>
@@ -4962,10 +4919,10 @@
   <e>
     <lg>
       <l pos="V">gnage</l>
-      <l pos="V">gi gnagsår</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>gi gnagsår</re>
       <t pos="V">skuohppit</t>
     </tg>
     </mg>
@@ -5003,9 +4960,9 @@
   <e>
     <lg>
       <l pos="N">graviditet</l>
-      <l pos="N">svangerskap</l>
     </lg>
     <mg>
+      <l_ref>svangerskap_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">iesselisvuohta</t>
     </tg>
@@ -5033,17 +4990,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grums (uklar om væske)</l> OBS
+      <l pos="N">grums</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">smadje (gåttjån la smadje)</t>
+             <re>uklar om væske</re>
+      <t pos="N">smadje</t>
+        <xg>
+          <x>Det er grums i urinen</x>
+          <xt>Gåttjån la smadje</xt>
+        </xg>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">grønn stær</l> OBS
+      <l pos="Phrase">grønn stær</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -5053,7 +5015,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">grå stær</l>OBS
+      <l pos="Phrase">grå stær</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -5104,14 +5066,15 @@
   <e>
     <lg>
       <l pos="V">gå</l>
-      <l pos="V">gå tur</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="V">vádtset</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
+            <re>gå tur</re>
       <t pos="V">váttsatjit</t>
     </tg>
     </mg>
@@ -5135,6 +5098,7 @@
       <t pos="N">siejbbedákte</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjavelkgiehtje</t>
     </tg>
@@ -5152,25 +5116,24 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hals (innvendig)</l> OBS
-      <l pos="N">spiserør</l>
+      <l pos="N">hals</l>
     </lg>
     <mg>
+       <l_ref>spiserør_n</l_ref>
     <tg xml:lang="smj">
+             <re>innvendig</re>
       <t pos="N">tjåttå</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">hals (utvendig)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>utvendig</re>
       <t pos="N">tjiehpe</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
+             <re>utvendig</re>
       <t pos="N">tjiebet</t>
     </tg>
     </mg>
@@ -5187,10 +5150,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">halssene (stor)</l> OBS
+      <l pos="N">halssene</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>stor</re>
       <t pos="N">tjiebetsuodna</t>
     </tg>
     </mg>
@@ -5211,7 +5175,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">skiermmot, skiermov</t>
+      <t pos="V">skiermmot</t>
     </tg>
     </mg>
   </e>
@@ -5248,10 +5212,10 @@
   <e>
     <lg>
       <l pos="V">helbrede</l>
-      <l pos="V">kurere</l>
-      <l pos="V">lege (sykdom)</l> OBS
     </lg>
     <mg>
+      <l_ref>kurere_v</l_ref>
+      <l_ref>lege_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">buoredit</t>
     </tg>
@@ -5280,9 +5244,9 @@
   <e>
     <lg>
       <l pos="V">hele</l>
-      <l pos="V">lege (sår)</l> OBS
     </lg>
     <mg>
+      <l_ref>lege_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">savedit</t>
     </tg>
@@ -5295,20 +5259,35 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">hælsso</t>
+         <xg>
+          <x>dårlig helse</x>
+          <xt>nievres hælsso</xt>
+        </xg>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">varresvuohta</t>
+         <xg>
+          <x>dårlig helse</x>
+          <xt>nievres varresvuohta</xt>
+        </xg>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>person med dårlig helse</re>
+      <t pos="N">skibek</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">helsearbeider</l>
-      <l pos="N">helsepersonell</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>helsepersonell_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">varresvuohtabargge</t>
     </tg>
     </mg>
@@ -5459,31 +5438,33 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">hemorojdda</t>OBS
+      <t pos="N">hemoroajdda</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">henge seg</l> OBS
+      <l pos="Phrase">henge seg</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">gatsostit ietjas</t>
+      <t pos="Phrase">gatsostit ietjas</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="V">gartsastit ietjas</t>
+      <t pos="Phrase">gartsastit ietjas</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">henvise til</l> OBS
+      <l pos="V">henvise</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">sievvet</t>
+             <re>til</re>
+     <t pos="N">sievvet</t>
     </tg>
     </mg>
   </e>
@@ -5499,11 +5480,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">herd (ryggpartiet mellom skuldrene)</l>
+      <l pos="N">herd</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">hárddo</t>
+             <re>ryggpartiet mellom skuldrene</re>
+     <t pos="N">hárddo</t>
     </tg>
     </mg>
   </e>
@@ -5556,6 +5538,7 @@
       <t pos="N">båhte</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">sluggam</t>
     </tg>
@@ -5567,6 +5550,7 @@
       <l pos="N">ødem</l>
     </lg>
     <mg>
+      <l_ref>ødem_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">båhtånibme</t>
     </tg>
@@ -5608,6 +5592,7 @@
       <l pos="N">slimhinne</l>
     </lg>
     <mg>
+      <l_ref>slimhinne_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">snjárttjá</t>
     </tg>
@@ -5616,10 +5601,10 @@
   <e>
     <lg>
       <l pos="N">hinne</l>
-      <l pos="N">tynn hinne</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>tynn hinne</re>
       <t pos="N">skoade</t>
     </tg>
     </mg>
@@ -5646,10 +5631,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hjelpe (mot eller for noe)</l> OBS 
+      <l pos="V">hjelpe</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>mot eller for noe</re>
       <t pos="V">basstet</t>
     </tg>
     </mg>
@@ -5710,7 +5696,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">vuojŋŋama (fl.)</t> OBS
+      <t pos="N" nr="Pl">vuojŋŋama</t>
     </tg>
     </mg>
   </e>
@@ -5727,9 +5713,9 @@
   <e>
     <lg>
       <l pos="N">hjerneblødning</l>
-      <l pos="N">hjernedrypp</l>
     </lg>
     <mg>
+      <l_ref>hjernedrypp_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">vuojŋamvarddem</t>
     </tg>
@@ -5787,11 +5773,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hjerte- og karsykdom</l> OBS
+      <l pos="Phrase">hjerte- og karsykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tsåhke- ja varravárrevihke</t>
+      <t pos="Phrase">tsåhke- ja varravárrevihke</t>
     </tg>
     </mg>
   </e>
@@ -5814,6 +5800,7 @@
       <t pos="N">tsåhkehávve</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tsåhkeinfárkkta</t>
     </tg>
@@ -5852,10 +5839,10 @@
   <e>
     <lg>
       <l pos="N">hjertekrampe</l>
-       <l pos="N">angina pectoris</l> oBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>angina pectoris</re>
       <t pos="N">tsåhkegæsádahka</t>
     </tg>
     </mg>
@@ -5876,7 +5863,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tsåhkeslága, tsåhkesláhka</t> OBS
+      <t pos="N">tsåhkesláhka</t>
     </tg>
     </mg>
   </e>
@@ -5903,9 +5890,9 @@
   <e>
     <lg>
       <l pos="N">hjørnetann</l>
-      <l pos="N">kinntann</l>
     </lg>
     <mg>
+      <l_ref>kinntann_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">tjalán</t>
     </tg>
@@ -5930,6 +5917,7 @@
       <t pos="N">oajvveárre</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">oajvvevuodo</t>
     </tg>
@@ -5961,7 +5949,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tablæhtta oajvveluottudahkaj</t>  OBS
+      <t pos="Phrase">tablæhtta oajvveluottudahkaj</t>
     </tg>
     </mg>
   </e>
@@ -5974,6 +5962,7 @@
       <t pos="N">oajvveskuvrre</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">skuvrre</t>
     </tg>
@@ -6011,17 +6000,17 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hoftepartiet (pl.)</l> OBS
+      <l pos="N">hoftepartiet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjoarbiele</t>
+      <t pos="N" nr="Pl">tjoarbiele</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">holde seg i form</l> OBS
+      <l pos="Phrase">holde seg i form</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -6031,21 +6020,12 @@
   </e>
   <e>
     <lg>
-      <l pos="V">holde senga</l> OBS
+      <l pos="Phrase">holde senga</l>
     </lg>
     <mg>
+       <l_ref>ligge_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">vellahit</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">holde senga</l> OBS
-      <l pos="V">ligge</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
       <t pos="V">vællahit</t>
     </tg>
     </mg>
@@ -6113,35 +6093,26 @@
   <e>
     <lg>
       <l pos="A">hoven</l>
-      <l pos="V">være hoven/oppsvulmet</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">båden liehket</t>
+            <re>være hoven/oppsvulmet</re>
+      <t pos="Phrase">båden liehket</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">hovne opp</l>
+      <l pos="Phrase">hovne opp</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="V">båhtånit</t>
     </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="V">sluggat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">hudløst vev</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">njuosskaoadtje</t>
+      <t pos="V">sluggat</t>
     </tg>
     </mg>
   </e>
@@ -6154,14 +6125,9 @@
       <t pos="N">rájgge</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">hull</l>
-      <l pos="V">gå hull på</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>gå hull på</re>
       <t pos="V">rájggánit</t>
     </tg>
     </mg>
@@ -6188,11 +6154,12 @@
   </e>
   <e>
     <lg>
-      <l pos="V">hutre (i sammenkrøpet stilling)</l> OBS
-      <l pos="V">småfryse</l>
+      <l pos="V">hutre</l>
     </lg>
     <mg>
+      <l_ref>småfryse_v</l_ref>
     <tg xml:lang="smj">
+            <re>i sammenkrøpet stilling</re>
       <t pos="V">huhttahit</t>
     </tg>
     </mg>
@@ -6206,6 +6173,7 @@
       <t pos="N">vuojŋadallam</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vuojŋadibme</t>
     </tg>
@@ -6251,6 +6219,7 @@
       <t pos="N">rájnasvuohta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hygiedna</t>
     </tg>
@@ -6302,7 +6271,9 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">guládahka</t> OBS - gulán?
+      <t pos="N">guládahka</t>
+      <t pos="N">gulán</t>
+
     </tg>
     </mg>
   </e>
@@ -6332,7 +6303,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gullodávte (fl.)</t> OBS
+      <t pos="N" nr="Pl">gullodávte</t>
     </tg>
     </mg>
   </e>
@@ -6368,21 +6339,21 @@
   </e>
   <e>
     <lg>
-      <l pos="N">hånden gikk ut av ledd</l> OBS
+      <l pos="Phrase">hånden gikk ut av ledd</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">giehta gahtjaj lahtasis</t> OBS
+      <t pos="Phrase">giehta gahtjaj lahtasis</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">håndens overside</l> OBS
-      <l pos="N">håndbak</l>
+      <l pos="Phrase">håndens overside</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+        <l_ref>håndbak_n</l_ref>
+  <tg xml:lang="smj">
       <t pos="N">giehtabajusj</t>
     </tg>
     </mg>
@@ -6396,14 +6367,17 @@
       <t pos="N">giehtaloabmo</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">giehtavuodo</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">giehtasláhpe</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjårmmåvuodo</t>
     </tg>
@@ -6412,9 +6386,9 @@
   <e>
     <lg>
       <l pos="N">håndledd</l>
-      <l pos="N">håndrot</l>
     </lg>
     <mg>
+      <l_ref>håndrot_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">giehtamadda</t>
     </tg>
@@ -6523,21 +6497,11 @@
   <e>
     <lg>
       <l pos="N">illebefinnende</l>
-      <l pos="V">få et illebefinnende</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>få et illebefinnende</re>
       <t pos="V">æggárasstet</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">indre øyekrok</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">sisŋep tjalmmegiehtje</t> OBS
     </tg>
     </mg>
   </e>
@@ -6574,12 +6538,12 @@
   <e>
     <lg>
       <l pos="N">influensa</l>
-      <l pos="N">omgangssyke</l>
-      <l pos="N">reksyke</l>
-      <l pos="N">epidemi</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>omgangssyke_n</l_ref>
+      <l_ref>reksyke_n</l_ref>
+      <l_ref>epidemi_</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">mannevihke</t>
     </tg>
     </mg>
@@ -6607,9 +6571,9 @@
   <e>
     <lg>
       <l pos="N">inkontinens</l>
-      <l pos="N">urinlekkasje</l>
     </lg>
     <mg>
+      <l_ref>urinlekkasje_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gådtjåjiegedissvuohta</t>
     </tg>
@@ -6637,16 +6601,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">inngrodd negl</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">sisisjaddam gadtsa</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="V">innkalle</l>
     </lg>
     <mg>
@@ -6657,21 +6611,31 @@
   </e>
   <e>
     <lg>
-      <l pos="N">innkalling (til kontroll spesialist)</l> OBS
+      <l pos="N">innkalling</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gåhtjulvis kontroallaj, spesialisstaj</t> OBS
-    </tg>
+      <t pos="N">gåhtjulvis</t>
+        <xg>
+          <x>innkalling til kontroll/spesialist</x>
+          <xt>gåhtjulvis kontroallaj/spesialisstaj</xt>
+        </xg>    
+        </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">innlegge (på sykehus)</l>OBS
+      <l pos="N">innlegge</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">biedjat/tjáledit skihppijviessuj</t>
+              <re>på sykehus</re>
+      <t pos="N">biedjat</t>
+      <t pos="N">tjáledit</t>
+        <xg>
+          <x>innlegge på sykhus</x>
+          <xt>biedjat/tjáledit skihppijviessuj</xt>
+        </xg> 
     </tg>
     </mg>
   </e>
@@ -6681,7 +6645,11 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjáledibme skihppijviessuj</t> OBS
+      <t pos="N">tjáledibme</t>
+        <xg>
+          <x>innleggelse på sykhus</x>
+          <xt>tjáledibme skihppijviessuj</xt>
+        </xg> 
     </tg>
     </mg>
   </e>
@@ -6697,7 +6665,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">innvortes medisin</l> OBS
+      <l pos="Phrase">innvortes medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -6741,16 +6709,16 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">njuolgga varraj</t> OBS
+      <t pos="Phrase">njuolgga varraj</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">iris</l>
-      <l pos="N">regnbuehinne</l>
     </lg>
     <mg>
+      <l_ref>regnbuehinne_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">tjalmmedierre</t>
     </tg>
@@ -6805,6 +6773,7 @@
       <t pos="N">máttabádne</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">oalolbádne</t>
     </tg>
@@ -6829,6 +6798,7 @@
       <t pos="N">ruovddevádne</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">ruovddevánesvuohta</t>
     </tg>
@@ -6847,9 +6817,9 @@
   <e>
     <lg>
       <l pos="N">jomfruhinne</l>
-      <l pos="N">møydom</l>
     </lg>
     <mg>
+      <l_ref>møydom_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">niejddatsuodtsa</t>
     </tg>
@@ -6904,6 +6874,7 @@
       <t pos="N">kaloriddja</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">kalorijja</t>
     </tg>
@@ -6912,9 +6883,9 @@
   <e>
     <lg>
       <l pos="N">kapilær</l>
-      <l pos="N">hårrørsåre</l>
     </lg>
     <mg>
+      <l_ref>hårrørsåre_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">kapilerra</t>
     </tg>
@@ -6923,11 +6894,11 @@
   <e>
     <lg>
       <l pos="N">kapsel</l>
-      <l pos="N">omgivende hinne</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">skoade</t>
+            <re>nekting</re>
+     <t pos="N">omgivende hinne</t>
     </tg>
     </mg>
   </e>
@@ -6953,7 +6924,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kaste opp</l> OBS
+      <l pos="Phrase">kaste opp</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -6964,9 +6935,9 @@
   <e>
     <lg>
       <l pos="N">katarr</l>
-      <l pos="N">betennelse</l>
     </lg>
     <mg>
+      <l_ref>betennelse_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">katárra</t>
     </tg>
@@ -7039,11 +7010,15 @@
   <e>
     <lg>
       <l pos="V">kinke</l>
-      <l pos="V">få kink i ryggen</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">roassjkat, råsjkav (roassjkat hárddov)</t>
+             <re>få kink</re>
+      <t pos="V">roassjkat</t>
+        <xg>
+          <x>få kink i ryggen</x>
+          <xt>roassjkat hárddov</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -7089,7 +7064,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kjede seg</l> OBS
+      <l pos="Phrase">kjede seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -7100,10 +7075,10 @@
   <e>
     <lg>
       <l pos="N">kjeft</l>
-      <l pos="V">få kjeft</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>få kjeft</re>
       <t pos="V">bælkkut</t>
     </tg>
     </mg>
@@ -7111,10 +7086,10 @@
   <e>
     <lg>
       <l pos="V">kjefte</l>
-      <l pos="V">skjelle ut</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>skjelle ut</re>
       <t pos="N">bielkket</t>
     </tg>
     </mg>
@@ -7131,21 +7106,18 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjenne murrende smerte</l> OBS
+      <l pos="N">kjenne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">surmestit</t>
+            <re>på med hender</re>
+      <t pos="V">gulldalit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">kjenne på (med hender)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">gulldalit</t>
+            <re>kjenne murrende smerte</re>
+      <t pos="V">surmestit</t>
     </tg>
     </mg>
   </e>
@@ -7191,11 +7163,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjølig</l> OBS
-      <l pos="V">bli kjølig (pga. våte klær)</l> OBS
+      <l pos="A">kjølig</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>bli kjølig (pga. våte klær)</re>
       <t pos="V">jevsijdit</t>
     </tg>
     </mg>
@@ -7232,11 +7204,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnskjertler</l> OBS
+      <l pos="N">kjønnskjertler</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">sjiervverávsá (fl.)</t> OBS
+      <t pos="N" nr="Pl">sjiervverávsá</t>
     </tg>
     </mg>
   </e>
@@ -7252,12 +7224,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnslepper</l>
-      <l pos="N">skamlepper</l>
+      <l pos="N">kjønnsleppe</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>skamleppe_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tsinnabavsev</t>
+        <xg>
+          <x>små kjønnslepper</x>
+          <xt>unna tsinnabaksima </xt>
+        </xg>
+          <x>store kjønnslepper</x>
+          <xt>stuorra tsinnabaksima </xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -7273,12 +7252,32 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnsorgan (kvinnelig)</l> OBS
-      <l pos="N">vagina</l>
+      <l pos="N">kjønnsorgan</l> 
     </lg>
     <mg>
+       <l_ref>vagina_n</l_ref>
+   <tg xml:lang="smj">
+            <re>kvinnelig</re>
+      <t pos="N">tsinna</t>
+    </tg>
+    </mg>
+    <mg>
+      <l_ref>penis_n</l_ref>
+   <tg xml:lang="smj">
+            <re>mannlig</re>
+      <t pos="N">buohtja</t>
+    </tg>
+    </mg>
+  </e>
+
+  <e>
+    <lg>
+      <l pos="N">penis</l>
+    </lg>
+    <mg>
+      <l_ref>kjønnsorgan_n</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">tsinna</t> OBS
+      <t pos="N">buohtja</t>
     </tg>
     </mg>
   </e>
@@ -7294,10 +7293,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kladd (underlag)</l> OBS
+      <l pos="N">kladd</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>underlag</re>
       <t pos="N">kládda</t>
     </tg>
     </mg>
@@ -7311,25 +7311,21 @@
       <t pos="N">gujdalvis</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">klage (om feilaktighet)</l> OBS
-    </lg>
     <mg>
+      <l_ref>jammer_n</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">gujddit</t>
+      <t pos="N">luodjom</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">klage</l>
-      <l pos="N">jammer</l>
+      <l pos="V">klage</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">luodjom</t>
+              <re>om feilaktighet</re>
+      <t pos="V">gujddit</t>
     </tg>
     </mg>
   </e>
@@ -7345,20 +7341,23 @@
   </e>
   <e>
     <lg>
-      <l pos="V">kle av seg</l> OBS
+      <l pos="V">kle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>kle av seg</re>
       <t pos="V">nuoladit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kle på seg</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>kle av</re>
+      <t pos="V">nuollat</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>kle på seg</re>
       <t pos="V">gárvvunit</t>
     </tg>
     </mg>
@@ -7404,14 +7403,17 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">klysterra</t>
+      <t pos="N">klistar</t>
     </tg>
     </mg>
-     <tg xml:lang="smj">
-      <t pos="N">klistar</t> OBS
+    <mg>
+    <tg xml:lang="smj">
+             <re>sette klyster</re>
+     <t pos="V">klysterit</t>
+      <t pos="V">klystierit</t>
     </tg>
     </mg>
-  </e>
-  <e>
+  </e>  <e>
     <lg>
       <l pos="V">klø</l>
     </lg>
@@ -7430,6 +7432,7 @@
       <t pos="N">sagŋedibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">saŋásj</t>
     </tg>
@@ -7438,11 +7441,11 @@
   <e>
     <lg>
       <l pos="N">kløe</l>
-      <l pos="N">sterk kløe</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">saŋátja (fl.)</t> OBS
+             <re>sterk kløe</re>
+      <t pos="N" nr="Pl">saŋátja</t>
     </tg>
     </mg>
   </e>
@@ -7479,13 +7482,14 @@
   <e>
     <lg>
       <l pos="N">kneskjell</l>
-      <l pos="N">kneskål</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>kneskål_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">buolvvatjuhttá</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">buolvvalåhkke</t>
     </tg>
@@ -7493,10 +7497,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">knoke (i fot- eller handledd)</l> OBS
+      <l pos="N">knoke</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>i fot- eller handledd</re>
       <t pos="N">tjuhttá</t>
     </tg>
     </mg>
@@ -7524,24 +7529,15 @@
   <e>
     <lg>
       <l pos="N">koldbrann</l>
-      <l pos="N">dødt vev</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>dødt vev</re>
       <t pos="N">jábmaoadtje</t>
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">kolera</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">kolera</t> OBS
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">kolesterolsenkende</l>
@@ -7564,11 +7560,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">komme seg på beina</l> OBS
+      <l pos="Phrase">komme seg på beina</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">juolgij nali væddját</t> OBS
+      <t pos="Phrase">juolgij nali væddját</t>
     </tg>
     </mg>
   </e>
@@ -7581,6 +7577,7 @@
       <t pos="N">bahunibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">komplikasjåvnnå</t>
     </tg>
@@ -7639,9 +7636,9 @@
   <e>
     <lg>
       <l pos="V">koppe</l>
-      <l pos="V">årelate</l>
     </lg>
     <mg>
+      <l_ref>årelate_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">kåhppit</t>
     </tg>
@@ -7696,6 +7693,7 @@
       <t pos="N">krámmpa</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gæsádahka</t>
     </tg>
@@ -7714,10 +7712,10 @@
   <e>
     <lg>
       <l pos="N">kransåre</l>
-      <l pos="N">hjertepulsåre</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>hjertepulsåre_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tsåhkevarravárre</t>
     </tg>
     </mg>
@@ -7741,6 +7739,7 @@
       <t pos="N">bårredávdda</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">kræffta</t>
     </tg>
@@ -7790,11 +7789,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kronisk sykdom</l> OBS
+      <l pos="A">kronisk</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">bisso skihpudahka</t>
+      <t pos="V">bisso</t>
     </tg>
     </mg>
   </e>
@@ -7814,6 +7813,7 @@
       <l pos="N">lem</l>
     </lg>
     <mg>
+      <l_ref>lem_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">rumájoasse</t>
     </tg>
@@ -7852,9 +7852,9 @@
   <e>
     <lg>
       <l pos="N">kul</l>
-      <l pos="N">klump</l>
     </lg>
     <mg>
+      <l_ref>klump_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">tjåssne</t>
     </tg>
@@ -7863,11 +7863,11 @@
   <e>
     <lg>
       <l pos="N">kul</l>
-      <l pos="N">svull</l>
-      <l pos="N">svulst</l>
-      <l pos="N">tumor</l>
     </lg>
     <mg>
+      <l_ref>svull_n</l_ref>
+      <l_ref>svulst_n</l_ref>
+      <l_ref>tumor_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">sjattalvis</t>
     </tg>
@@ -7886,21 +7886,11 @@
   <e>
     <lg>
       <l pos="A">kurativ</l>
-      <l pos="V">helbredende</l>
     </lg>
     <mg>
+      <l_ref>helbredende_v</l_ref>
     <tg xml:lang="smj">
-      <t pos="V">buorediddje</t> OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">kurere med knusk</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">duovllot</t>
+      <t pos="V">buorediddje</t>
     </tg>
     </mg>
   </e>
@@ -7917,18 +7907,40 @@
   <e>
     <lg>
       <l pos="N">kutt</l>
-      <l pos="N">sår</l>
     </lg>
     <mg>
+      <l_ref>sår_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">hávve</t>
+    </tg>
+    </mg>
+      <mg>
+    <tg xml:lang="smj">
+             <re>lite kutt</re>
+     <t pos="N">hávásj</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">kutte seg</l> OBS
-      <l pos="V">skjære seg</l> OBS
+      <l pos="N">sår</l>
+    </lg>
+    <mg>
+      <l_ref>kutt_n</l_ref>
+    <tg xml:lang="smj">
+      <t pos="N">hávve</t>
+    </tg>
+    </mg>
+      <mg>
+    <tg xml:lang="smj">
+             <re>lite sår</re>
+     <t pos="N">hávásj</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Phrase">kutte seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -8078,6 +8090,7 @@
       <t pos="N">vuorkká</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vuorkudahka</t>
     </tg>
@@ -8200,16 +8213,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lavt blodtrykk</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">vuollegis varraviesoj</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">ledd</l>
     </lg>
     <mg>
@@ -8240,10 +8243,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">leddknoke (i hånd eller fot)</l> OBS
+      <l pos="N">leddknoke</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>i hånd eller fot</re>
       <t pos="N">tjuvlle</t>
     </tg>
     </mg>
@@ -8257,6 +8261,7 @@
       <t pos="N">dálkudiddje</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">dåktår</t>
     </tg>
@@ -8265,11 +8270,14 @@
   <e>
     <lg>
       <l pos="N">legehjelp</l>
-      <l pos="V">få legehjelp</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">dåktårviehkev oadtjot, oattjov</t> OBS
+      <t pos="N">dåktårviehkke</t>
+          <xg>
+          <x>få legehjelp</x>
+          <xt>dåktårviehkev oadtjot</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -8286,10 +8294,10 @@
   <e>
     <lg>
       <l pos="N">legemiddel</l>
-      <l pos="N">medikament</l>
-      <l pos="N">preparat</l>
     </lg>
     <mg>
+      <l_ref>medikament_n</l_ref>
+      <l_ref>preparat_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">dálkas</t>
     </tg>
@@ -8308,22 +8316,40 @@
   <e>
     <lg>
       <l pos="N">legemsfeil</l>
-      <l pos="N">lyte</l>
-      <l pos="N">skavank</l>
+
+    </lg>
+    <mg>
+      <l_ref>lyten</l_ref>
+      <l_ref>skavank_n</l_ref>
+    <tg xml:lang="smj">
+      <t pos="N">májnne</t>
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="V">lege</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">májnne</t>
+             <re>sår</re>
+      <t pos="V">savedit</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>sykdom</re>
+      <t pos="V">buoredit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="V">leges</l>
-      <l pos="V">helbredes</l>
-      <l pos="V">kureres</l>
     </lg>
     <mg>
+      <l_ref>helbredes_v</l_ref>
+      <l_ref>kureres_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">buorránit</t>
     </tg>
@@ -8331,11 +8357,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">legesjekk</l>
-      <l pos="N">legeundersøkelse</l>
+      <l pos="V">kurere</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>med knusk</re>
+      <t pos="V">duovllot</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">legesjekk</l>
+    </lg>
+    <mg>
+       <l_ref>legeundersøkelse_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">dåktårguoradibme</t>
     </tg>
     </mg>
@@ -8352,21 +8389,17 @@
   </e>
   <e>
     <lg>
-      <l pos="N">legg (leggbein)</l> OBS
+      <l pos="N">legg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>leggbein</re>
       <t pos="N">njiehtsagis</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">legg</l>
-      <l pos="N">leggmuskel</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>leggmuskel</re>
       <t pos="N">váhkká</t>
     </tg>
     </mg>
@@ -8383,30 +8416,24 @@
   </e>
   <e>
     <lg>
-      <l pos="V">legge (en annen person)</l> OBS
+      <l pos="V">legge</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>en annen person</re>
       <t pos="V">viellidahttet</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">legge inn (pasient)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">tjáledit dálkudibmáj, sujttoj/skihppijviessuj</t> OBS
+             <re>legge inn pasient</re>
+      <t pos="Phrase">tjáledit dálkudibmáj/sujttoj/skihppijviessuj</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">legge seg ned</l>
-    </lg>
+
     <mg>
     <tg xml:lang="smj">
+               <re>legge seg ned</re>
       <t pos="V">viellidit</t>
     </tg>
     </mg>
@@ -8414,10 +8441,10 @@
   <e>
     <lg>
       <l pos="N">lend</l>
-      <l pos="N">midje</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>midje_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">ålem</t>
     </tg>
     </mg>
@@ -8431,6 +8458,7 @@
       <t pos="N">bavsev</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">njálmmerabdda</t>
     </tg>
@@ -8438,10 +8466,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lese (heale)</l>OBS
+      <l pos="V">lese</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>heale</re>
       <t pos="N">låhkåt</t>
     </tg>
     </mg>
@@ -8458,12 +8487,26 @@
   </e>
   <e>
     <lg>
-      <l pos="V">leve sunt</l> OBS
+      <l pos="Phrase">leve sunt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">lassjot viessot</t>
+      <t pos="Phrase">lassjugit viessot</t>
     </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Adv">sunt</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="Adv">lassjugit</t>
+         <xg>
+          <x>leve sunt</x>
+          <xt>lassjugit viessot</xt>
+        </xg>   
+        </tg>
     </mg>
   </e>
   <e>
@@ -8472,7 +8515,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">viessomvidjura (fl.)</t> OBS
+      <t pos="N" nr="Pl">viessomvidjura</t>
     </tg>
     </mg>
   </e>
@@ -8488,12 +8531,12 @@
   </e>
   <e>
     <lg>
-      <l pos="V">levende (presens partisipp)</l>
-      <l pos="V">i live</l>
+      <l pos="V">levende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">viesso, viesso</t>
+            <re>i live</re>
+      <t pos="V">viesso</t>
     </tg>
     </mg>
   </e>
@@ -8516,14 +8559,10 @@
       <t pos="V">gillat</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">lide av</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">skihpat (+ elativ)</t> OBS
+            <re>lide av + elativ</re>
+      <t pos="V">skihpat</t>
     </tg>
     </mg>
   </e>
@@ -8536,10 +8575,12 @@
       <t pos="N">gierddam</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gillam</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vájvvástuvvam</t>
     </tg>
@@ -8548,31 +8589,43 @@
   <e>
     <lg>
       <l pos="N">lidelse</l>
-      <l pos="N">sykdom</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>sykdom_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">skihpudahka</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">lift (løfter)</l>OBS 
+      <l pos="N">lift</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">låggŋår, låggŋåra</t>OBS menneske
+             <re>maskin som løfter</re>
+      <t pos="N">lågŋun</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">ligge for døden</l> OBS
+      <l pos="N">løfter</l> 
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">jábmema åvdån liehket</t> OBS
+             <re>menneske som løfter</re>
+     <t pos="N">låggŋår</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Phrase">ligge for døden</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="Phrase">jábmema åvdån liehket</t>
     </tg>
     </mg>
   </e>
@@ -8595,6 +8648,7 @@
       <t pos="N">jábbmek</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">lijkka</t>
     </tg>
@@ -8629,6 +8683,7 @@
       <t pos="N">tjiehtjer</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjiehtjerasj</t>
     </tg>
@@ -8636,20 +8691,24 @@
   </e>
   <e>
     <lg>
-      <l pos="V">lindre smerte</l>
+      <l pos="V">lindre</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">báktjasijt giehpedit</t> OBS
-    </tg>
+      <t pos="V">giehpedit</t>
+        <xg>
+          <x>lindre smerte</x>
+          <xt>báktjasijt giehpedit</xt>
+        </xg>    
+        </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">linse</l>
-      <l pos="N">øyelinse</l>
     </lg>
     <mg>
+      <l_ref>øyelinse_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">tjalmmelinssa</t>
     </tg>
@@ -8667,22 +8726,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lite kutt</l>OBS
-      <l pos="N">lite sår</l> OBS
+      <l pos="Phrase">lite kutt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">hávásj</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">liten øreflipp</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">bielljegætjásj</t>
     </tg>
     </mg>
   </e>
@@ -8748,11 +8796,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">livreddende førstehjelp</l> OBS
+      <l pos="A">livreddende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">hæggagáddjo vuostasjviehkke</t>OBS
+      <t pos="A">hæggagáddjo</t>
+        <xg>
+          <x>livreddende førstehjelp</x>
+          <xt>hæggagáddjo vuostasjviehkke<</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -8779,9 +8831,9 @@
   <e>
     <lg>
       <l pos="N">livsfare</l>
-      <l pos="N">dødsangst</l>
     </lg>
     <mg>
+      <l_ref>dødsangst_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">hægganieda</t>
       <t pos="N">jábmemballo</t>
@@ -8792,14 +8844,11 @@
   <e>
     <lg>
       <l pos="A">livsfarlig</l>
-      <l pos="A">livstruende</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>livstruende_a</l_ref>
+   <tg xml:lang="smj">
       <t pos="A">hæggavádálasj</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="A">hæggavárálasj</t>
     </tg>
     </mg>
@@ -8820,7 +8869,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">viessomvuoge ietjájduhttem</t> OBS
+      <t pos="Phrase">viessomvuoge ietjájduhttem</t>
     </tg>
     </mg>
   </e>
@@ -8834,13 +8883,44 @@
     </tg>
     </mg>
   </e>
-  <e>
+  
+      <e>
     <lg>
-      <l pos="N">livsviktig medisin</l> OBS
+      <l pos="N">medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">hæggaájnas dálkas</t>
+      <t pos="N">dálkas</t>
+        <xg>
+          <x>livsviktig medisin</x>
+          <xt>hæggaájnas dálkas</xt>
+        </xg>
+        <xg>
+          <x>smertestillende medisin</x>
+          <xt>dálkas báktjasijda</xt>
+        </xg>    
+        </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>ta medisin</re>
+      <t pos="Phrase">bårråt dálkkasav</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>prøve ut medisiner</re>
+      <t pos="Phrase">gæhttjalit dálkkasijt</t>
+    </tg>
+    </mg>
+  </e> 
+  <e>
+    <lg>
+      <l pos="A">livsviktig</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="A">hæggaájnas</t>
     </tg>
     </mg>
   </e>
@@ -8850,7 +8930,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">logopiehta</t> OBS
+      <t pos="N">logopiehta</t>
     </tg>
     </mg>
   </e>
@@ -8897,15 +8977,15 @@
   <e>
     <lg>
       <l pos="N">luftsmerte</l>
-      <l pos="V">ha luftsmerter</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ha luftsmerter</re>
       <t pos="V">biegŋat</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="N">tjoajvve biegŋá</t> OBS
+         <xg>
+          <x>Jeg har luftsmerter.</x>
+          <xt>Muv tjoajvve biegŋá</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -8915,7 +8995,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">bieggabáktjasa (fl.)</t> OBS
+      <t pos="N" nr="Pl">bieggabáktjasa</t>
     </tg>
     </mg>
   </e>
@@ -8933,10 +9013,10 @@
   <e>
     <lg>
       <l pos="N">lukt</l>
-      <l pos="N">duft</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>duft_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tsiehka</t>
     </tg>
     </mg>
@@ -8950,14 +9030,9 @@
       <t pos="V">happset</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">lukte</l>
-      <l pos="V">gi fra seg lukt</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>gi fra seg lukt</re>
       <t pos="V">happsut</t>
     </tg>
     </mg>
@@ -9018,7 +9093,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">lymffa</t> OBS
+      <t pos="N">lymffa</t>
     </tg>
     </mg>
   </e>
@@ -9028,7 +9103,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">lymffaráksá</t> OBS
+      <t pos="N">lymffaráksá</t>
     </tg>
     </mg>
   </e>
@@ -9038,7 +9113,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">lymffabårredávdda</t>OBS
+      <t pos="N">lymffabårredávdda</t>
     </tg>
     </mg>
   </e>
@@ -9135,10 +9210,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lårmuskel (på menneske)</l> OBS
+      <l pos="N">lårmuskel</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>på menneske</re>
       <t pos="N">tjibbe</t>
     </tg>
     </mg>
@@ -9152,6 +9228,7 @@
       <t pos="N">bånstår</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">bålstår</t>
     </tg>
@@ -9166,6 +9243,7 @@
       <t pos="N">bålstårålgusj</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">madrássaålgusj</t>
     </tg>
@@ -9173,10 +9251,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mage (sekk)</l> OBS
+      <l pos="N">mage</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>sekk</re>
       <t pos="N">tjoajvve</t>
     </tg>
     </mg>
@@ -9190,6 +9269,7 @@
       <t pos="N">gåddulahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjoajvvebånjådahka</t>
     </tg>
@@ -9225,16 +9305,7 @@
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">malaria</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">malárija</t>OBS malárra
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">mandel</l>
@@ -9247,12 +9318,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">mangel på matlyst</l> OBS
-      <l pos="N">dårlig matlyst</l>OBS
+      <l pos="N">matlyst</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">nievres bårråmmiella</t>
+      <t pos="N">bårråmmiella</t>
+        <xg>
+          <x>dårlig/mangel på matlyst</x>
+          <xt>nievres bårråmmiella</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -9300,11 +9374,11 @@
   <e>
     <lg>
       <l pos="N">marg</l>
-      <l pos="N">den forlengede marg</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjavelkadámjoarkka</t>
+             <re>den forlengede marg</re>
+     <t pos="N">tjavelkadámjoarkka</t>
     </tg>
     </mg>
   </e>
@@ -9328,6 +9402,7 @@
       <t pos="V">massierit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">ruvvit</t>
     </tg>
@@ -9346,10 +9421,10 @@
   <e>
     <lg>
       <l pos="N">materie</l>
-      <l pos="N">puss</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>puss_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">siedja</t>
     </tg>
     </mg>
@@ -9366,7 +9441,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medfødt lyte</l> OBS
+      <l pos="Phrase">medfødt lyte</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -9383,6 +9458,7 @@
       <t pos="N">dálkasgávttja</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">dálkasgåhppå</t>
     </tg>
@@ -9400,21 +9476,22 @@
   </e>
   <e>
     <lg>
-      <l pos="N">medisinrør (medrør)</l>OBS
+      <l pos="N">medisinrør</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>medrør</re>
       <t pos="N">dálkasbåhttså</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">medisinske hjelpemidler</l>OBS
+      <l pos="Phrase">medisinske hjelpemidler</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">sujttovædtsaga (fl.)</t>
+      <t pos="N" nr="Pl">sujttovædtsaga</t>
     </tg>
     </mg>
   </e>
@@ -9467,14 +9544,17 @@
       <t pos="N">ájggevarra</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="N">ruoppsada (pl)</t>
+      <t pos="N" nr="Pl">ruoppsada</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">menstruasjåvnnå</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">læjbbom</t>
     </tg>
@@ -9482,13 +9562,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">menstruasjonsblod</l>OBS
+      <l pos="N">menstruasjonsblod</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">liejbbe</t>
       <t pos="N">ájggevarra</t>
-
     </tg>
     </mg>
   </e>
@@ -9506,22 +9585,21 @@
    <e>
     <lg>
       <l pos="V">menstruere</l>
-      <l pos="V">ha menstruasjon</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ha menstruasjon</re>
       <t pos="V">læjbbot</t>
     </tg>
     </mg>
   </e>
- 
   <e>
     <lg>
       <l pos="N">meslinger</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">smávvasa (fl.)</t> OBS
+      <t pos="N" nr="Pl">smávvasa</t>
     </tg>
     </mg>
   </e>
@@ -9568,9 +9646,9 @@
   <e>
     <lg>
       <l pos="N">mildhet</l>
-      <l pos="N">ømhet</l>
     </lg>
     <mg>
+      <l_ref>ømhet_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">linesvuohta</t>
     </tg>
@@ -9658,7 +9736,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">miste forstanden</l> OBS
+      <l pos="Phrase">miste forstanden</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -9666,34 +9744,62 @@
     </tg>
     </mg>
   </e>
+  
   <e>
     <lg>
-      <l pos="N">miste hukommelsen</l>
+      <l pos="N">hukommelse</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">mujtojt láhppet, láhpáv</t>
-    </tg>
+      <t pos="N">mujtto</t>
+        <xg>
+          <x>jeg mister hukommelsen</x>
+          <xt>mujtojt láhpáv</xt>
+        </xg>    
+        </tg>
     </mg>
-  </e>
+  </e>  
   <e>
     <lg>
-      <l pos="V">miste håret</l>
+      <l pos="V">miste</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">vuoptajt biesstet</t> OBS
+      <t pos="V">láhppet</t>
+         <xg>
+          <x>miste hukommelsen</x>
+          <xt>mujtojt láhppet</xt>
+        </xg>
+                <xg>
+          <x>miste håret</x>
+          <xt>vuoptajt láhppet</xt>
+        </xg>
     </tg>
     </mg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="V">biesstet</t>
+                 <xg>
+          <x>miste håret</x>
+          <xt>vuoptajt biesstet</xt>
+        </xg>
+    </tg>
+    </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">vuoptajt láhppet</t>
     </tg>
     </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>miste pusten/hive etter pusten</re>
+      <t pos="V">háhpaskuvvat</t>
+    </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">miste pusten</l> OBS
-      <l pos="V">hive etter pusten</l>
+      <l pos="Phrase">miste pusten</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -9794,10 +9900,10 @@
   <e>
     <lg>
       <l pos="N">motløshet</l>
-      <l pos="N">depresjon</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>depresjon_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">hæsso</t>
     </tg>
     </mg>
@@ -9868,28 +9974,18 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">diehkko, diehko</t>
+      <t pos="N">diehkko</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">muskelknute</l>
-      <l pos="N">seneknute</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
-      <t pos="N">jarreS</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">myke (bløte) gane</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">dibma guobme, guome</t>
+       <l_ref>seneknute_n</l_ref>
+   <tg xml:lang="smj">
+      <t pos="N">jarre</t>
     </tg>
     </mg>
   </e>
@@ -9922,6 +10018,7 @@
       <t pos="A">rihtso</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="Adv">rihttsot</t>
     </tg>
@@ -9939,11 +10036,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nakke- og skuldersmerter</l> OBS
+      <l pos="Phrase">nakke- og skuldersmerter</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">nisske- ja oalggebáktjasa (fl.)</t>
+      <t pos="Phrase">nisske- ja oalggebáktjasa</t>
     </tg>
     </mg>
   </e>
@@ -9990,10 +10087,9 @@
   <e>
     <lg>
       <l pos="N">nattevakt</l>
-      <l pos="N">nattskift</l>
-
     </lg>
     <mg>
+      <l_ref>nattskift_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">idjavuorro</t>
     </tg>
@@ -10042,31 +10138,11 @@
   <e>
     <lg>
       <l pos="N">navlesnor</l>
-      <l pos="N">navlestreng)</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>navlestreng_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">náhpetjoalle</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nedre tårekanal</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">vuolep ganjálkanálla</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nedre øyelokk</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">vuolleramás</t>
     </tg>
     </mg>
   </e>
@@ -10097,16 +10173,20 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">gadtsa</t>
+         <xg>
+          <x>inngrodd negl</x>
+          <xt>sisisjaddam gadtsa</xt>
+        </xg>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">neglebitt</l> OBS
-      <l pos="V">få neglebitt</l>
+      <l pos="N">neglebitt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>få neglebitt</re>
       <t pos="V">bihtsaguvvat</t>
     </tg>
     </mg>
@@ -10214,11 +10294,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nesedråper</l> OBS
+      <l pos="N">nesedråper</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">njunnjegåjkudisá (fl.)</t>
+      <t pos="N" nr="Pl">njunnjegåjkudisá</t>
     </tg>
     </mg>
   </e>
@@ -10311,14 +10391,10 @@
       <t pos="N">månem</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">nyrene og fettet rundt</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">nihtá, nidá</t>
+            <re>nyrene og fettet rundt</re>
+      <t pos="N">nihtá</t>
     </tg>
     </mg>
   </e>
@@ -10334,11 +10410,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">nyresvikt  (ordrett: nyrene fungerer ikke)</l>
+      <l pos="N">nyresvikt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">månema e dåjma</t> OBS
+              <re>ordrett: nyrene fungerer ikke</re>
+      <t pos="Phrase">månema e dåjma</t>
     </tg>
     </mg>
   </e>
@@ -10381,6 +10458,7 @@
       <t pos="N">nieda</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hiehte</t>
     </tg>
@@ -10395,6 +10473,7 @@
       <t pos="N">niedatelefåvnnå</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">niedaskuolkan</t>
     </tg>
@@ -10433,11 +10512,13 @@
   </e>
   <e>
     <lg>
-      <l pos="N">offer (for overgrep)</l>OBS
+      <l pos="N">offer</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gillajiddje</t>
+             <re>for overgrep</re>
+     <t pos="N">gillijiddje</t>
+     <t pos="N">gille</t>
     </tg>
     </mg>
   </e>
@@ -10504,33 +10585,11 @@
   <e>
     <lg>
       <l pos="N">omtanke</l>
-      <l pos="N">bekymmer</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+        <l_ref>bekymmer_n</l_ref>
+  <tg xml:lang="smj">
       <t pos="N">måråj</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">omtåket</l>
-      <l pos="V">bli omtåket</l>
-      <l pos="V">bli ør</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">dajaskuvvat</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">opium</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">opium</t> OBS
     </tg>
     </mg>
   </e>
@@ -10577,9 +10636,9 @@
   <e>
     <lg>
       <l pos="V">overbelaste</l>
-      <l pos="V">overanstrenge</l>
     </lg>
     <mg>
+      <l_ref>overanstrenge_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">rassit</t>
     </tg>
@@ -10687,10 +10746,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">pannebein (over øyet)</l> OBS
+      <l pos="N">pannebein</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+              <re>over øyet</re>
       <t pos="N">gulmme</t>
     </tg>
     </mg>
@@ -10717,11 +10777,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">parkinsons sykdom</l> OBS
+      <l pos="Phrase">parkinsons sykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">parkinsona vihke</t>
+      <t pos="Phrase">parkinsona vihke</t>
     </tg>
     </mg>
   </e>
@@ -10734,6 +10794,7 @@
       <t pos="N">pasiænnta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">skihppe</t>
     </tg>
@@ -10788,6 +10849,7 @@
       <t pos="N">tjutjuk</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjutjuktjuvdde</t>
     </tg>
@@ -10806,10 +10868,11 @@
   <e>
     <lg>
       <l pos="N">penis</l>
-      <l pos="N">kjønnsorgan (mannlig)</l> OBS
     </lg>
     <mg>
+      <l_ref>kjønnsorgan_n</l_ref>
     <tg xml:lang="smj">
+            <re>mannlig</re>
       <t pos="N">buohtja</t>
     </tg>
     </mg>
@@ -10826,7 +10889,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">person med dårlig helse</l> OBS
+      <l pos="Phrase">person med dårlig helse</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -10843,6 +10906,7 @@
       <t pos="N">pæssta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">ruohtta</t>
     </tg>
@@ -10873,10 +10937,10 @@
   <e>
     <lg>
       <l pos="N">pille</l>
-      <l pos="N">tablett</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>tablett_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tablæhtta</t>
     </tg>
     </mg>
@@ -10887,7 +10951,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">pillarijda báddnum</t>OBS
+      <t pos="Phrase">pillarijda báddnum</t>
     </tg>
     </mg>
   </e>
@@ -10907,11 +10971,17 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">vájvedit (tr.)</t>
+      <t pos="V">vájvedit</t>
     </tg>
     </mg>
+  </e>
+ <e>
+    <lg>
+      <l pos="N">plage</l>
+    </lg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="V">vájvve</t>
+      <t pos="N">vájvve</t>
     </tg>
     </mg>
   </e>
@@ -10932,9 +11002,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">njuobrre</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">plåstar</t>
     </tg>
     </mg>
@@ -10991,7 +11058,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">plutselig død</l> OBS
+      <l pos="Phrase">plutselig død</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -11041,11 +11108,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">prate i søvne</l> OBS
+      <l pos="Phrase">prate i søvne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">vuohpat, vuobav</t>
+      <t pos="V">vuohpat</t>
     </tg>
     </mg>
   </e>
@@ -11081,11 +11148,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">prikke (dovne bort)</l>
-      <l pos="V">dovne bort</l> OBS
+      <l pos="V">prikke</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+   <tg xml:lang="smj">
+             <re>dovne bort</re>
       <t pos="V">tjiergijdit</t>
     </tg>
     </mg>
@@ -11132,10 +11199,11 @@
   </e>
   <e>
     <lg>
-      <l pos="A">profylaktisk (forebyggende)</l>OBS
+      <l pos="A">profylaktisk</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>forebyggende</re>
       <t pos="V">duostudiddje</t>
     </tg>
     </mg>
@@ -11172,7 +11240,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">provosert abort</l> OBS
+      <l pos="Phrase">provosert abort</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -11180,26 +11248,7 @@
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="V">prøve ut medisiner</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">gæhttjalit dálkkasijt</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">psoriasis</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">psoriásis</t> OBS
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">psykiater</l>
@@ -11212,17 +11261,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">psykiatrisk sykepleier</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">psykiatrijjalasj skihppijsujtár</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">psykisk sykdom</l> OBS
+      <l pos="Phrase">psykisk sykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -11269,6 +11308,7 @@
       <t pos="N">pubertiehtta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">pubertæhtta</t>
     </tg>
@@ -11283,6 +11323,7 @@
       <t pos="N">tsåhketsábbmem</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">varrasvahtjo</t>
     </tg>
@@ -11307,6 +11348,7 @@
       <t pos="N">tjalmmegålle</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjalmmegållåsj</t>
     </tg>
@@ -11314,11 +11356,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">pusse nesen</l> OBS
+      <l pos="Phrase">pusse nesen</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">sihkkot)</t>
+      <t pos="V">njunjev sihkkot</t>
     </tg>
     </mg>
   </e>
@@ -11345,21 +11387,22 @@
   <e>
     <lg>
       <l pos="N">pustebesvær</l>
-      <l pos="V">få pustebesvær</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">dahppusit, dahppanit</t>
+            <re>få pustebesvær</re>
+      <t pos="V">dahppusit</t>
+      <t pos="V">dahppanit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">pustebesvær</l>
-      <l pos="N">pustevansker</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>pustevansker_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">dahppanibme</t>
     </tg>
     </mg>
@@ -11393,14 +11436,31 @@
       <t pos="V">vájkudit</t>
     </tg>
     </mg>
-  </e>
-  <e>
+  </e>  <e>
     <lg>
-      <l pos="N">radioaktiv stråling</l> OBS
+      <l pos="A">radioaktiv</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">radioaktijva suonjardibme</t> OBS
+      <t pos="A">radioaktijvva</t>
+         <xg>
+          <x>radioaktiv stråling</x>
+          <xt>radioaktijva suonjardibme</xt>
+        </xg>   
+        </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">stråling</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">suonjardibme</t>
+         <xg>
+          <x>radioaktiv stråling</x>
+          <xt>radioaktijva suonjardibme</xt>
+        </xg>  
     </tg>
     </mg>
   </e>
@@ -11426,7 +11486,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">rammes av</l> OBS
+      <l pos="Phrase">rammes av</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -11446,10 +11506,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">rase (om dyr)</l>OBS
+      <l pos="N">rase</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>om dyr</re>
       <t pos="N">nálle</t>
     </tg>
     </mg>
@@ -11487,10 +11548,10 @@
   <e>
     <lg>
       <l pos="N">regnbuehinne</l>
-      <l pos="N">iris</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>iris_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tjalmmedierre</t>
     </tg>
     </mg>
@@ -11537,20 +11598,17 @@
   </e>
   <e>
     <lg>
-      <l pos="V">renne (av)</l>
+      <l pos="V">renne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>av</re>
       <t pos="V">gålggåt</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">renne (om materie)</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>om materie</re>
       <t pos="V">siedjat</t>
     </tg>
     </mg>
@@ -11587,11 +11645,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">resistent (bakterie og virus)</l> OBS
+      <l pos="A">resistent</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">resistænnta</t>
+            <re>bakterie og virus</re>
+      <t pos="A">resistænnta</t>
     </tg>
     </mg>
   </e>
@@ -11607,10 +11666,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">resultat (av prøve)</l> OBS
+      <l pos="N">resultat</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>av prøve</re>
       <t pos="N">boados</t>
     </tg>
     </mg>
@@ -11638,13 +11698,14 @@
   <e>
     <lg>
       <l pos="N">ribbe</l>
-      <l pos="N">ribbein</l>
     </lg>
     <mg>
+      <l_ref>ribbein_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">hiertik</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hiertikdákte</t>
     </tg>
@@ -11679,32 +11740,25 @@
       <t pos="N">suormastjuvdde</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">suormma</t>
     </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="N">ædnásj, ædnátja</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">ringformet bein rundt øyet</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjalmmerikkas</t>
+      <t pos="N">ædnásj</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">ringformet bein rundt øyet</l>
+      <l pos="Phrase">ringformet bein rundt øyet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">tjalmmerikkasdákte</t>
+      <t pos="N">tjalmmerikkas</t>
     </tg>
     </mg>
   </e>
@@ -11715,16 +11769,6 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">ribon</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">rosen</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">rosen</t> OBS
     </tg>
     </mg>
   </e>
@@ -11751,9 +11795,9 @@
   <e>
     <lg>
       <l pos="N">rumpe</l>
-      <l pos="N">bak</l>
     </lg>
     <mg>
+      <l_ref>bak_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">bahta</t>
     </tg>
@@ -11761,23 +11805,43 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ruse seg</l>
+      <l pos="Phrase">ruse seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">gárevselgajt adnet</t> OBS
+      <t pos="Phrase">gárevselgajt adnet</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">rusmiddel</l>
-      <l pos="N">rusgift</l>
-      <l pos="N">dop</l>
+    </lg>
+    <mg>
+       <l_ref>rusgift_n</l_ref>
+      <l_ref>dop_n</l_ref>
+   <tg xml:lang="smj">
+      <t pos="N">gárevsælgga</t>
+         <xg>
+          <x>ruse seg</x>
+          <xt>gárevselgajt adnet</xt>
+        </xg>   
+        </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">bruker</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gárevsælgga</t>
+      <t pos="N">addne</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>rusmisbruker</re>
+      <t pos="Phrase">gárevselgaj addne</t>
     </tg>
     </mg>
   </e>
@@ -11787,7 +11851,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gárevselgaj addne</t> OBS
+      <t pos="Phrase">gárevselgaj addne</t>
     </tg>
     </mg>
   </e>
@@ -11823,11 +11887,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">røde hunder</l> OBS
+      <l pos="Phrase">røde hunder</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">ruoppsis rusjme (fl.)</t> OBS
+      <t pos="Phrase">ruoppsis rusjme</t>
     </tg>
     </mg>
   </e>
@@ -11874,11 +11938,11 @@
   <e>
     <lg>
       <l pos="V">råde</l>
-      <l pos="N">kunne noe for</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">ráddit, ráddiv</t>
+            <re>kunne noe for</re>
+      <t pos="V">ráddit</t>
     </tg>
     </mg>
   </e>
@@ -11901,6 +11965,7 @@
       <t pos="N">sálvva</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vuojdas</t>
       <t pos="N">kræmma</t>
@@ -11913,7 +11978,8 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">aktan viesso</t> OBS
+            <re>leve sammen</re>
+      <t pos="Phrase">aktan viesso</t>
     </tg>
     </mg>
   </e>
@@ -12047,6 +12113,7 @@
       <t pos="N">hoavkke</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="A">hoavkát</t>
     </tg>
@@ -12054,11 +12121,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">senil</l>
-      <l pos="V">bli senil/dement</l> OBS
+      <l pos="A">senil</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli senil/dement</re>
       <t pos="V">hoavkkánit</t>
     </tg>
     </mg>
@@ -12072,6 +12139,7 @@
       <t pos="N">hoavkkánibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hoavkáduvvam</t>
     </tg>
@@ -12089,7 +12157,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">sette klyster</l>OBS
+      <l pos="Phrase">sette klyster</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -12101,9 +12169,9 @@
   <e>
     <lg>
       <l pos="N">sidebein</l>
-      <l pos="N">ribbein</l>
     </lg>
     <mg>
+      <l_ref>ribbein_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">hiertikdákte</t>
     </tg>
@@ -12155,35 +12223,37 @@
   <e>
     <lg>
       <l pos="A">sinnsforvirret</l>
-      <l pos="N">være sinnsforvirret</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="A">dájsok</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
-      <t pos="V">dádjot</t>
+             <re>være sinnsforvirret</re>
+     <t pos="V">dádjot</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="A">sinnsyk</l>
-      <l pos="V">være sinnssyk</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>være sinnssyk</re>
       <t pos="V">gadjat</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sirkulasjonssvikt (ordrett: blodet sirkulerer ikke lett)</l> OBS
+      <l pos="N">sirkulasjonssvikt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ordrett: blodet sirkulerer ikke lett</re>
       <t pos="N">varrajåhtovihke</t>
     </tg>
     </mg>
@@ -12207,6 +12277,7 @@
       <t pos="N">lållå</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">lålådibme</t>
     </tg>
@@ -12254,7 +12325,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skape usikkerhet</l>OBS
+      <l pos="Phrase">skape usikkerhet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -12274,7 +12345,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skille seg</l> OBS
+      <l pos="Phrase">skille seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -12314,10 +12385,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skjele ( med øynene)</l>OBS
+      <l pos="V">skjele</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>med øynene</re>
       <t pos="V">skielggat</t>
     </tg>
     </mg>
@@ -12331,6 +12403,7 @@
       <t pos="N">sjelæhtta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">dákterigge</t>
     </tg>
@@ -12345,22 +12418,20 @@
       <t pos="V">doargestit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">skielbestit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">skielbbit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">skjelve (ha frysning)</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">vievkestit</t>
+             <re>ha frysning</re>
+     <t pos="V">vievkestit</t>
     </tg>
     </mg>
   </e>
@@ -12386,7 +12457,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skjeløyd person</l>OBS
+      <l pos="Phrase">skjeløyd person</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -12403,6 +12474,7 @@
       <t pos="N">guoggomráksá</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">galbbaráksá</t>
     </tg>
@@ -12410,11 +12482,16 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skjære seg</l>
+      <l pos="Phrase">skjære seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="V">suottadit</t>
+    </tg>
+    </mg>
+      <mg>
+    <tg xml:lang="smj">
+      <t pos="V">tjuohpadit</t>
     </tg>
     </mg>
   </e>
@@ -12430,10 +12507,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skreve ut</l>OBS
+      <l pos="V">skreve</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ut</re>
       <t pos="V">ræhttsahit</t>
     </tg>
     </mg>
@@ -12441,9 +12519,9 @@
   <e>
     <lg>
       <l pos="N">skritt</l>
-      <l pos="N">skrev</l>
     </lg>
     <mg>
+      <l_ref>skrev_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">riehttse</t>
     </tg>
@@ -12451,21 +12529,18 @@
   </e>
   <e>
     <lg>
-      <l pos="V">skrive inn</l>OBS
+      <l pos="V">skrive</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">tjáledit (+ ill.)</t>OBS
+             <re>inn (+ ill.)</re>
+     <t pos="V">tjáledit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">skrive ut</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">tjáledit (+ elat.)</t> OBS
+             <re>ut (+ elat.)</re>
+     <t pos="V">tjáledit</t> 
     </tg>
     </mg>
   </e>
@@ -12508,10 +12583,12 @@
       <t pos="N">tjoamodis</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">bierŋesdákte</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">bierbbe</t>
     </tg>
@@ -12551,9 +12628,9 @@
   <e>
     <lg>
       <l pos="N">skurv</l>
-      <l pos="N">sårskorpe</l>
     </lg>
     <mg>
+      <l_ref>sårskorpe_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">ruobbe</t>
     </tg>
@@ -12561,12 +12638,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">skyldfølelse</l>
-      <l pos="N">dårlig samvittighet</l>OBS
+      <l pos="N">samvittighet</l>
     </lg>
     <mg>
+      <l_ref>skyldfølelse_n</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">nievres oamedåbddo</t>OBS
+      <t pos="N">oamedåbddo</t>
+          <xg>
+          <x>dårlig samvittighet</x>
+          <xt>nievres oamedåbddo</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -12613,9 +12694,9 @@
   <e>
     <lg>
       <l pos="A">slapp</l>
-      <l pos="A">svak</l>
     </lg>
     <mg>
+      <l_ref>svak_n</l_ref>
     <tg xml:lang="smj">
       <t pos="A">delas</t>
     </tg>
@@ -12623,20 +12704,17 @@
   </e>
   <e>
     <lg>
-      <l pos="N">slektning  (fjern slektning)</l> OBS
+      <l pos="N">slektning</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>fjern slektning</re>
       <t pos="N">berulasj</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">slektning (nær slektning)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>nær slektning</re>
       <t pos="N">beraj</t>
     </tg>
     </mg>
@@ -12713,34 +12791,41 @@
   </e>
   <e>
     <lg>
-      <l pos="V">slå (om hjerte)</l>OBS
+      <l pos="V">slå</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>om hjerte</re>
       <t pos="V">svatjádit</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">svahtjat</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">slå i svime</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">lárkkit, lárkkiv</t>
+            <re>slå i svime</re>
+      <t pos="V">lárkkit</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+              <re>slå seg i svime</re>
+    <t pos="V">lárkkanit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">slå seg i svime</l> OBS
+      <l pos="V">svime</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>slå i svime</re>
+      <t pos="V">lárkkit</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>slå seg i svime</re>
       <t pos="V">lárkkanit</t>
     </tg>
     </mg>
@@ -12757,11 +12842,16 @@
   </e>
   <e>
     <lg>
-      <l pos="N">smekke (for baby)</l> OBS
+      <l pos="N">smekke</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>for baby</re>
       <t pos="N">rægán</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
       <t pos="N">sliehppá</t>
     </tg>
     </mg>
@@ -12773,6 +12863,17 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">bávtjas</t>
+         <xg>
+          <x>smertestillende medisin</x>
+          <xt>dálkas báktjasijda</xt>
+        </xg>    
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>stikkende smerte</re>
+      <t pos="N">båskådahka</t>
+      <t pos="N">tjuokkudahka</t>
     </tg>
     </mg>
   </e>
@@ -12808,11 +12909,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">smertestillende medisin</l> OBS
+      <l pos="Phrase">smertestillende medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">dálkas báktjasijda</t> OBS
+      <t pos="Phrase">dálkas báktjasijda</t>
     </tg>
     </mg>
   </e>
@@ -12825,6 +12926,7 @@
       <t pos="N">mådje</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">måjos</t>
     </tg>
@@ -12839,14 +12941,10 @@
       <t pos="V">måjudit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">smile (en gang)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">måjådit</t>
+             <re>en gang</re>
+     <t pos="V">måjådit</t>
     </tg>
     </mg>
   </e>
@@ -12876,18 +12974,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">vuojddat, vuojdav</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">små kjønnslepper</l> OBS
-      <l pos="N">skamlepper</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">unna tsinnabaksima (fl.)</t> OBS
+      <t pos="N">vuojddat</t>
     </tg>
     </mg>
   </e>
@@ -12910,10 +12997,12 @@
       <t pos="V">garijdit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">snurkket</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">snurrat</t>
     </tg>
@@ -12922,11 +13011,11 @@
   <e>
     <lg>
       <l pos="N">snue</l>
-      <l pos="V">ha snue</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">snuobas liehket</t> OBS
+            <re>ha snue</re>
+      <t pos="Phrase">snuobas liehket</t> 
     </tg>
     </mg>
   </e>
@@ -12942,10 +13031,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">snufse (pga. forkjølelse)</l> OBS
+      <l pos="V">snufse</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>pga. forkjølelse</re>
       <t pos="V">snuduhit</t>
     </tg>
     </mg>
@@ -13034,10 +13124,10 @@
   <e>
     <lg>
       <l pos="V">sovne</l>
-      <l pos="V">legge seg for natta</l> OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>legge seg for natta</re>
       <t pos="V">oaddát</t>
     </tg>
     </mg>
@@ -13062,13 +13152,25 @@
     </tg>
     </mg>
   </e>
+
+  <e>
+    <lg>
+      <l pos="A">avhengig</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+              <re>bli avhengig</re>
+      <t pos="V">báddnut</t>
+    </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="A">spilleavhengig</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">spellamij báddnum</t> OBS
+      <t pos="Phrase">spellamij báddnum</t>
     </tg>
     </mg>
   </e>
@@ -13081,10 +13183,16 @@
       <t pos="N">bårråt</t>
     </tg>
     </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>spise med skje</re>
+      <t pos="V">gadtsat</t>
+    </tg>
+    </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">spise med skje</l>OBS
+      <l pos="Phrase">spise med skje</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -13104,11 +13212,28 @@
   </e>
   <e>
     <lg>
-      <l pos="N">spissen av brystbeinet</l> OBS
+      <l pos="Phrase">spissen av brystbeinet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">mielgganjunnje</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">abort</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>spontan</re>
+      <t pos="N">tsuovkkanibme</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>provosert</re>
+      <t pos="N">tsuovkkanahttem</t>
     </tg>
     </mg>
   </e>
@@ -13121,6 +13246,7 @@
       <t pos="N">tsuovkkanibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">dieverdibme</t>
     </tg>
@@ -13128,10 +13254,21 @@
   </e>
   <e>
     <lg>
-      <l pos="V">spre seg (om sykdom)</l> OBS
+      <l pos="Phrase">forårsake abort</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+      <t pos="V">tsuovkkanahttet</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="V">spre seg</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>om sykdom</re>
       <t pos="V">oabllot</t>
     </tg>
     </mg>
@@ -13186,13 +13323,9 @@
       <t pos="V">tjålggåt</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">spytte (en gang)</l> OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>en gang</re>
       <t pos="N">tjålggådit</t>
     </tg>
     </mg>
@@ -13226,6 +13359,7 @@
       <t pos="N">stajgukvuohta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">stuovesvuohta</t>
     </tg>
@@ -13234,9 +13368,9 @@
   <e>
     <lg>
       <l pos="V">stamme</l>
-      <l pos="V">stotre</l>
     </lg>
     <mg>
+      <l_ref>stotre_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">mahkkulit</t>
     </tg>
@@ -13248,16 +13382,12 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="A">guohtsa</t>
+      <t pos="N">guohtsa</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">stank</l>OBS
-      <l pos="N">gammel svettlukt</l>OBS
-   </lg>
+   <mg>
     <tg xml:lang="smj">
+            <re>gammel svettlukt</re>
       <t pos="N">tjivra</t>
     </tg>
     </mg>
@@ -13271,6 +13401,7 @@
       <t pos="N">jiednabádde</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">jiednasnárttjá</t>
     </tg>
@@ -13305,6 +13436,7 @@
       <t pos="N">tjuogga</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjuokkes</t>
     </tg>
@@ -13319,44 +13451,35 @@
       <t pos="V">tjuoggot</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">stikke (en gang)</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>en gangs</re>
       <t pos="V">tjuoggit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">stikke hull på</l>OBS
+      <l pos="Phrase">stikke hull på</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="V">bedat</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">rájggat</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">stikkende smerte</l>OBS
+      <l pos="Phrase">stikkende smerte</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">båskådahka</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">tjoajvvegåttuldahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjuokkudahka</t>
     </tg>
@@ -13364,10 +13487,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stikkende verk</l>OBS
+      <l pos="Phrase">verk</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>stikkende</re>
       <t pos="N">vuojsadahka</t>
     </tg>
     </mg>
@@ -13384,22 +13508,32 @@
   </e>
   <e>
     <lg>
-      <l pos="V">stille blod</l>
-      <l pos="V">stoppe blod</l>
+      <l pos="Phrase">stille blod</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+   <tg xml:lang="smj">
       <t pos="V">giellodit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sting (i siden)</l>OBS
+      <l pos="V">stoppe blod</l>
+    </lg>
+    <mg>
+   <tg xml:lang="smj">
+      <t pos="V">giellodit</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">sting</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjuojkkuldahka</t>
+             <re>i siden</re>
+     <t pos="N">tjuojkkuldahka</t>
     </tg>
     </mg>
   </e>
@@ -13412,6 +13546,7 @@
       <t pos="V">guohtsijdit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">tjivrijdit</t>
     </tg>
@@ -13420,10 +13555,10 @@
   <e>
     <lg>
       <l pos="A">stiv</l>
-      <l pos="A">støl</l>
-      <l pos="A">lemster</l>
     </lg>
     <mg>
+      <l_ref>støl_n</l_ref>
+      <l_ref>lemster_n</l_ref>
     <tg xml:lang="smj">
       <t pos="A">gasjkos</t>
     </tg>
@@ -13435,42 +13570,29 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">ábnasmålssom alla ábnasmålssom høyt stoffskifte</t> OBS
+      <t pos="N">ábnasmålssom </t>
+        <xg>
+          <x>lavt stoffskifte</x>
+          <xt>vuollegis ábnasmålssom</xt>
+        </xg>
+        <xg>
+          <x>høyt stoffskifte</x>
+          <xt>alla ábnasmålssom </xt>
+        </xg>
     </tg>
     </mg>
-    <tg xml:lang="smj">
-      <t pos="N">vuollegis ábnasmålssom lavt stoffskifte</t>OBS
-    </tg>
-    </mg>
-  </e>
+   </e>
   <e>
     <lg>
-      <l pos="N">stomi</l>
+      <l pos="N">stoppe</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">stomiddja</t>
-      <t pos="N">stomijja</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">stoppe blødning/blod</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">ganugahttet, ­-gahtáv varddemav</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">store skamlepper</l> OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">stuorra tsinnabaksima (fl.)</t>OBS
+      <t pos="N">ganugahttet</t>
+        <xg>
+          <x>Jeg stopper blødning/blod</x>
+          <xt>Ganugahtáv varddemav</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -13523,6 +13645,7 @@
       <t pos="N">diertjeguddam</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">diertjestibme</t>
     </tg>
@@ -13537,6 +13660,7 @@
       <t pos="V">diertjeguddat</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">diertjestit</t>
     </tg>
@@ -13544,11 +13668,15 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stressende arbeid</l>OBS
+      <l pos="V">stressende</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">diertjestahtte barggo</t> OBS
+      <t pos="V">diertjestahtte</t>
+        <xg>
+          <x>stressende arbeid</x>
+          <xt>diertjestahtte barggo</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -13594,11 +13722,12 @@
   </e>
   <e>
     <lg>
-      <l pos="V">stråle (smerte i arm eller fot)</l>OBS
+      <l pos="V">stråle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">hieddit</t>
+             <re>smerte i arm eller fot</re>
+     <t pos="V">hieddit</t>
     </tg>
     </mg>
   </e>
@@ -13614,10 +13743,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">strålesmerte (stråling)</l>OBS
+      <l pos="N">strålesmerte</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>stråling</re>
       <t pos="N">hiedde</t>
     </tg>
     </mg>
@@ -13644,11 +13774,20 @@
   </e>
   <e>
     <lg>
-      <l pos="N">stær (øyesykdom)</l>OBS
+      <l pos="N">stær</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">ligge</t>
+              <re>øyesykdom</re>
+    <t pos="N">ligge</t>
+         <xg>
+          <x>grønn stær</x>
+          <xt>ruodnáligge</xt>
+        </xg>
+        <xg>
+          <x>grå stær</x>
+          <xt>rávvisligge</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -13661,6 +13800,7 @@
       <t pos="N">nulsastahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">nulssem</t>
     </tg>
@@ -13759,41 +13899,47 @@
   </e>
   <e>
     <lg>
-      <l pos="A">sunt (menneske)</l>OBS
+      <l pos="A">sunt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>menneske</re>
       <t pos="A">lassjuk</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">surhet(sgrad)</l>OBS
+      <l pos="N">surhet</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>surhetsgrad</re>
       <t pos="N">suvrrudahka</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">surkle i brystet</l>
-      <l pos="N">ij saggi ikke surkle i brystet</l>OBS
+      <l pos="V">surkle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>i brystet</re>
       <t pos="V">saggit</t>
+        <xg>
+          <x>det surkler ikke i brystet</x>
+          <xt>ij saggi</xt>
+        </xg>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="V">sutre</l>
-      <l pos="V">syte</l>
     </lg>
     <mg>
+      <l_ref>syte_v</l_ref>
     <tg xml:lang="smj">
       <t pos="V">njimmurit</t>
     </tg>
@@ -13811,7 +13957,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svamplege i penis</l>OBS
+      <l pos="Phrase">svamplege i penis</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -13836,16 +13982,20 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="A">hæbodibme</t>
+       <xg>
+          <x>svekket allmenntilstand</x>
+          <xt>hæbodis varresvuohta</xt>
+        </xg>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">svekket allmenntilstand</l>OBS
+      <l pos="Phrase">svekket allmenntilstand</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">hæbodis varresvuohta</t>OBS
+      <t pos="Phrase">hæbodis varresvuohta</t>
     </tg>
     </mg>
   </e>
@@ -13858,6 +14008,7 @@
       <t pos="N">njieladahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">njiello</t>
     </tg>
@@ -13870,10 +14021,10 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="V">njiellat</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
-      <t pos="V">njiellat ållåsin svelge hel</t>OBS
+         <xg>
+          <x>svelge hel</x>
+          <xt>njiellat ållåsin</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -13919,21 +14070,19 @@
   </e>
   <e>
     <lg>
-      <l pos="N">svie (smerte)</l>OBS
+      <l pos="N">svie</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>smerte</re>
       <t pos="N">gihpo</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">svijddim</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">svime av</l>
+      <l pos="Phrase">svime av</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -13963,10 +14112,11 @@
   </e>
   <e>
     <lg>
-      <l pos="V">svulme (om mage pga gass)</l>OBS
+      <l pos="V">svulme</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>om mage pga gass</re>
       <t pos="V">riggat</t>
     </tg>
     </mg>
@@ -13990,25 +14140,15 @@
       <t pos="A">skibás</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">syk</l>
-      <l pos="V">bli syk</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>bli syk</re>
       <t pos="V">skihppát</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="A">syk</l>
-      <l pos="V">være syk</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>være syk</re>
       <t pos="V">skihpat</t>
     </tg>
     </mg>
@@ -14020,15 +14160,30 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">vihke</t>
+        </tg>
+    </mg>  
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">skihpudahka</t>
+        <xg>
+          <x>kronisk sykdom</x>
+          <xt>bisso skihpudahka</xt>
+        </xg>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">dávdda</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">sykdom (alvorlig sykdom)</l>OBS
+      <l pos="N">sykdom</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>alvorlig sykdom</re>
       <t pos="N">dávdda</t>
     </tg>
     </mg>
@@ -14046,10 +14201,10 @@
   <e>
     <lg>
       <l pos="N">sykdomstegn</l>
-      <l pos="N">symptom</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>symptom_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">dávddamærkka</t>
     </tg>
     </mg>
@@ -14063,6 +14218,7 @@
       <t pos="N">guottádahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">guottáldahka</t>
     </tg>
@@ -14101,9 +14257,9 @@
   <e>
     <lg>
       <l pos="N">sykeleie</l>
-      <l pos="N">sykeseng</l>
     </lg>
     <mg>
+      <l_ref>sykeseng_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">skihpaláhtjo</t>
     </tg>
@@ -14125,7 +14281,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">skihppen tjáledit</t>obs
+      <t pos="Phrase">skihppen tjáledit</t>
     </tg>
     </mg>
   </e>
@@ -14135,7 +14291,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">skihppen tjáledibme</t>obs
+      <t pos="Phrase">skihppen tjáledibme</t>
     </tg>
     </mg>
   </e>
@@ -14146,6 +14302,24 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">skihppijsujtár</t>
+        <xg>
+          <x>psykiatrisk sykepleier</x>
+          <xt>psykiatrijjalasj skihppijsujtár</xt>
+        </xg>
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="A">psykiatrisk</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="A">psykiatrijjalasj</t>
+         <xg>
+          <x>psykiatrisk sykepleier</x>
+          <xt>psykiatrijjalasj skihppijsujtár</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -14172,11 +14346,16 @@
   <e>
     <lg>
       <l pos="N">syn</l>
-      <l pos="V">ha dårlig syn</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">tjalmijs liehket</t>OBS
+      <t pos="N">vuojnno</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+             <re>ha dårlig syn</re>
+      <t pos="V">tjalmijs liehket</t>
     </tg>
     </mg>
   </e>
@@ -14196,7 +14375,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="A">suvrrehuhtte</t>OBS PRCPRS
+      <t pos="V">suvrrehuhtte</t> 
     </tg>
     </mg>
   </e>
@@ -14240,6 +14419,7 @@
       <t pos="N">sujtárviehkke</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">viehkkegavlla</t>
     </tg>
@@ -14295,6 +14475,7 @@
       <t pos="N">hávvesálvva</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">hávvevuojdas</t>
     </tg>
@@ -14306,7 +14487,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">ruobbe, ruoppe</t>
+      <t pos="N">ruobbe</t>
     </tg>
     </mg>
   </e>
@@ -14322,21 +14503,12 @@
   </e>
   <e>
     <lg>
-      <l pos="V">ta av seg (klesplagg)</l> OBS
+      <l pos="Phrase">ta av seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">nuollat, nuolav</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">ta medisin</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">bårråt dálkkasav</t>
+             <re>klesplagg</re>
+      <t pos="V">nuollat</t>
     </tg>
     </mg>
   </e>
@@ -14503,16 +14675,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">testikler</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">vuollevájmo (pl.)</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">tidligvakt</l>
     </lg>
     <mg>
@@ -14540,6 +14702,7 @@
       <t pos="N">gehta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gedásj</t>
     </tg>
@@ -14574,6 +14737,7 @@
       <t pos="N">gierddisvuohta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">toleránssa</t>
     </tg>
@@ -14682,10 +14846,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">trapp(oppgang)</l>OBS
+      <l pos="N">trapp</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>oppgang</re>
       <t pos="N">tráhppa</t>
     </tg>
     </mg>
@@ -14800,6 +14965,7 @@
       <t pos="V">ájttet</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">nihttet</t>
     </tg>
@@ -14814,10 +14980,12 @@
       <t pos="N">ájtto</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">nihtto</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">nihtodibme</t>
     </tg>
@@ -14866,11 +15034,11 @@
   <e>
     <lg>
       <l pos="A">trøtt</l>
-      <l pos="A">sliten</l>
     </lg>
     <mg>
+      <l_ref>sliten_a</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">vájbas</t>
+      <t pos="A">vájbas</t>
     </tg>
     </mg>
   </e>
@@ -14883,6 +15051,7 @@
       <t pos="N">tuberkulåvsså</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">mielggavihke</t>
     </tg>
@@ -14970,16 +15139,6 @@
   </e>
   <e>
     <lg>
-      <l pos="N">turnus</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">turnus</t>OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">turnuskandidat</l>
     </lg>
     <mg>
@@ -15022,9 +15181,9 @@
   <e>
     <lg>
       <l pos="N">tvangsinnleggelse</l>
-      <l pos="N">tvangsinnskriving</l>
     </lg>
     <mg>
+      <l_ref>tvangsinnskriving_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">nággotjáledibme</t>
     </tg>
@@ -15033,10 +15192,10 @@
   <e>
     <lg>
       <l pos="N">tvil</l>
-      <l pos="N">usikkerhet</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>usikkerhet_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">juorre</t>
     </tg>
     </mg>
@@ -15053,21 +15212,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tyfus</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">tyfus</t>OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
       <l pos="N">tygge</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">suosskat, suoskav</t>
+      <t pos="N">suosskat</t>
     </tg>
     </mg>
   </e>
@@ -15113,7 +15262,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tyntflytende væske</l>OBS
+      <l pos="Phrase">tyntflytende væske</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -15130,10 +15279,12 @@
       <t pos="V">urmagahttet</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">urmeduhttet</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">urmastit</t>
     </tg>
@@ -15141,47 +15292,38 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tørke (ut inn)</l>OBS
-      <l pos="V">bli tørr</l>
+      <l pos="V">tørke</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>bli tørr (tørke ut/inn)</re>
       <t pos="V">gåjkkåt</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">tørke</l>
-      <l pos="V">gjøre tørr</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>gjøre tørr</re>
       <t pos="V">gåjkkådit</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">gåjkkit</t>
     </tg>
     </mg>
   </e>
+
   <e>
     <lg>
-      <l pos="N">tørr hud</l>OBS
+      <l pos="A">tørr</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gåjkke lijkke</t>OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">tørr luft</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">gåjkke ájmmo</t>
+      <t pos="A">gåjkes</t>
+        <xg>
+          <x>tørr hud</x>
+          <xt>gåjkke lijkke</xt>
+        </xg>
+        <xg>
+          <x>tørr luft</x>
+          <xt>gåjkke ájmmo</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -15197,12 +15339,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tørst</l>
-      <l pos="V">være tørst</l>
+      <l pos="A">tørst</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">gåjkkåmin liehket</t>OBS
+            <re>være tørst</re>
+      <t pos="Phrase">gåjkkåmin liehket</t>
     </tg>
     </mg>
   </e>
@@ -15213,6 +15355,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>være tørst</re>
       <t pos="V">gåjkkåt</t>
     </tg>
     </mg>
@@ -15239,12 +15382,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">tåle</l>
-      <l pos="N">utstå</l>
+      <l pos="V">tåle</l>
     </lg>
     <mg>
+      <l_ref>utstå_v</l_ref>
     <tg xml:lang="smj">
-      <t pos="N">gierddat</t>
+      <t pos="V">gierddat</t>
     </tg>
     </mg>
   </e>
@@ -15275,6 +15418,14 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">ganjálkanálla</t>
+        <xg>
+          <x>nedre tårekanal</x>
+          <xt>vuolep ganjálkanálla</xt>
+        </xg>
+        <xg>
+          <x>øvre tårekanal</x>
+          <xt>bajep ganjálkanálla</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -15367,6 +15518,7 @@
       <t pos="N">tsuohpe</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">vuollevájmmo</t>
     </tg>
@@ -15381,6 +15533,7 @@
       <t pos="V">åtsådit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">guoradallat</t>
     </tg>
@@ -15399,14 +15552,11 @@
   <e>
     <lg>
       <l pos="N">undersøkelse</l>
-      <l pos="N">utreding</l>
     </lg>
-    <mg>
+       <l_ref>utreding_n</l_ref>
+   <mg>
     <tg xml:lang="smj">
       <t pos="N">guoradallam</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">åtsådallam</t>
     </tg>
     </mg>
@@ -15454,9 +15604,9 @@
   <e>
     <lg>
       <l pos="N">urinrør</l>
-      <l pos="N">urinleder</l>
     </lg>
     <mg>
+      <l_ref>urinleder_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gådtjåbåhttså</t>
     </tg>
@@ -15491,6 +15641,7 @@
       <t pos="N">juhtsa</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">stuojmme</t>
     </tg>
@@ -15499,9 +15650,9 @@
   <e>
     <lg>
       <l pos="N">uro</l>
-      <l pos="N">konflikt</l>
     </lg>
     <mg>
+      <l_ref>konflikt_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">rijddo</t>
     </tg>
@@ -15520,10 +15671,10 @@
   <e>
     <lg>
       <l pos="N">usikker</l>
-      <l pos="V">være usikker</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>være usikker<</re>
       <t pos="V">juorrulit</t>
     </tg>
     </mg>
@@ -15537,14 +15688,21 @@
       <t pos="N">juorrulibme</t>
     </tg>
     </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>skape usikkerhet</re>
+      <t pos="V">juorrulahttet</t>
+    </tg>
+    </mg>
   </e>
+
   <e>
     <lg>
       <l pos="A">utbrent</l>
-      <l pos="V">bli utbrent</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>bli utbrent</re>
       <t pos="V">hæsoduvvat</t>
     </tg>
     </mg>
@@ -15572,11 +15730,11 @@
   <e>
     <lg>
       <l pos="A">utmattet</l>
-      <l pos="V">bli utmattet</l>OBS
-      <l pos="V">bli kraftløs</l>OBS
     </lg>
     <mg>
+      <l_ref>kraftløs_a</l_ref>
     <tg xml:lang="smj">
+            <re>bli utmattet/kraftløs</re>
       <t pos="V">fámoduvvat</t>
     </tg>
     </mg>
@@ -15610,6 +15768,7 @@
       <t pos="N">dårvodisvuohta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">iehpedårvvo</t>
     </tg>
@@ -15617,39 +15776,35 @@
   </e>
   <e>
     <lg>
-      <l pos="N">utslett (lite)</l>OBS
+      <l pos="N">utslett</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">rivva</t>
+             <re>lite</re>
+     <t pos="N">rivva</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
       <l pos="N">utslett</l>
-      <l pos="N">eksem</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>eksem_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">rusjmas</t>
-    </tg>
-    </mg>
-     <tg xml:lang="smj">
       <t pos="N">russjme</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="N">eksiebma</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">utsondre (sekret/materie)</l>OBS
+      <l pos="V">utsondre</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>sekret/materie</re>
       <t pos="V">sájveldit</t>
     </tg>
     </mg>
@@ -15663,6 +15818,7 @@
       <t pos="N">nuosskudahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">skiegesvuohta</t>
     </tg>
@@ -15687,6 +15843,7 @@
       <t pos="V">åvddånahttet</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">åvdedit</t>
     </tg>
@@ -15694,17 +15851,24 @@
   </e>
   <e>
     <lg>
-      <l pos="V">utvikle seg</l>OBS
+      <l pos="V">utvikle</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>utvikle</re>
+      <t pos="V">åvddånahttet</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>utvikle seg</re>
       <t pos="V">åvddånit</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">utvortes medisin</l> OBS
+      <l pos="Phrase">utvortes medisin</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -15715,21 +15879,11 @@
   <e>
     <lg>
       <l pos="A">uvirksom</l>
-      <l pos="A">inaktiv</l>
     </lg>
     <mg>
+      <l_ref>inaktiv_a</l_ref>
     <tg xml:lang="smj">
       <t pos="A">dåjmagahtes</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">vagina</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">tsinnadåhppå</t>OBS
     </tg>
     </mg>
   </e>
@@ -15813,6 +15967,7 @@
       <t pos="N">gåhpålahka</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">gåhpålis</t>
     </tg>
@@ -15820,21 +15975,21 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vannkopper</l>OBS
+      <l pos="N">vannkopper</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjáhtjeskuovle (fl.)</t>OBS
+      <t pos="N" nr="Pl">tjáhtjeskuovle</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">vannlatingsproblemer</l>OBS
+      <l pos="N">vannlatingsproblem</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">gådtjåmgássjelisvuoda</t>OBS
+      <t pos="N">gådtjåmgássjelisvuohta</t>
     </tg>
     </mg>
   </e>
@@ -15870,36 +16025,24 @@
   </e>
   <e>
     <lg>
-      <l pos="N">vekt  (person)</l>OBS
+      <l pos="N">vekt</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>person</re>
       <t pos="N">vækta</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">vekt</l>
-      <l pos="V">gå ned i vekt</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>gå ned i vekt</re>
       <t pos="V">gæhppot</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">livvat</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">vekt</l>
-      <l pos="V">gå opp i vekt/legge på seg</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>gå opp i vekt/legge på seg</re>
       <t pos="V">buojddot</t>
       <t pos="V">luoppedit</t>
    </tg>
@@ -15954,6 +16097,17 @@
     </tg>
     </mg>
   </e>
+  
+  <e>
+    <lg>
+      <l pos="Phrase">hudløst vev</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N">njuosskaoadtje</t>
+    </tg>
+    </mg>
+  </e>
   <e>
     <lg>
       <l pos="N">vikar</l>
@@ -15984,16 +16138,7 @@
     </tg>
     </mg>
   </e>
-  <e>
-    <lg>
-      <l pos="N">virus</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">virus</t> OBS
-    </tg>
-    </mg>
-  </e>
+
   <e>
     <lg>
       <l pos="N">virusmedisin</l>
@@ -16030,7 +16175,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">sjaddat, sjattav</t>
+      <t pos="V">sjaddat</t>
     </tg>
     </mg>
   </e>
@@ -16076,24 +16221,18 @@
   </e>
   <e>
     <lg>
-      <l pos="V">vrikke (en fot)</l>OBS
+      <l pos="V">vrikke</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>en fot</re>
       <t pos="V">spæltjádit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">vrikke (ut av ledd)</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>ut av ledd</re>
       <t pos="V">æsjkáldahttet</t>
-    </tg>
-    </mg>
-    <tg xml:lang="smj">
       <t pos="V">æsjkálduhttet</t>
     </tg>
     </mg>
@@ -16111,76 +16250,44 @@
   <e>
     <lg>
       <l pos="A">våken</l>
-      <l pos="V">være våken</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V">gåhtsemin liehket</t>OBS
+             <re>være våken</re>
+      <t pos="V">gåhtsemin liehket</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">våkne (av søvn)</l>OBS
+      <l pos="V">våkne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>av søvn</re>
       <t pos="N">gåhttsåt</t>
       <t pos="N">smaredit</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="V">våkne opp (av narkose)</l>
-    </lg>
     <mg>
     <tg xml:lang="smj">
+              <re>av narkose</re>
       <t pos="V">tjielggat</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="V">våkne opp (av søvn)</l>
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="V">smaredit</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">ytre øre</l>OBS
+      <l pos="Phrase">ytre øre</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">bielljelassta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">bielljesláhpe</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">ytre øyekrok</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">ålgop tjalmmegiehtje</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">ytterste del av anus</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">luogge</t>
     </tg>
     </mg>
   </e>
@@ -16193,6 +16300,7 @@
       <t pos="V">lasedit</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="V">lassánit</t>
     </tg>
@@ -16201,9 +16309,9 @@
   <e>
     <lg>
       <l pos="A">øm</l>
-      <l pos="A">mild</l>
     </lg>
     <mg>
+      <l_ref>mild_a</l_ref>
     <tg xml:lang="smj">
       <t pos="A">lines</t>
     </tg>
@@ -16216,6 +16324,18 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="A">rassje</t>
+    </tg>
+    </mg>
+  </e>
+    <e>
+    <lg>
+      <l pos="A">ør</l>
+    </lg>
+    <mg>
+       <l_ref>omtåket_a</l_ref>
+   <tg xml:lang="smj">
+             <re>bli ør</re>
+      <t pos="V">dajaskuvvat</t>
     </tg>
     </mg>
   </e>
@@ -16232,14 +16352,16 @@
   <e>
     <lg>
       <l pos="N">øre</l>
-      <l pos="N">ytre øre</l>OBS
     </lg>
     <mg>
     <tg xml:lang="smj">
+             <re>ytre øre</re>
       <t pos="N">bielljelassta</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
+            <re>ytre øre</re>
       <t pos="N">bielljesláhpe</t>
     </tg>
     </mg>
@@ -16256,11 +16378,11 @@
   </e>
   <e>
     <lg>
-      <l pos="N">øredråper</l>OBS
+      <l pos="N">øredråper</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">bielljegåjkudisá (fl.)</t>OBS
+      <t pos="N" nr="Pl">bielljegåjkudisá</t>
     </tg>
     </mg>
   </e>
@@ -16271,6 +16393,12 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">bielljegiehtje</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>liten øreflipp</re>
+      <t pos="N">bielljegætjásj</t>
     </tg>
     </mg>
   </e>
@@ -16293,6 +16421,7 @@
       <t pos="N">goabrre</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">bielljegåhpe</t>
     </tg>
@@ -16350,31 +16479,12 @@
   </e>
   <e>
     <lg>
-      <l pos="N">øverste halsvirvel</l>OBS
+      <l pos="N">halsvirvel</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
+            <re>øverste</re>
       <t pos="N">bieddaris</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">øvre tårekanal</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">bajep ganjálkanálla</t>OBS
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">øvre øyelokk</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">badjeramás</t>
     </tg>
     </mg>
   </e>
@@ -16391,10 +16501,10 @@
   <e>
     <lg>
       <l pos="N">øyeeple</l>
-      <l pos="N">øyesten</l>
     </lg>
     <mg>
-    <tg xml:lang="smj">
+       <l_ref>øyesten_n</l_ref>
+   <tg xml:lang="smj">
       <t pos="N">tjalmmegáhkká</t>
     </tg>
     </mg>
@@ -16408,6 +16518,7 @@
       <t pos="N">gulmevuolle</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">tjalmmerájgge</t>
     </tg>
@@ -16420,17 +16531,14 @@
     <mg>
     <tg xml:lang="smj">
       <t pos="N">tjalmmegiehtje</t>
-    </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">øyekrok</l>
-      <l pos="N">ytre øyekrok</l>OBS
-    </lg>
-    <mg>
-    <tg xml:lang="smj">
-      <t pos="N">ålgop tjalmmegiehtje</t>OBS
+        <xg>
+          <x>ytre øyekrok</x>
+          <xt>ålgop tjalmmegiehtje</xt>
+        </xg>
+        <xg>
+          <x>indre øyekrok</x>
+          <xt>sisŋep tjalmmegiehtje</xt>
+        </xg>
     </tg>
     </mg>
   </e>
@@ -16453,24 +16561,37 @@
       <t pos="N">ramás</t>
     </tg>
     </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">øyenbryn</l>OBS
-    </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">tjalmmeguolga</t> OBS
+            <re>øvre øyelokk</re>
+      <t pos="N">badjeramás</t>
+    </tg>
+    </mg>
+    <mg>
+    <tg xml:lang="smj">
+            <re>nedre øyelokk</re>
+      <t pos="N">vuolleramás</t>
     </tg>
     </mg>
   </e>
   <e>
     <lg>
-      <l pos="N">øyevipper</l>OBS
+      <l pos="N">øyenbryn</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">ramásguolga</t>OBS
+      <t pos="N" nr="Pl">tjalmmeguolga</t>
+      <t pos="N" nr="Pl">gulmmeguolga</t>
+    </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">øyevipper</l>
+    </lg>
+    <mg>
+    <tg xml:lang="smj">
+      <t pos="N" nr="Pl">ramásguolga</t>
     </tg>
     </mg>
   </e>
@@ -16503,6 +16624,7 @@
       <t pos="N">várregártjedibme</t>
     </tg>
     </mg>
+    <mg>
     <tg xml:lang="smj">
       <t pos="N">várregártjodus</t>
     </tg>
