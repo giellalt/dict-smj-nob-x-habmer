@@ -140,11 +140,7 @@
     </mg>
   </e>
 -->
-
-
-
-
-<r>
+<r id="nobsmj">
   <e>
     <lg>
       <l pos="V">abortere</l>
@@ -371,6 +367,7 @@
     </tg>
     </mg>
   </e>
+  <e>
     <lg>
       <l pos="N">alzheimer</l>
     </lg>
@@ -936,6 +933,9 @@
        <l_ref>avlastningsring_n</l_ref>
     <tg xml:lang="smj">
       <t pos="N">gæhpádahka</t>
+      </tg>
+      </mg>
+      <mg>
     <tg xml:lang="smj">
              <re>luftring</re>
       <t pos="N">gæhpádisriŋŋgo</t>
@@ -1222,9 +1222,10 @@
     <tg xml:lang="smj">
             <re>lokalt</re>
       <t pos="V">jámedit</t>
+    </tg>
+    <tg>
              <re>narkose</re>
       <t pos="V">jámálguhttet</t>
-    </tg>
     </tg>
     </mg>
   </e>
@@ -1354,6 +1355,7 @@
          </tg>
       </mg>
   </e>
+  <e>
     <lg>
       <l pos="N">bekymring</l>
     </lg>
@@ -1963,7 +1965,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-            <re>ha blodstyrtning<</re>
+            <re>ha blodstyrtning</re>
       <t pos="Phrase">varáv vuokset</t>
     </tg>
     </mg>
@@ -2435,6 +2437,7 @@
       <t pos="N">bulimiddja</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">bulimijja</t>
     </tg>
@@ -2603,10 +2606,12 @@
       <t pos="V">diagnostiserit</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="V">diagnostisierit</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="V">diagnåvssit</t>
     </tg>
@@ -2646,6 +2651,7 @@
       <t pos="N">difteriddja</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">difterijja</t>
     </tg>
@@ -2789,7 +2795,6 @@
           <xt>ferram ulmusj</xt>
         </xg>
         </tg>
-    </mg>
     </mg>
     <mg>
     <tg xml:lang="smj">
@@ -2960,6 +2965,7 @@
           <xt>jámegahtes skihpudahka</xt>
         </xg>
     </tg>
+    </mg>
   </e>
   <e>
     <lg>
@@ -3241,10 +3247,12 @@
       <t pos="N">epidemiddja</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">epidemijja</t>
     </tg>
     </mg>
+    <mg>
    <tg xml:lang="smj">
       <t pos="N">gålggedávdda</t>
     </tg>
@@ -3963,7 +3971,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-            <re>få forstoppelse<</re>
+            <re>få forstoppelse</re>
       <t pos="V">tjiddnut</t>
     </tg>
     </mg>
@@ -4310,6 +4318,7 @@
       <t pos="Pharse">varrásin tjáledibme</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="Phrase">vieddjen tjáledibme</t>
     </tg>
@@ -4454,6 +4463,7 @@
       <t pos="N">fábmálisvuohta</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">doajmmahieredibme</t>
     </tg>
@@ -4587,7 +4597,7 @@
       <t pos="N">vuostasjviehkke</t>
        <xg>
           <x>livreddende førstehjelp</x>
-          <xt>hæggagáddjo vuostasjviehkke<</xt>
+          <xt>hæggagáddjo vuostasjviehkke</xt>
         </xg>
     </tg>
     </mg>
@@ -4831,6 +4841,7 @@
       <t pos="V">dåbddåt</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="V">dåbddågoahtet</t>
     </tg>
@@ -5573,7 +5584,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos=VN">hagŋadit</t>
+      <t pos="V">hagŋadit</t>
     </tg>
     </mg>
   </e>
@@ -6963,6 +6974,7 @@
       <t pos="N">katehtar</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">katiehtar</t>
     </tg>
@@ -7235,6 +7247,7 @@
           <x>små kjønnslepper</x>
           <xt>unna tsinnabaksima </xt>
         </xg>
+        <xg>
           <x>store kjønnslepper</x>
           <xt>stuorra tsinnabaksima </xt>
         </xg>
@@ -7382,6 +7395,7 @@
       <t pos="N">bunno</t>
     </tg>
     </mg>
+    <mg>
      <tg xml:lang="smj">
       <t pos="N">baksimtjuolmma</t>
     </tg>
@@ -7393,7 +7407,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="V>ruohkkat</t>
+      <t pos="V">ruohkkat</t>
     </tg>
     </mg>
   </e>
@@ -8143,6 +8157,7 @@
     </tg>
     </mg>
   </e>
+  <e>
     <lg>
       <l pos="N">lammelse</l>
     </lg>
@@ -8804,7 +8819,7 @@
       <t pos="A">hæggagáddjo</t>
         <xg>
           <x>livreddende førstehjelp</x>
-          <xt>hæggagáddjo vuostasjviehkke<</xt>
+          <xt>hæggagáddjo vuostasjviehkke</xt>
         </xg>
     </tg>
     </mg>
@@ -15675,7 +15690,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-            <re>være usikker<</re>
+            <re>være usikker</re>
       <t pos="V">juorrulit</t>
     </tg>
     </mg>
@@ -16047,6 +16062,7 @@
       <t pos="V">buojddot</t>
       <t pos="V">luoppedit</t>
    </tg>
+   </mg>
   </e>
   <e>
     <lg>
