@@ -351,7 +351,7 @@
     </tg>
     </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="A">alvorlig</l>
@@ -472,7 +472,7 @@
         <xg>
           <x>anabole steroider</x>
           <xt>anabåvlå steroijda</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -486,7 +486,7 @@
         <xg>
           <x>anabole steroider</x>
           <xt>anabåvlå steroijda</xt>
-        </xg>   
+        </xg>
            </tg>
     </mg>
   </e>
@@ -893,7 +893,7 @@
         <xg>
           <x>hard avføring</x>
           <xt>garra bajkka</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -1904,8 +1904,8 @@
         </xg>
     </tg>
     </mg>
-  </e>  
-  
+  </e>
+
   <e>
     <lg>
       <l pos="N">blodpropp</l>
@@ -2330,8 +2330,8 @@
       <t pos="N">mielgganjunnje</t>
     </tg>
     </mg>
-  </e> 
-  
+  </e>
+
   <e>
     <lg>
       <l pos="N">brystkasse</l>
@@ -2760,7 +2760,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">dovne</l> 
+      <l pos="V">dovne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -2787,7 +2787,7 @@
         <xg>
           <x>druknet person</x>
           <xt>ferram ulmusj</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
     </mg>
@@ -2797,7 +2797,7 @@
         <xg>
           <x>druknet person</x>
           <xt>hávkkam ulmusj</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -2950,7 +2950,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">dødelig</l> 
+      <l pos="A">dødelig</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -3059,7 +3059,7 @@
   </e>
   <e>
     <lg>
-      <l pos="A">dårlig</l> 
+      <l pos="A">dårlig</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -3174,7 +3174,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Phrase">en som prater i søvne</l> 
+      <l pos="Phrase">en som prater i søvne</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -4399,7 +4399,7 @@
         <xg>
           <x>fryse i hjel</x>
           <xt>jámas goallot</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -5445,7 +5445,7 @@
   </e>
   <e>
     <lg>
-      <l pos="Phrase">henge seg</l> 
+      <l pos="Phrase">henge seg</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -6620,7 +6620,7 @@
         <xg>
           <x>innkalling til kontroll/spesialist</x>
           <xt>gåhtjulvis kontroallaj/spesialisstaj</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -6636,7 +6636,7 @@
         <xg>
           <x>innlegge på sykhus</x>
           <xt>biedjat/tjáledit skihppijviessuj</xt>
-        </xg> 
+        </xg>
     </tg>
     </mg>
   </e>
@@ -6650,7 +6650,7 @@
         <xg>
           <x>innleggelse på sykhus</x>
           <xt>tjáledibme skihppijviessuj</xt>
-        </xg> 
+        </xg>
     </tg>
     </mg>
   </e>
@@ -7253,7 +7253,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">kjønnsorgan</l> 
+      <l pos="N">kjønnsorgan</l>
     </lg>
     <mg>
        <l_ref>vagina_n</l_ref>
@@ -8506,7 +8506,7 @@
          <xg>
           <x>leve sunt</x>
           <xt>lassjugit viessot</xt>
-        </xg>   
+        </xg>
         </tg>
     </mg>
   </e>
@@ -8600,7 +8600,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">lift</l> 
+      <l pos="N">lift</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -8611,7 +8611,7 @@
   </e>
   <e>
     <lg>
-      <l pos="N">løfter</l> 
+      <l pos="N">løfter</l>
     </lg>
     <mg>
     <tg xml:lang="smj">
@@ -8700,7 +8700,7 @@
         <xg>
           <x>lindre smerte</x>
           <xt>báktjasijt giehpedit</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
   </e>
@@ -8884,7 +8884,7 @@
     </tg>
     </mg>
   </e>
-  
+
       <e>
     <lg>
       <l pos="N">medisin</l>
@@ -8899,7 +8899,7 @@
         <xg>
           <x>smertestillende medisin</x>
           <xt>dálkas báktjasijda</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
     <mg>
@@ -8914,7 +8914,7 @@
       <t pos="Phrase">gæhttjalit dálkkasijt</t>
     </tg>
     </mg>
-  </e> 
+  </e>
   <e>
     <lg>
       <l pos="A">livsviktig</l>
@@ -9745,7 +9745,7 @@
     </tg>
     </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="N">hukommelse</l>
@@ -9756,10 +9756,10 @@
         <xg>
           <x>jeg mister hukommelsen</x>
           <xt>mujtojt láhpáv</xt>
-        </xg>    
+        </xg>
         </tg>
     </mg>
-  </e>  
+  </e>
   <e>
     <lg>
       <l pos="V">miste</l>
@@ -9824,7 +9824,7 @@
     </lg>
     <mg>
     <tg xml:lang="smj">
-      <t pos="N">givseldimgille</t> 
+      <t pos="N">givseldimgille</t>
     </tg>
     </mg>
   </e>
@@ -11447,7 +11447,7 @@
          <xg>
           <x>radioaktiv stråling</x>
           <xt>radioaktijva suonjardibme</xt>
-        </xg>   
+        </xg>
         </tg>
     </mg>
   </e>
@@ -11461,7 +11461,7 @@
          <xg>
           <x>radioaktiv stråling</x>
           <xt>radioaktijva suonjardibme</xt>
-        </xg>  
+        </xg>
     </tg>
     </mg>
   </e>
@@ -11826,7 +11826,7 @@
          <xg>
           <x>ruse seg</x>
           <xt>gárevselgajt adnet</xt>
-        </xg>   
+        </xg>
         </tg>
     </mg>
   </e>
@@ -12541,7 +12541,7 @@
     <mg>
     <tg xml:lang="smj">
              <re>ut (+ elat.)</re>
-     <t pos="V">tjáledit</t> 
+     <t pos="V">tjáledit</t>
     </tg>
     </mg>
   </e>
@@ -12867,7 +12867,7 @@
          <xg>
           <x>smertestillende medisin</x>
           <xt>dálkas báktjasijda</xt>
-        </xg>    
+        </xg>
     </tg>
     </mg>
     <mg>
@@ -13016,7 +13016,7 @@
     <mg>
     <tg xml:lang="smj">
             <re>ha snue</re>
-      <t pos="Phrase">snuobas liehket</t> 
+      <t pos="Phrase">snuobas liehket</t>
     </tg>
     </mg>
   </e>
@@ -14162,7 +14162,7 @@
     <tg xml:lang="smj">
       <t pos="N">vihke</t>
         </tg>
-    </mg>  
+    </mg>
     <mg>
     <tg xml:lang="smj">
       <t pos="N">skihpudahka</t>
@@ -16098,7 +16098,7 @@
     </tg>
     </mg>
   </e>
-  
+
   <e>
     <lg>
       <l pos="Phrase">hudløst vev</l>
@@ -16652,4 +16652,3 @@
     </mg>
   </e>
 </r>
-
