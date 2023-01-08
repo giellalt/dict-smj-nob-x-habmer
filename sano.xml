@@ -124,6 +124,16 @@
       <t pos="N">opium</t>
     </tg>
 </mg>
+  </e> 
+    <e>
+    <lg>
+      <l pos="N">tsinnadåhppå</l>
+    </lg>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="N">vagina</t>
+      </tg>
+    </mg>
   </e> -->
 <r id="smjnob">
   <e>
@@ -14754,16 +14764,6 @@
     <mg>
       <tg xml:lang="nob">
         <t pos="N">skambein</t>
-      </tg>
-    </mg>
-  </e>
-  <e>
-    <lg>
-      <l pos="N">tsinnadåhppå</l>
-    </lg>
-    <mg>
-      <tg xml:lang="nob">
-        <t pos="N">vagina</t>
       </tg>
     </mg>
   </e>
