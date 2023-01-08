@@ -5336,11 +5336,14 @@
     <mg>
       <tg xml:lang="nob">
         <t pos="N">pute</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
         <re>luftring</re>
         <t pos="N">avlastningsring</t>
       </tg>
-    </mg>
-  </e>
+    </mg>  </e>
   <e>
     <lg>
       <l pos="N">gæhpádis</l>
@@ -12904,11 +12907,14 @@
     <mg>
       <tg xml:lang="nob">
         <t pos="V">forstue</t>
-        <re>en fot</re>
-        <t pos="V">vrikke</t>
       </tg>
     </mg>
-  </e>
+    <mg>
+      <tg xml:lang="nob">
+        <t pos="V">vrikke</t>
+        <re>en fot</re>
+      </tg>
+    </mg>  </e>
   <e>
     <lg>
       <l pos="N">stáddá</l>
@@ -13433,6 +13439,11 @@
       <tg xml:lang="nob">
         <t pos="V">avta</t>
         <re>om sykdom</re>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>om sykdom</re>
         <t pos="Phrase">gå over</t>
       </tg>
     </mg>
@@ -13666,14 +13677,18 @@
     </lg>
     <mg>
       <tg xml:lang="nob">
-        <re>+ elativ</re>
-        <t pos="V">skrive ut</t>
         <re>+ illativ</re>
         <t pos="V">skrive inn</t>
         <xg>
           <x>tjáledit skihppijviessuj</x>
           <xt>legge inn på sykhus</xt>
         </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+        <re>+ elativ</re>
+        <t pos="V">skrive ut</t>
       </tg>
     </mg>
   </e>
@@ -14531,7 +14546,7 @@
   </e>
   <e>
     <lg>
-      <l pos="V">tjålggådit. </l>
+      <l pos="V">tjålggådit</l>
     </lg>
     <mg>
       <l_ref>tjålggåt_v</l_ref>

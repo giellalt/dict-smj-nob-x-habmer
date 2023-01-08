@@ -1001,6 +1001,10 @@
       <tg xml:lang="smj">
         <re>om feber og smerte</re>
         <t pos="V">luojttet</t>
+      </tg>
+    </mg>
+     <mg>
+      <tg xml:lang="smj">
         <re>gå over (om sykdom)</re>
         <t pos="V">svijggat</t>
       </tg>
@@ -1222,11 +1226,13 @@
         <re>lokalt</re>
         <t pos="V">jámedit</t>
       </tg>
+    </mg>
+    <mg>
       <tg>
         <re>narkose</re>
         <t pos="V">jámálguhttet</t>
       </tg>
-    </mg>
+    </mg> 
   </e>
   <e>
     <lg>
